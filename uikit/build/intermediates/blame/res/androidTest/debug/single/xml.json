@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\provider_paths.xml",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    }
+]

@@ -1,0 +1,147 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
+//apply plugin: 'com.aliyun.ams.emas-services'
+apply plugin: 'bugly'
+apply plugin: 'com.antfortune.freeline'
+
+bugly {
+    appId = '72344a801d' // 注册时分配的App ID
+    appKey = '4cb00390-1b5a-4fde-85c6-fa7a0068f246' // 注册时分配的App Key
+    debug = true
+}
+
+android {
+    signingConfigs {
+        release {
+            keyAlias 'sanqin_keystore'
+            keyPassword 'pbids2008'
+            storeFile file('../sanqin_keystore.jks')
+            storePassword 'pbids2008'
+        }
+    }
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    defaultConfig {
+        applicationId "com.pbids.sanqin"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.appTargetSdkVersion
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
+        multiDexEnabled true
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "mips" ,"mips64" ,"x86","x86_64"
+        }
+        javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    greendao {
+        schemaVersion 23 //版本信息
+        /**
+         * 输出dao的数据库操作实体类文件夹（相对路径 包名+自定义路径名称，包将创建于包名的直接路径下）
+         */
+        daoPackage 'com.pbids.sanqin.model.entity'
+        /**
+         * greenDao实体类包文件夹
+         */
+        targetGenDir 'src/main/java'
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    //buildToolsVersion '27.0.3'
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+}
+
+dependencies {
+
+    //    implementation 'com.android.support:multidex:1.0.2'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation project(path: ':uikit')
+
+    //图片加载库Glide
+
+    //注解库，用于快速绑定控件
+
+    //okgo框架，包括okrx
+
+    //greenDao库，用于快速集成数据库操作
+
+    //RxAndroid，用于支持okgo
+
+    //PickerView，仿ios选择器
+
+    //Gson，json解析库
+    compile files('libs/zxing_core_3.3.2.jar')
+    compile project(':fragmentation')
+    compile project(':fragmentation_swipeback')
+    compile project(':okgo')
+    compile project(':okrx2')
+    compile project(':okserver')
+
+    // EventBus
+    compile project(':eventbus_activity_scope')
+    api "com.android.support:appcompat-v7:${V7_APPCOMPAT_VERSION}"
+    api "com.android.support:support-v4:${V4_SUPPORT_VERSION}"
+    api "com.android.support.constraint:constraint-layout:${CONSTRAIT_SUPPORT_VERSION}"
+    api "com.android.support:recyclerview-v7:${RECYCLER_VIEW_SUPPORT_VERSION}"
+    api "com.github.bumptech.glide:glide:${BUMPTECH_GLIDE_VERSION}"
+    api "com.jakewharton:butterknife:${BUTTERKNIFE_VERSION}"
+
+    //  compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile "org.greenrobot:greendao:${GREENDAO_VERSION}"
+    compile 'com.google.code.gson:gson:2.8.2'
+    compile "org.greenrobot:eventbus:${EVENTBUS_VERSION}"
+    testCompile 'junit:junit:4.12'
+    compile files('libs/alipaySdk-20170922.jar')
+    compile 'com.yqritc:recyclerview-flexibledivider:1.4.0'
+    compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+    compile 'com.github.bumptech.glide:okhttp3-integration:1.5.0'
+    compile files('libs/sun.misc.BASE64Decoder.jar')
+    compile project(path: ':pickerview')
+    compile 'joda-time:joda-time:2.9.4'
+    compile project(path: ':library')
+    compile files('libs/AndroidSwipeLayout-v1.1.8.jar')
+    compile files('libs/AMap2DMap_5.2.0_AMapSearch_6.1.0_AMapLocation_4.1.0_20180619.jar')
+
+
+    //wxchat
+    implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:+'
+
+    // 阿里 移动推送
+    implementation(name: 'alicloud-android-push-3.1.3', ext: 'aar')
+
+    //Bugly
+
+    //其中latest.release指代最新Bugly SDK版本号，也可以指定明确的版本号，例如2.2.0
+    compile 'com.tencent.bugly:crashreport:latest.release'
+
+    //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.0
+    compile 'com.tencent.bugly:nativecrashreport:latest.release'
+    implementation project(path: ':avchatkit')
+    implementation project(path: ':alertview')
+}

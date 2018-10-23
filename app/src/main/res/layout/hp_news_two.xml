@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:padding="@dimen/homepage_news_margin_left">
+        <include
+            layout="@layout/hp_news__top"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"></include>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/dp_10"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/home_im_second_play_bg"
+                android:layout_width="@dimen/dp_346"
+                android:layout_height="@dimen/dp_208"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="fitXY"
+                />
+
+            <ImageView
+                android:id="@+id/home_im_second_play"
+                android:layout_width="@dimen/dp_100"
+                android:layout_height="@dimen/dp_100"
+                android:layout_gravity="center"
+                android:src="@drawable/information_icon_play_default"/>
+        </FrameLayout>
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/hp_news_bottom"></include>
+    </LinearLayout>
+
+    <!--<include layout="@layout/hp_news_more"-->
+        <!--android:visibility="gone"></include>-->
+    <View
+        android:id="@+id/home_item_decoration"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_5"
+        android:background="@color/main_status_color"></View>
+</LinearLayout>

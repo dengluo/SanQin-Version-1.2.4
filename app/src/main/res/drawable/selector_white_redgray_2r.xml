@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:drawable="@drawable/shape_red_gray_2r"></item>
+    <!--<item_zq_choose_group android:state_focused="false" android:drawable="@drawable/shape_white_gray_2r"></item_zq_choose_group>-->
+    <item android:state_window_focused="false" android:drawable="@drawable/shape_white_gray_2r"></item>
+
+</selector>

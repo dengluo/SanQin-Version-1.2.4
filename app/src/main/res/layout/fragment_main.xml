@@ -1,0 +1,95 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pbids.sanqin.ui.activity.MainFragment">
+
+    <FrameLayout
+        android:id="@+id/fl_tab_container"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/dp_50"
+        android:layout_height="match_parent"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_54" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentBottom="true">
+            <!--    android:background="#ff0000"-->
+
+            <View
+                android:id="@+id/hp_vp_name_top_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></View>
+
+            <FrameLayout
+                android:id="@+id/hp_vp_name_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <!--博古架 -->
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/hp_vp_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_312" />
+
+                <!--左按钮 -->
+                <LinearLayout
+                    android:id="@+id/hp_vp_name_left_layout"
+                    android:layout_width="@dimen/dp_20"
+                    android:layout_height="@dimen/dp_40"
+                    android:gravity="center_horizontal"
+                    android:visibility="gone"
+                    android:layout_gravity="center_vertical|left">
+
+                    <Button
+                        android:id="@+id/hp_vp_name_left_bt"
+                        android:layout_width="@dimen/dp_13"
+                        android:layout_height="@dimen/dp_18"
+                        android:layout_marginLeft="@dimen/dp_7"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_gravity="center_vertical|left"
+                        android:background="@drawable/hp_vp_name_left" />
+
+                </LinearLayout>
+
+                <!--右按钮 -->
+                <LinearLayout
+                    android:id="@+id/hp_vp_name_right_layout"
+                    android:layout_width="@dimen/dp_20"
+                    android:layout_height="@dimen/dp_40"
+                    android:visibility="gone"
+                    android:gravity="center_horizontal"
+                    android:layout_marginRight="@dimen/dp_5"
+                    android:layout_gravity="center_vertical|right">
+
+                    <Button
+                        android:id="@+id/hp_vp_name_right_bt"
+                        android:layout_width="@dimen/dp_13"
+                        android:layout_height="@dimen/dp_18"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_gravity="center_vertical|right"
+                        android:background="@drawable/hp_vp_name_right" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.pbids.sanqin.ui.view.BottomBarView
+        android:id="@+id/main_bottom_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom" />
+
+
+
+</FrameLayout>

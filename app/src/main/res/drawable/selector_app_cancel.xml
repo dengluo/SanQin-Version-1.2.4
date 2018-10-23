@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item_zq_choose_group android:drawable="@drawable/shape_deepgray_no_2r" android:state_pressed="false"></item_zq_choose_group>-->
+    <item android:drawable="@drawable/shape_weakgray_no_2r"></item>
+</selector>

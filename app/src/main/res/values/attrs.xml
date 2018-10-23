@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <declare-styleable name="WarpLinearLayout">
+        <attr name="grivate" format="enum"><!--对齐方式 !-->
+            <enum name="right" value="0"></enum>
+            <enum name="left" value="1"></enum>
+            <enum name="center" value="2"></enum>
+        </attr>
+        <attr name="horizontal_Space" format="dimension"></attr>
+        <attr name="vertical_Space" format="dimension"></attr>
+        <attr name="isFull" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="AutoScrollViewPager">
+
+        <attr name="point_layout" format="string"></attr>
+
+    </declare-styleable>
+    <declare-styleable name="WeekBarView">
+        <attr name="week_text_color" format="color"/>
+        <attr name="week_text_size" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="MonthCalendarView">
+        <attr name="month_selected_text_color" format="color"/>
+        <attr name="month_selected_circle_color" format="color"/>
+        <attr name="month_selected_circle_today_color" format="color"/>
+        <attr name="month_normal_text_color" format="color"/>
+        <attr name="month_today_text_color" format="color"/>
+        <attr name="month_lunar_text_color" format="color"/>
+        <attr name="month_hint_circle_color" format="color"/>
+        <attr name="month_holiday_color" format="color"/>
+        <attr name="month_last_or_next_month_text_color" format="color"/>
+        <attr name="month_day_text_size" format="integer"/>
+        <attr name="month_day_lunar_text_size" format="integer"/>
+        <attr name="month_show_task_hint" format="boolean"/>
+        <attr name="month_show_lunar" format="boolean"/>
+        <attr name="month_show_holiday_hint" format="boolean"/>
+        <attr name="month_count" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="WeekCalendarView">
+        <attr name="week_selected_text_color" format="color"/>
+        <attr name="week_selected_circle_color" format="color"/>
+        <attr name="week_selected_circle_today_color" format="color"/>
+        <attr name="week_normal_text_color" format="color"/>
+        <attr name="week_today_text_color" format="color"/>
+        <attr name="week_hint_circle_color" format="color"/>
+        <attr name="week_holiday_color" format="color"/>
+        <attr name="week_lunar_text_color" format="color"/>
+        <attr name="week_day_text_size" format="integer"/>
+        <attr name="week_day_lunar_text_size" format="integer"/>
+        <attr name="week_show_task_hint" format="boolean"/>
+        <attr name="week_show_lunar" format="boolean"/>
+        <attr name="week_show_holiday_hint" format="boolean"/>
+        <attr name="week_count" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="ScheduleLayout">
+        <attr name="default_view">
+            <enum name="month" value="0"/>
+            <enum name="week" value="1"/>
+        </attr>
+        <attr name="auto_change_month_row" format="boolean"/>
+    </declare-styleable>
+
+    //支付显示密码框
+    <declare-styleable name="PayPsdInputView">
+        <attr name="maxCount" format="integer" />
+        <attr name="circleColor" format="color" />
+        <attr name="bottomLineColor" format="color" />
+        <attr name="radius_" format="dimension" />
+        <attr name="divideLineWidth" format="dimension" />
+        <attr name="divideLineColor" format="color" />
+        <attr name="rectAngle" format="dimension" />
+        <attr name="focusedColor" format="color"/>
+        <attr name="psdType" format="enum">
+            <enum name="weChat" value="0" />
+            <enum name="bottomLine" value="1" />
+            <enum name="verification" value="2" />
+            <enum name="verifiyText" value="3" />
+        </attr>
+    </declare-styleable>
+
+    //密码输入键盘
+    <declare-styleable name="XNumberKeyboardView">
+        <!-- 删除按键的图标 -->
+        <attr name="xnkv_deleteDrawable" format="reference" />
+        <!-- 删除按键图标的宽度 -->
+        <attr name="xnkv_deleteWidth" format="dimension|reference" />
+        <!-- 删除按键图标的高度 -->
+        <attr name="xnkv_deleteHeight" format="dimension|reference" />
+        <!-- 删除按键图标的颜色 -->
+        <attr name="xnkv_deleteBackgroundColor" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="MutiProgress">
+        <attr name="nodesNum" format="integer"/> <!-- 节点数量 -->
+        <attr name="nodeRadius" format="dimension"/>
+        <attr name="progressingDrawable" format="reference"></attr>
+        <attr name="unprogressingDrawable" format="reference" />  <!-- 未完成的节点图标 -->
+        <attr name="progresFailDrawable" format="reference" />
+        <attr name="progresSuccDrawable" format="reference" />
+
+        <attr name="processingLineColor" format="color"></attr>
+        <attr name="currNodeNO" format="integer"></attr>   <!-- 当前所到达的节点编号  0开始计算-->
+        <attr name="currNodeState" format="integer"></attr>   <!-- 当前所到达的节点状态，0：失败  1：成功 -->
+    </declare-styleable>
+
+    <declare-styleable name="SwipeLayout">
+        <attr name="drag_edge">
+            <flag name="left" value="1" />
+            <flag name="right" value="2" />
+            <flag name="top" value="4" />
+            <flag name="bottom" value="8" />
+        </attr>
+        <attr name="leftEdgeSwipeOffset" format="dimension" />
+        <attr name="rightEdgeSwipeOffset" format="dimension" />
+        <attr name="topEdgeSwipeOffset" format="dimension" />
+        <attr name="bottomEdgeSwipeOffset" format="dimension" />
+        <attr name="show_mode" format="enum">
+            <enum name="lay_down" value="0" />
+            <enum name="pull_out" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

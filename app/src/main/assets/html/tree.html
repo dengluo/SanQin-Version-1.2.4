@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>标签</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" />
+    <link href="./css/base.css" type="text/css" rel="stylesheet" />
+    <script type="/javascript" src="./js/zepto.min.js?v=a2_6"></script>
+</head>
+<style>
+    body { background-color: transparent; overflow: hidden; }
+    img { max-width:100%; }
+    .main_box { width: 100%; height: 100%;  }
+    #main_canvas {  width: 100%;}
+</style>
+<body>
+<div class="main_box no_select">
+    <canvas class="no_select" id="main_canvas" width="640" height="480"></canvas>
+</div>
+<script>
+    var cw = 640;
+    var ch = 480;
+    var memberTextColor = "#ffffff";
+    //var memberArr = [];
+    var rect = {x:115,y:94,w:422-115,h:258-94}
+
+    var mainCanvas = document.getElementById("main_canvas");
+    var ctx= mainCanvas.getContext("2d");
+    //圆
+    function Round (x,y,radius,color,name,fontSize){
+        this.x = x;
+        this.y = y;
+        this.radius = radius;
+        this.color = color;
+        this.name = name;
+        this.ctx = ctx;
+        this.fontSize = fontSize;
+
+        this.drawArc = function(){
+            this.ctx.fillStyle="#80b85c";
+            this.ctx.beginPath();
+            this.ctx.arc(this.x,this.y,this.radius,0,Math.PI*2,true);
+            this.ctx.closePath();
+            this.ctx.fill();
+        };
+
+        this.drawText = function () {
+            this.ctx.fillStyle = this.color;
+            while (true) {
+                this.ctx.font = this.fontSize + 'px Arial';
+                this.tw = ctx.measureText(this.name).width;
+                if (this.tw >= (this.radius * 2) * 0.76) {
+                    this.fontSize -= 1;
+                    if(this.fontSize<2){
+                        break;
+                    }
+                } else {
+                    break;
+                }
+            }
+            this.ctx.fillText(this.name,this.x-this.tw/2,this.y+4 );
+        };
+
+        this.init = function(){
+            this.drawArc();
+            this.drawText();
+        }
+        this.init();
+    }
+
+    var callList = [
+        {
+            name:"爷爷",
+            radius:16,
+            points :[
+                {x:351,y:294,use:false} ,
+                {x:430,y:290,use:false} ,
+            ]
+        },{
+            name:"奶奶",
+            radius:16,
+            points :[
+                {x:221,y:341,use:false} ,
+                {x:270,y:260,use:false} ,
+            ]
+        },{
+            name:"父亲",
+            radius:18,
+            points :[
+                {x:401,y:330,use:false} ,
+                {x:439,y:356,use:false} ,
+            ]
+        },{
+            name:"母亲",
+            radius:18,
+            points :[
+                {x:272,y:352,use:false} ,
+                {x:240,y:305,use:false} ,
+            ]
+        },{
+            name:"叔叔",
+            radius:14,
+            points :[
+                {x:380,y:260,use:false} ,
+                {x:340,y:240,use:false} ,
+                {x:280,y:180,use:false} ,
+                {x:440,y:220,use:false} ,
+            ]
+        },{
+            name:"姑姑",
+            radius:14,
+            points :[
+                {x:480,y:290,use:false} ,
+                {x:180,y:290,use:false} ,
+                {x:220,y:240,use:false} ,
+                {x:320,y:200,use:false} ,
+            ]
+        },{
+            name:"兄弟",
+            radius:12,
+            points :[
+                {x:260,y:120,use:false} ,
+                {x:470,y:160,use:false} ,
+                {x:150,y:330,use:false} ,
+                {x:530,y:310,use:false} ,
+                {x:160,y:260,use:false} ,
+                {x:190,y:150,use:false} ,
+            ]
+        },{
+            name:"姐妹",
+            radius:12,
+            points :[
+                {x:90,y:300,use:false}  ,
+                {x:280,y:60,use:false}  ,
+                {x:198,y:190,use:false} ,
+                {x:420,y:180,use:false} ,
+                {x:530,y: 250,use:false} ,
+                {x:310,y:140,use:false} ,
+            ]
+        }];
+
+
+    //var imgs = ["./img/shuye.png", "./img/shu.png",];
+    var loadArr = [];
+
+    function loadImg (url){
+        var _self = this;
+        this.img = new Image();
+        this.isload = false;
+        this.img.onload  = function(){
+            _self.isload = true;
+            checkLoadComplete();
+        }
+        this.img.src = url;
+        //this.img.src = window.location.b url;
+
+        this.getSrc = function(){
+            return this.img.src;
+        }
+        //console.log("load "+this.img.src);
+    }
+
+    function checkLoadComplete(){
+        var has = true;
+        for(var i=0;i<loadArr.length;i++){
+            if(loadArr[i].isload == false){
+                has = false;
+            }
+        }
+        if(has){
+            console.log("load images complete");
+            ready();
+        }
+    }
+
+    function drawBg(){
+        var img = loadArr[0].img
+        //ctx.drawImage(img,0,0,img.width,img.height,0,0,img.width,img.height);
+        ctx.drawImage(img,(cw-img.width)/2,(ch-img.height)/2 );
+        img = loadArr[1].img
+        ctx.drawImage(img,(cw-img.width)/2,(ch-img.height)/2 );
+    }
+
+
+    function ready(){
+        drawBg();
+        if(window.sanqin){
+            window.sanqin.loadMembers("1");
+        }
+
+//        addMember("母亲");
+//        addMember("母亲");
+//        addMember("姐妹");
+//        addMember("姐妹");
+//        addMember("姐妹");
+//        addMember("爷爷");
+//        addMember("奶奶");
+//        addMember("奶奶");
+//        addMember("爷爷");
+//        addMember("爷爷");
+//        addMember("叔叔");
+//        addMember("叔叔");
+//        addMember("叔叔");
+//        addMember("姑姑");
+//        addMember("姑姑");
+//        clearMember();
+//        addMember("姑姑");
+//        addMember("兄弟");
+//        addMember("母亲");
+        //clearMember();
+        //addMembers("母亲,姑姑,爷爷,兄弟");
+        //addMembers("父亲,父亲,母亲,母亲,");
+        return;
+/*        for(var i=0;i<callList.length;i++){
+            var item = callList[i];
+            var tx = Math.round(Math.random()*400);
+            var ty = Math.round(Math.random()*400);
+            var p = item.points[0];
+
+            for(var k=0;k<item.points.length;k++){
+                var p = item.points[k];
+                var r = Math.round(Math.random()*2)+item.radius;
+                var round = new Round(p.x, p.y,r,memberTextColor,item.name,16);
+                round.type = item.tpye;
+                round.drawArc();
+                round.drawText();
+            }
+            //memberArr.push(round);
+        }*/
+    }
+
+    function clearMember(){
+        ctx.clearRect(0,0,cw,ch);
+        drawBg();
+        for(var i=0;i<callList.length;i++){
+            var item = callList[i];
+            for(var k=0;k<item.points.length;k++) {
+                var p = item.points[k];
+                p.use = false;
+            }
+        }
+    }
+
+    function addItem(item){
+        for(var k=0;k<item.points.length;k++){
+            var p = item.points[k];
+            if (p.use == false) {
+                var r = Math.round(Math.random()*2)+item.radius;
+                var round = new Round(p.x, p.y,r,memberTextColor,item.name,16);
+                round.type = item.tpye;
+                //memberArr.push(round);
+                p.use = true;
+                console.log("add item");
+                return;
+            }
+        }
+        // 如果位置已经用完，随机生成
+        var tx = Math.round(Math.random() * rect.w + rect.x);
+        var ty = Math.round(Math.random() * rect.h + rect.y);
+        var round = new Round(tx, ty,item.radius,memberTextColor,item.name,16);
+        console.log("add random item",tx,ty);
+    }
+
+
+    //添加成员
+    function addMember(member){
+        for(var i=0;i<callList.length;i++){
+            var item = callList[i];
+            if(item.name==member ){
+                console.log("name",member);
+                addItem(item)
+            }
+        }
+    }
+    //添加成员多个
+    function addMembers(members){
+        var arr = members.split(",");
+        //console.log("len",arr.length);
+        for(var i=0;i<arr.length;i++){
+            addMember(arr[i]);
+        }
+    }
+
+    // onload
+    window.onload = function(){
+        //加载图片资源
+        loadArr.push(new loadImg("./img/shuye.png"));
+        loadArr.push(new loadImg("./img/shu.png"));
+
+        mainCanvas.width = cw;
+        mainCanvas.hieght = ch;
+        //console.log(mainCanvas.width,mainCanvas.hieght);
+    }
+</script>
+</body>
+</html>

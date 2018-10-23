@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item_zq_choose_group android:state_selected="false" android:drawable="@color/main_assist_text_color"></item_zq_choose_group>-->
+    <!--<item_zq_choose_group android:state_selected="true" android:drawable="@color/main_remind_color_aother"></item_zq_choose_group>-->
+    <item android:color="@color/main_assist_text_color" android:state_selected="false"></item>
+    <item android:color="@color/main_remind_color_aother" android:state_selected="true"></item>
+</selector>

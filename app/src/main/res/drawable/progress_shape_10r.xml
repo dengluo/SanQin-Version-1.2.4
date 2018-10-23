@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="@dimen/dp_10" />
+            <stroke android:color="@color/main_assist_text_color" android:width="@dimen/dp_0_5"></stroke>
+        </shape>
+    </item>
+
+    <!--<item_zq_choose_group android:id="@android:id/secondaryProgress">-->
+        <!--<clip>-->
+            <!--<shape>-->
+                <!--<corners android:radius="1dip" />-->
+                <!--<gradient-->
+                    <!--android:startColor="#80ffd300"-->
+                    <!--android:centerColor="#80ffb600"-->
+                    <!--android:centerY="0.75"-->
+                    <!--android:endColor="#a0ffcb00"-->
+                    <!--android:angle="270"-->
+                    <!--/>-->
+            <!--</shape>-->
+        <!--</clip>-->
+    <!--</item_zq_choose_group>-->
+
+    <item android:id="@android:id/progress">
+        <!--<clip>-->
+            <!--<shape>-->
+                <!--<corners android:radius="@dimen/dp_10"></corners>-->
+                <!--<solid android:color="@color/main_remind_color_aother"></solid>-->
+            <!--</shape>-->
+        <!--</clip>-->
+        <scale android:scaleWidth="100%"
+            android:drawable="@drawable/shape_me_level_content"   />
+    </item>
+
+</layer-list>

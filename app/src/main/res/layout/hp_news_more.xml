@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/hp_news_more_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="#D9D9D9"></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_12"
+            android:layout_marginBottom="@dimen/dp_12"
+            android:textColor="#4675BF"
+            android:textSize="@dimen/sp_14"
+            android:text="查看更多"/>
+        <ImageView
+            android:layout_width="@dimen/dp_5"
+            android:layout_height="@dimen/dp_9"
+            android:layout_marginLeft="@dimen/dp_3"
+            android:background="@drawable/right_blue_arrow"/>
+    </LinearLayout>
+    <View
+        android:id="@+id/home_item_decoration"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_10"
+        android:background="@color/main_status_color"></View>
+</LinearLayout>

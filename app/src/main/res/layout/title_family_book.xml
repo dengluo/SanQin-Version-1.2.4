@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_40">
+    <RelativeLayout
+        android:id="@+id/main_left_layout"
+        android:layout_width="@dimen/dp_40"
+        android:layout_height="@dimen/dp_40">
+        <ImageView
+            android:id="@+id/me_title_left_arrow"
+            android:layout_width="@dimen/dp_13"
+            android:layout_height="@dimen/dp_22"
+            android:layout_centerVertical="true"
+            android:src="@drawable/nav_button_fanhui_default"
+            android:layout_marginLeft="@dimen/dp_15"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="@dimen/dp_80"
+        android:layout_height="@dimen/dp_24"
+        android:padding="@dimen/dp_1"
+        android:background="@color/title_family_book"
+        android:gravity="center_horizontal"
+        android:layout_centerInParent="true">
+        <TextView
+            android:id="@+id/main_family_book_1"
+            android:layout_width="@dimen/dp_38"
+            android:layout_height="match_parent"
+            android:text="族谱"
+            android:gravity="center"
+            android:textSize="@dimen/sp_12"/>
+        <TextView
+            android:id="@+id/main_family_book_2"
+            android:layout_width="@dimen/dp_38"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="排行"
+            android:textSize="@dimen/sp_12"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/main_right_layout"
+        android:layout_alignParentRight="true"
+        android:layout_width="@dimen/dp_60"
+        android:layout_height="@dimen/dp_40">
+        <TextView
+            android:id="@+id/me_title_right_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="visible"
+            android:text="目录"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@color/main_title_text_color"/>
+
+    </RelativeLayout>
+</RelativeLayout>

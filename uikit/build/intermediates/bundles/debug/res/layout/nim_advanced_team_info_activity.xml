@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:elevation="0dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/toolbar_back"
+            app:contentInsetStart="0dp"
+            app:titleTextAppearance="@style/Toolbar.TitleText">
+            <include layout="@layout/nim_action_bar_right_clickable_tv" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        style="@style/scroll_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/color_background"
+        android:fillViewport="true"
+        android:scrollbarStyle="outsideOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_60"
+                android:layout_margin="@dimen/dp_15"
+                android:orientation="horizontal">
+
+                <com.netease.nim.uikit.common.ui.imageview.HeadImageView
+                    android:id="@+id/team_head_image"
+                    android:layout_width="50dip"
+                    android:layout_height="50dip"
+                    android:layout_gravity="center"
+                    android:src="@drawable/nim_avatar_group"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/dp_10"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/team_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="Team Name"
+                        android:textColor="@color/color_black_333333"
+                        android:textSize="@dimen/text_size_17" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/team_id_desc"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="群id:"
+                            android:textColor="@color/color_grey_999999"
+                            android:textSize="@dimen/text_size_14" />
+
+
+                        <TextView
+                            android:id="@+id/team_id"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="creator"
+                            android:textColor="@color/color_grey_999999"
+                            android:textSize="@dimen/text_size_14" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!--<RelativeLayout-->
+            <!--android:id="@+id/team_info_header"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginBottom="20dip"-->
+            <!--android:layout_marginLeft="25dip"-->
+            <!--android:layout_marginRight="15dip"-->
+            <!--android:layout_marginTop="20dip">-->
+
+            <!--<com.netease.nim.uikit.common.ui.imageview.HeadImageView-->
+            <!--android:id="@+id/team_head_image"-->
+            <!--android:layout_width="50dip"-->
+            <!--android:layout_height="50dip" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/team_name"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="10dip"-->
+            <!--android:layout_marginTop="5dip"-->
+            <!--android:layout_toRightOf="@id/team_head_image"-->
+            <!--android:text="Team Name"-->
+            <!--android:textColor="@color/color_black_333333"-->
+            <!--android:textSize="@dimen/text_size_17" />-->
+
+
+            <!--<TextView-->
+            <!--android:id="@+id/team_id_desc"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@id/team_name"-->
+            <!--android:layout_below="@id/team_name"-->
+            <!--android:layout_marginTop="8dip"-->
+            <!--android:text="群id:"-->
+            <!--android:textColor="@color/color_grey_999999"-->
+            <!--android:textSize="@dimen/text_size_14" />-->
+
+
+            <!--<TextView-->
+            <!--android:id="@+id/team_id"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:layout_toEndOf="@+id/team_id_desc"-->
+            <!--android:text="creator"-->
+            <!--android:textColor="@color/color_grey_999999"-->
+            <!--android:textSize="@dimen/text_size_14" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/temp_text_with"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignTop="@id/team_id"-->
+            <!--android:layout_marginLeft="12dip"-->
+            <!--android:layout_toRightOf="@id/team_id"-->
+            <!--android:text="于"-->
+            <!--android:textColor="@color/color_grey_999999"-->
+            <!--android:textSize="@dimen/text_size_13"-->
+            <!--android:visibility="gone"/>-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/team_create_time"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignTop="@id/temp_text_with"-->
+            <!--android:layout_toRightOf="@id/temp_text_with"-->
+            <!--android:text="2015-02-22"-->
+            <!--android:textColor="@color/color_grey_999999"-->
+            <!--android:textSize="@dimen/text_size_13"-->
+            <!--android:visibility="gone"/>-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/temp_text_create"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignTop="@id/team_create_time"-->
+            <!--android:layout_toRightOf="@id/team_create_time"-->
+            <!--android:text="创建"-->
+            <!--android:textColor="@color/color_grey_999999"-->
+            <!--android:textSize="@dimen/text_size_13"-->
+            <!--android:visibility="gone"/>-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:background="@drawable/nim_arrow_right" />-->
+            <!--</RelativeLayout>-->
+
+
+            <com.netease.nim.uikit.business.team.ui.TeamInfoGridView
+                android:id="@+id/team_member_grid_view"
+                style="@style/grid_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center"
+                android:numColumns="5"
+                android:paddingBottom="25dip"
+                android:paddingLeft="12dip"
+                android:paddingRight="12dip"
+                android:paddingTop="16dip"
+                android:verticalSpacing="16dip"></com.netease.nim.uikit.business.team.ui.TeamInfoGridView>
+
+            <LinearLayout
+                android:id="@+id/team_member_view_more_member_lin"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_28"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="查看更多群成员" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/dp_10"
+                    android:src="@drawable/nim_arrow_right" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:orientation="vertical">
+
+                <include
+                    android:id="@+id/team_name_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <include
+                    android:id="@+id/team_memeber_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <!--<include-->
+                <!--android:id="@+id/team_introduce_layout"-->
+                <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+
+                <include
+                    android:id="@+id/team_announcement_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <!--<include-->
+                <!--android:id="@+id/team_extension_layout"-->
+                <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+
+                <!--群昵称-->
+                <include
+                    android:id="@+id/team_mime_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+            </LinearLayout>
+
+
+            <include
+                android:id="@+id/team_notification_config_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+            <!--<include-->
+            <!--android:id="@+id/team_authentication_layout"-->
+            <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+
+            <!--<include-->
+            <!--android:id="@+id/team_invite_layout"-->
+            <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+
+            <!--<include-->
+            <!--android:id="@+id/team_info_update_layout"-->
+            <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+
+            <!--<include-->
+            <!--android:id="@+id/team_invitee_authen_layout"-->
+            <!--layout="@layout/nim_advanced_team_info_divider_item" />-->
+            <Button
+                android:id="@+id/team_quit"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_48"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/dp_25"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/nim_red_round_button_selector"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/quit_member"
+                android:textColor="@color/white"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

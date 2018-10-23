@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<style name="AppTheme" parent="BaseAppTheme">-->
+        <!--<item_zq_choose_group name="android:windowDrawsSystemBarBackgrounds">true</item_zq_choose_group>-->
+        <!--<item_zq_choose_group name="android:statusBarColor">@color/colorTranslate</item_zq_choose_group>-->
+        <!--<item_zq_choose_group name="android:navigationBarColor">@color/color_menu_title_background</item_zq_choose_group>-->
+    <!--</style>-->
+
+    <style name="DialogFullScreen" parent="DialogStyle">
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    <style name="BgNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item_zq_choose_group name="android:windowBackground">@drawable/kaiqiye_bg</item_zq_choose_group>-->
+        <!--<item_zq_choose_group name="android:windowBackground">@color/transparent</item_zq_choose_group>-->
+        <!--<item_zq_choose_group name="android:windowFullscreen">true</item_zq_choose_group>-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_gravity="bottom"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.pbids.sanqin.ui.view.WarpLinearLayout
+        android:id="@+id/me_setting_score_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:padding="15dp"
+        app:grivate="left"
+        app:horizontal_Space="@dimen/dp_20"
+        app:isFull="false"
+        app:vertical_Space="@dimen/dp_10">
+
+    </com.pbids.sanqin.ui.view.WarpLinearLayout>
+</LinearLayout>

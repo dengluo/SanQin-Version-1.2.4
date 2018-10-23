@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="138dp"
+        android:layout_height="173dp"
+        android:layout_gravity="right|bottom"
+        android:layout_marginBottom="@dimen/dp_8"
+        android:layout_marginRight="@dimen/dp_38"
+        android:src="@drawable/app_five_lead_icon" />
+
+
+</FrameLayout>

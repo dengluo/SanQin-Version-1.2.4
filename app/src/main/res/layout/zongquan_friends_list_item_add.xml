@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:layout_marginLeft="@dimen/dp_15"
+        android:layout_marginRight="@dimen/dp_15"
+        android:layout_alignParentTop="true"
+        android:background="@color/main_line_color"></View>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_60">
+
+                <ImageView
+                    android:id="@+id/zongquan_fried_list_radio"
+                    android:layout_width="@dimen/dp_16"
+                    android:layout_height="@dimen/dp_16"
+                    android:layout_marginLeft="@dimen/dp_15"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/dp_35"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/me_btn_dagou_default" />
+
+
+                <com.pbids.sanqin.ui.view.CircleImageView
+                    android:id="@+id/zongquan_fried_list_touxiang"
+                    android:layout_width="@dimen/dp_34"
+                    android:layout_height="@dimen/dp_34"
+                    android:layout_alignStart="@+id/zongquan_fried_list_radio"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dp_32"
+                    />
+                    <!--android:background="@drawable/new_avatar_touxiang3_default" />-->
+
+                <TextView
+                    android:id="@+id/zongquan_fried_list_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/dp_20"
+                    android:layout_toRightOf="@+id/zongquan_fried_list_touxiang"
+                    android:text="14796635306"
+                    android:textColor="@color/main_title_text_color"
+                    android:textSize="@dimen/sp_18" />
+
+                <TextView
+                    android:id="@+id/zongquan_fried_list_level"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="@dimen/dp_2"
+                    android:background="@drawable/level_name_round_bg"
+                    android:includeFontPadding="false"
+                    android:paddingLeft="@dimen/dp_2"
+                    android:paddingRight="@dimen/dp_2"
+                    android:singleLine="true"
+                    android:layout_marginLeft="@dimen/dp_5"
+                    android:layout_toRightOf="@+id/zongquan_fried_list_name"
+                    android:text="正府"
+                    android:textColor="@color/white"
+                    android:textSize="11sp" />
+
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/zongquan_fried_list_vip"-->
+                    <!--android:layout_width="@dimen/dp_21"-->
+                    <!--android:layout_height="@dimen/dp_16"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:layout_marginRight="@dimen/dp_35"-->
+                    <!--android:scaleType="fitXY"-->
+                    <!--android:src="@drawable/kiss_icon_vip_default" />-->
+
+            </RelativeLayout>
+        </LinearLayout>
+
+
+</LinearLayout>

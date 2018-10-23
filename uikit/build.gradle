@@ -1,0 +1,55 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.appTargetSdkVersion
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
+
+        renderscriptTargetApi rootProject.ext.compileSdkVersion
+        renderscriptSupportModeEnabled true
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res', 'res-ptr2', 'res-chatroom']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility rootProject.ext.appSourceCompatibility
+        targetCompatibility rootProject.ext.appTargetCompatibility
+    }
+}
+
+dependencies {
+    api fileTree(include: '*.jar', dir: 'libs')
+    api "com.android.support:appcompat-v7:${V7_APPCOMPAT_VERSION}"
+    api "com.android.support:support-v4:${V4_SUPPORT_VERSION}"
+    api "com.android.support:design:${DESIGIN_SUPPORT_VERSION}"
+    api "com.android.support.constraint:constraint-layout:${CONSTRAIT_SUPPORT_VERSION}"
+    api 'me.everything:overscroll-decor-android:1.0.4'
+    api 'me.leolin:ShortcutBadger:1.1.17@aar'
+    api "com.github.bumptech.glide:glide:${BUMPTECH_GLIDE_VERSION}"
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.2.0'
+    api 'jp.wasabeef:glide-transformations:3.0.1'
+    //api 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1' // if you want to use the Glide GPU Filters
+    implementation project(':eventbus_activity_scope')
+    implementation "org.greenrobot:eventbus:${EVENTBUS_VERSION}"
+    implementation 'com.google.code.gson:gson:2.2.4'
+    implementation files('libs/nrtc-sdk.jar')
+    implementation files('libs/nim-rts-5.0.0.jar')
+    implementation project(':alertview')
+    compile project(path: ':avchatkit')
+}

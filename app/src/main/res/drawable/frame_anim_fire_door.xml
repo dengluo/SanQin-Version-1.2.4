@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/fire_door_small"
+        android:duration="330" />
+    <item
+        android:drawable="@drawable/fire_door_middle"
+        android:duration="330" />
+    <item
+        android:drawable="@drawable/fire_door_strong"
+        android:duration="330" />
+</animation-list>

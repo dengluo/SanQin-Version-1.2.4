@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shape_hp_ad_index_normla" android:state_selected="false"/>
+    <item android:drawable="@drawable/shape_hp_ad_index_selected" android:state_selected="true"/>
+</selector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:id="@+id/hp_news_index_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/dp_5"
+        android:paddingRight="@dimen/dp_5"
+        android:paddingTop="@dimen/dp_0_5"
+        android:paddingBottom="@dimen/dp_1"
+        android:layout_gravity="center"
+        android:background="@drawable/shape_gray_radius_index"
+        android:text="周"
+        android:textColor="@color/index_color"
+        android:textSize="@dimen/sp_10" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:drawable="@drawable/me_btn_dagou_selected"></item>
+    <!--<item_zq_choose_group android:state_pressed="true" android:drawable="@drawable/me_btn_dagou_selected"></item_zq_choose_group>-->
+    <item android:state_selected="false" android:drawable="@drawable/me_btn_dagou_default"></item>
+</selector>

@@ -1,0 +1,14904 @@
+{"data":
+[
+{
+"provinceId": "11",
+"provinceName": "北京市",
+"district": [
+{
+"districtId": "0100",
+"districtName": "市辖区",
+"county": [
+{
+"countyId": "0101",
+"countyName": "东城区"
+},
+{
+"countyId": "0102",
+"countyName": "西城区"
+},
+{
+"countyId": "0105",
+"countyName": "朝阳区"
+},
+{
+"countyId": "0106",
+"countyName": "丰台区"
+},
+{
+"countyId": "0107",
+"countyName": "石景山区"
+},
+{
+"countyId": "0108",
+"countyName": "海淀区"
+},
+{
+"countyId": "0109",
+"countyName": "门头沟区"
+},
+{
+"countyId": "0111",
+"countyName": "房山区"
+},
+{
+"countyId": "0112",
+"countyName": "通州区"
+},
+{
+"countyId": "0113",
+"countyName": "顺义区"
+},
+{
+"countyId": "0114",
+"countyName": "昌平区"
+},
+{
+"countyId": "0115",
+"countyName": "大兴区"
+},
+{
+"countyId": "0116",
+"countyName": "怀柔区"
+},
+{
+"countyId": "0117",
+"countyName": "平谷区"
+},
+{
+"countyId": "0118",
+"countyName": "密云区"
+},
+{
+"countyId": "0119",
+"countyName": "延庆区"
+}
+]
+}
+]
+},
+{
+"provinceId": "12",
+"provinceName": "天津市",
+"district": [
+{
+"districtId": "0100",
+"districtName": "市辖区",
+"county": [
+{
+"countyId": "0101",
+"countyName": "和平区"
+},
+{
+"countyId": "0102",
+"countyName": "河东区"
+},
+{
+"countyId": "0103",
+"countyName": "河西区"
+},
+{
+"countyId": "0104",
+"countyName": "南开区"
+},
+{
+"countyId": "0105",
+"countyName": "河北区"
+},
+{
+"countyId": "0106",
+"countyName": "红桥区"
+},
+{
+"countyId": "0110",
+"countyName": "东丽区"
+},
+{
+"countyId": "0111",
+"countyName": "西青区"
+},
+{
+"countyId": "0112",
+"countyName": "津南区"
+},
+{
+"countyId": "0113",
+"countyName": "北辰区"
+},
+{
+"countyId": "0114",
+"countyName": "武清区"
+},
+{
+"countyId": "0115",
+"countyName": "宝坻区"
+},
+{
+"countyId": "0116",
+"countyName": "滨海新区"
+},
+{
+"countyId": "0117",
+"countyName": "宁河区"
+},
+{
+"countyId": "0118",
+"countyName": "静海区"
+},
+{
+"countyId": "0119",
+"countyName": "蓟州区"
+}
+]
+}
+]
+},
+{
+"provinceId": "13",
+"provinceName": "河北省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "石家庄市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "长安区"
+},
+{
+"countyId": "0104",
+"countyName": "桥西区"
+},
+{
+"countyId": "0105",
+"countyName": "新华区"
+},
+{
+"countyId": "0107",
+"countyName": "井陉矿区"
+},
+{
+"countyId": "0108",
+"countyName": "裕华区"
+},
+{
+"countyId": "0109",
+"countyName": "藁城区"
+},
+{
+"countyId": "0110",
+"countyName": "鹿泉区"
+},
+{
+"countyId": "0111",
+"countyName": "栾城区"
+},
+{
+"countyId": "0121",
+"countyName": "井陉县"
+},
+{
+"countyId": "0123",
+"countyName": "正定县"
+},
+{
+"countyId": "0125",
+"countyName": "行唐县"
+},
+{
+"countyId": "0126",
+"countyName": "灵寿县"
+},
+{
+"countyId": "0127",
+"countyName": "高邑县"
+},
+{
+"countyId": "0128",
+"countyName": "深泽县"
+},
+{
+"countyId": "0129",
+"countyName": "赞皇县"
+},
+{
+"countyId": "0130",
+"countyName": "无极县"
+},
+{
+"countyId": "0131",
+"countyName": "平山县"
+},
+{
+"countyId": "0132",
+"countyName": "元氏县"
+},
+{
+"countyId": "0133",
+"countyName": "赵县"
+},
+{
+"countyId": "0183",
+"countyName": "晋州市"
+},
+{
+"countyId": "0184",
+"countyName": "新乐市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "唐山市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "路南区"
+},
+{
+"countyId": "0203",
+"countyName": "路北区"
+},
+{
+"countyId": "0204",
+"countyName": "古冶区"
+},
+{
+"countyId": "0205",
+"countyName": "开平区"
+},
+{
+"countyId": "0207",
+"countyName": "丰南区"
+},
+{
+"countyId": "0208",
+"countyName": "丰润区"
+},
+{
+"countyId": "0209",
+"countyName": "曹妃甸区"
+},
+{
+"countyId": "0223",
+"countyName": "滦县"
+},
+{
+"countyId": "0224",
+"countyName": "滦南县"
+},
+{
+"countyId": "0225",
+"countyName": "乐亭县"
+},
+{
+"countyId": "0227",
+"countyName": "迁西县"
+},
+{
+"countyId": "0229",
+"countyName": "玉田县"
+},
+{
+"countyId": "0281",
+"countyName": "遵化市"
+},
+{
+"countyId": "0283",
+"countyName": "迁安市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "秦皇岛市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "海港区"
+},
+{
+"countyId": "0303",
+"countyName": "山海关区"
+},
+{
+"countyId": "0304",
+"countyName": "北戴河区"
+},
+{
+"countyId": "0306",
+"countyName": "抚宁区"
+},
+{
+"countyId": "0321",
+"countyName": "青龙满族自治县"
+},
+{
+"countyId": "0322",
+"countyName": "昌黎县"
+},
+{
+"countyId": "0324",
+"countyName": "卢龙县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "邯郸市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "邯山区"
+},
+{
+"countyId": "0403",
+"countyName": "丛台区"
+},
+{
+"countyId": "0404",
+"countyName": "复兴区"
+},
+{
+"countyId": "0406",
+"countyName": "峰峰矿区"
+},
+{
+"countyId": "0421",
+"countyName": "邯郸县"
+},
+{
+"countyId": "0423",
+"countyName": "临漳县"
+},
+{
+"countyId": "0424",
+"countyName": "成安县"
+},
+{
+"countyId": "0425",
+"countyName": "大名县"
+},
+{
+"countyId": "0426",
+"countyName": "涉县"
+},
+{
+"countyId": "0427",
+"countyName": "磁县"
+},
+{
+"countyId": "0428",
+"countyName": "肥乡县"
+},
+{
+"countyId": "0429",
+"countyName": "永年县"
+},
+{
+"countyId": "0430",
+"countyName": "邱县"
+},
+{
+"countyId": "0431",
+"countyName": "鸡泽县"
+},
+{
+"countyId": "0432",
+"countyName": "广平县"
+},
+{
+"countyId": "0433",
+"countyName": "馆陶县"
+},
+{
+"countyId": "0434",
+"countyName": "魏县"
+},
+{
+"countyId": "0435",
+"countyName": "曲周县"
+},
+{
+"countyId": "0481",
+"countyName": "武安市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "邢台市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "桥东区"
+},
+{
+"countyId": "0503",
+"countyName": "桥西区"
+},
+{
+"countyId": "0521",
+"countyName": "邢台县"
+},
+{
+"countyId": "0522",
+"countyName": "临城县"
+},
+{
+"countyId": "0523",
+"countyName": "内丘县"
+},
+{
+"countyId": "0524",
+"countyName": "柏乡县"
+},
+{
+"countyId": "0525",
+"countyName": "隆尧县"
+},
+{
+"countyId": "0526",
+"countyName": "任县"
+},
+{
+"countyId": "0527",
+"countyName": "南和县"
+},
+{
+"countyId": "0528",
+"countyName": "宁晋县"
+},
+{
+"countyId": "0529",
+"countyName": "巨鹿县"
+},
+{
+"countyId": "0530",
+"countyName": "新河县"
+},
+{
+"countyId": "0531",
+"countyName": "广宗县"
+},
+{
+"countyId": "0532",
+"countyName": "平乡县"
+},
+{
+"countyId": "0533",
+"countyName": "威县"
+},
+{
+"countyId": "0534",
+"countyName": "清河县"
+},
+{
+"countyId": "0535",
+"countyName": "临西县"
+},
+{
+"countyId": "0581",
+"countyName": "南宫市"
+},
+{
+"countyId": "0582",
+"countyName": "沙河市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "保定市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "竞秀区"
+},
+{
+"countyId": "0606",
+"countyName": "莲池区"
+},
+{
+"countyId": "0607",
+"countyName": "满城区"
+},
+{
+"countyId": "0608",
+"countyName": "清苑区"
+},
+{
+"countyId": "0609",
+"countyName": "徐水区"
+},
+{
+"countyId": "0623",
+"countyName": "涞水县"
+},
+{
+"countyId": "0624",
+"countyName": "阜平县"
+},
+{
+"countyId": "0626",
+"countyName": "定兴县"
+},
+{
+"countyId": "0627",
+"countyName": "唐县"
+},
+{
+"countyId": "0628",
+"countyName": "高阳县"
+},
+{
+"countyId": "0629",
+"countyName": "容城县"
+},
+{
+"countyId": "0630",
+"countyName": "涞源县"
+},
+{
+"countyId": "0631",
+"countyName": "望都县"
+},
+{
+"countyId": "0632",
+"countyName": "安新县"
+},
+{
+"countyId": "0633",
+"countyName": "易县"
+},
+{
+"countyId": "0634",
+"countyName": "曲阳县"
+},
+{
+"countyId": "0635",
+"countyName": "蠡县"
+},
+{
+"countyId": "0636",
+"countyName": "顺平县"
+},
+{
+"countyId": "0637",
+"countyName": "博野县"
+},
+{
+"countyId": "0638",
+"countyName": "雄县"
+},
+{
+"countyId": "0681",
+"countyName": "涿州市"
+},
+{
+"countyId": "0683",
+"countyName": "安国市"
+},
+{
+"countyId": "0684",
+"countyName": "高碑店市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "张家口市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "桥东区"
+},
+{
+"countyId": "0703",
+"countyName": "桥西区"
+},
+{
+"countyId": "0705",
+"countyName": "宣化区"
+},
+{
+"countyId": "0706",
+"countyName": "下花园区"
+},
+{
+"countyId": "0708",
+"countyName": "万全区"
+},
+{
+"countyId": "0709",
+"countyName": "崇礼区"
+},
+{
+"countyId": "0722",
+"countyName": "张北县"
+},
+{
+"countyId": "0723",
+"countyName": "康保县"
+},
+{
+"countyId": "0724",
+"countyName": "沽源县"
+},
+{
+"countyId": "0725",
+"countyName": "尚义县"
+},
+{
+"countyId": "0726",
+"countyName": "蔚县"
+},
+{
+"countyId": "0727",
+"countyName": "阳原县"
+},
+{
+"countyId": "0728",
+"countyName": "怀安县"
+},
+{
+"countyId": "0730",
+"countyName": "怀来县"
+},
+{
+"countyId": "0731",
+"countyName": "涿鹿县"
+},
+{
+"countyId": "0732",
+"countyName": "赤城县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "承德市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "双桥区"
+},
+{
+"countyId": "0803",
+"countyName": "双滦区"
+},
+{
+"countyId": "0804",
+"countyName": "鹰手营子矿区"
+},
+{
+"countyId": "0821",
+"countyName": "承德县"
+},
+{
+"countyId": "0822",
+"countyName": "兴隆县"
+},
+{
+"countyId": "0823",
+"countyName": "平泉县"
+},
+{
+"countyId": "0824",
+"countyName": "滦平县"
+},
+{
+"countyId": "0825",
+"countyName": "隆化县"
+},
+{
+"countyId": "0826",
+"countyName": "丰宁满族自治县"
+},
+{
+"countyId": "0827",
+"countyName": "宽城满族自治县"
+},
+{
+"countyId": "0828",
+"countyName": "围场满族蒙古族自治县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "沧州市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "新华区"
+},
+{
+"countyId": "0903",
+"countyName": "运河区"
+},
+{
+"countyId": "0921",
+"countyName": "沧县"
+},
+{
+"countyId": "0922",
+"countyName": "青县"
+},
+{
+"countyId": "0923",
+"countyName": "东光县"
+},
+{
+"countyId": "0924",
+"countyName": "海兴县"
+},
+{
+"countyId": "0925",
+"countyName": "盐山县"
+},
+{
+"countyId": "0926",
+"countyName": "肃宁县"
+},
+{
+"countyId": "0927",
+"countyName": "南皮县"
+},
+{
+"countyId": "0928",
+"countyName": "吴桥县"
+},
+{
+"countyId": "0929",
+"countyName": "献县"
+},
+{
+"countyId": "0930",
+"countyName": "孟村回族自治县"
+},
+{
+"countyId": "0981",
+"countyName": "泊头市"
+},
+{
+"countyId": "0982",
+"countyName": "任丘市"
+},
+{
+"countyId": "0983",
+"countyName": "黄骅市"
+},
+{
+"countyId": "0984",
+"countyName": "河间市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "廊坊市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "安次区"
+},
+{
+"countyId": "1003",
+"countyName": "广阳区"
+},
+{
+"countyId": "1022",
+"countyName": "固安县"
+},
+{
+"countyId": "1023",
+"countyName": "永清县"
+},
+{
+"countyId": "1024",
+"countyName": "香河县"
+},
+{
+"countyId": "1025",
+"countyName": "大城县"
+},
+{
+"countyId": "1026",
+"countyName": "文安县"
+},
+{
+"countyId": "1028",
+"countyName": "大厂回族自治县"
+},
+{
+"countyId": "1081",
+"countyName": "霸州市"
+},
+{
+"countyId": "1082",
+"countyName": "三河市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "衡水市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "桃城区"
+},
+{
+"countyId": "1103",
+"countyName": "冀州区"
+},
+{
+"countyId": "1121",
+"countyName": "枣强县"
+},
+{
+"countyId": "1122",
+"countyName": "武邑县"
+},
+{
+"countyId": "1123",
+"countyName": "武强县"
+},
+{
+"countyId": "1124",
+"countyName": "饶阳县"
+},
+{
+"countyId": "1125",
+"countyName": "安平县"
+},
+{
+"countyId": "1126",
+"countyName": "故城县"
+},
+{
+"countyId": "1127",
+"countyName": "景县"
+},
+{
+"countyId": "1128",
+"countyName": "阜城县"
+},
+{
+"countyId": "1182",
+"countyName": "深州市"
+}
+]
+},
+{
+"districtId": "9000",
+"districtName": "省直辖县级行政区划",
+"county": [
+{
+"countyId": "9001",
+"countyName": "定州市"
+},
+{
+"countyId": "9002",
+"countyName": "辛集市"
+}
+]
+}
+]
+},
+{
+"provinceId": "14",
+"provinceName": "山西省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "太原市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0105",
+"countyName": "小店区"
+},
+{
+"countyId": "0106",
+"countyName": "迎泽区"
+},
+{
+"countyId": "0107",
+"countyName": "杏花岭区"
+},
+{
+"countyId": "0108",
+"countyName": "尖草坪区"
+},
+{
+"countyId": "0109",
+"countyName": "万柏林区"
+},
+{
+"countyId": "0110",
+"countyName": "晋源区"
+},
+{
+"countyId": "0121",
+"countyName": "清徐县"
+},
+{
+"countyId": "0122",
+"countyName": "阳曲县"
+},
+{
+"countyId": "0123",
+"countyName": "娄烦县"
+},
+{
+"countyId": "0181",
+"countyName": "古交市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "大同市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "城区"
+},
+{
+"countyId": "0203",
+"countyName": "矿区"
+},
+{
+"countyId": "0211",
+"countyName": "南郊区"
+},
+{
+"countyId": "0212",
+"countyName": "新荣区"
+},
+{
+"countyId": "0221",
+"countyName": "阳高县"
+},
+{
+"countyId": "0222",
+"countyName": "天镇县"
+},
+{
+"countyId": "0223",
+"countyName": "广灵县"
+},
+{
+"countyId": "0224",
+"countyName": "灵丘县"
+},
+{
+"countyId": "0225",
+"countyName": "浑源县"
+},
+{
+"countyId": "0226",
+"countyName": "左云县"
+},
+{
+"countyId": "0227",
+"countyName": "大同县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "阳泉市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "城区"
+},
+{
+"countyId": "0303",
+"countyName": "矿区"
+},
+{
+"countyId": "0311",
+"countyName": "郊区"
+},
+{
+"countyId": "0321",
+"countyName": "平定县"
+},
+{
+"countyId": "0322",
+"countyName": "盂县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "长治市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "城区"
+},
+{
+"countyId": "0411",
+"countyName": "郊区"
+},
+{
+"countyId": "0421",
+"countyName": "长治县"
+},
+{
+"countyId": "0423",
+"countyName": "襄垣县"
+},
+{
+"countyId": "0424",
+"countyName": "屯留县"
+},
+{
+"countyId": "0425",
+"countyName": "平顺县"
+},
+{
+"countyId": "0426",
+"countyName": "黎城县"
+},
+{
+"countyId": "0427",
+"countyName": "壶关县"
+},
+{
+"countyId": "0428",
+"countyName": "长子县"
+},
+{
+"countyId": "0429",
+"countyName": "武乡县"
+},
+{
+"countyId": "0430",
+"countyName": "沁县"
+},
+{
+"countyId": "0431",
+"countyName": "沁源县"
+},
+{
+"countyId": "0481",
+"countyName": "潞城市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "晋城市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "城区"
+},
+{
+"countyId": "0521",
+"countyName": "沁水县"
+},
+{
+"countyId": "0522",
+"countyName": "阳城县"
+},
+{
+"countyId": "0524",
+"countyName": "陵川县"
+},
+{
+"countyId": "0525",
+"countyName": "泽州县"
+},
+{
+"countyId": "0581",
+"countyName": "高平市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "朔州市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "朔城区"
+},
+{
+"countyId": "0603",
+"countyName": "平鲁区"
+},
+{
+"countyId": "0621",
+"countyName": "山阴县"
+},
+{
+"countyId": "0622",
+"countyName": "应县"
+},
+{
+"countyId": "0623",
+"countyName": "右玉县"
+},
+{
+"countyId": "0624",
+"countyName": "怀仁县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "晋中市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "榆次区"
+},
+{
+"countyId": "0721",
+"countyName": "榆社县"
+},
+{
+"countyId": "0722",
+"countyName": "左权县"
+},
+{
+"countyId": "0723",
+"countyName": "和顺县"
+},
+{
+"countyId": "0724",
+"countyName": "昔阳县"
+},
+{
+"countyId": "0725",
+"countyName": "寿阳县"
+},
+{
+"countyId": "0726",
+"countyName": "太谷县"
+},
+{
+"countyId": "0727",
+"countyName": "祁县"
+},
+{
+"countyId": "0728",
+"countyName": "平遥县"
+},
+{
+"countyId": "0729",
+"countyName": "灵石县"
+},
+{
+"countyId": "0781",
+"countyName": "介休市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "运城市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "盐湖区"
+},
+{
+"countyId": "0821",
+"countyName": "临猗县"
+},
+{
+"countyId": "0822",
+"countyName": "万荣县"
+},
+{
+"countyId": "0823",
+"countyName": "闻喜县"
+},
+{
+"countyId": "0824",
+"countyName": "稷山县"
+},
+{
+"countyId": "0825",
+"countyName": "新绛县"
+},
+{
+"countyId": "0826",
+"countyName": "绛县"
+},
+{
+"countyId": "0827",
+"countyName": "垣曲县"
+},
+{
+"countyId": "0828",
+"countyName": "夏县"
+},
+{
+"countyId": "0829",
+"countyName": "平陆县"
+},
+{
+"countyId": "0830",
+"countyName": "芮城县"
+},
+{
+"countyId": "0881",
+"countyName": "永济市"
+},
+{
+"countyId": "0882",
+"countyName": "河津市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "忻州市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "忻府区"
+},
+{
+"countyId": "0921",
+"countyName": "定襄县"
+},
+{
+"countyId": "0922",
+"countyName": "五台县"
+},
+{
+"countyId": "0923",
+"countyName": "代县"
+},
+{
+"countyId": "0924",
+"countyName": "繁峙县"
+},
+{
+"countyId": "0925",
+"countyName": "宁武县"
+},
+{
+"countyId": "0926",
+"countyName": "静乐县"
+},
+{
+"countyId": "0927",
+"countyName": "神池县"
+},
+{
+"countyId": "0928",
+"countyName": "五寨县"
+},
+{
+"countyId": "0929",
+"countyName": "岢岚县"
+},
+{
+"countyId": "0930",
+"countyName": "河曲县"
+},
+{
+"countyId": "0931",
+"countyName": "保德县"
+},
+{
+"countyId": "0932",
+"countyName": "偏关县"
+},
+{
+"countyId": "0981",
+"countyName": "原平市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "临汾市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "尧都区"
+},
+{
+"countyId": "1021",
+"countyName": "曲沃县"
+},
+{
+"countyId": "1022",
+"countyName": "翼城县"
+},
+{
+"countyId": "1023",
+"countyName": "襄汾县"
+},
+{
+"countyId": "1024",
+"countyName": "洪洞县"
+},
+{
+"countyId": "1025",
+"countyName": "古县"
+},
+{
+"countyId": "1026",
+"countyName": "安泽县"
+},
+{
+"countyId": "1027",
+"countyName": "浮山县"
+},
+{
+"countyId": "1028",
+"countyName": "吉县"
+},
+{
+"countyId": "1029",
+"countyName": "乡宁县"
+},
+{
+"countyId": "1030",
+"countyName": "大宁县"
+},
+{
+"countyId": "1031",
+"countyName": "隰县"
+},
+{
+"countyId": "1032",
+"countyName": "永和县"
+},
+{
+"countyId": "1033",
+"countyName": "蒲县"
+},
+{
+"countyId": "1034",
+"countyName": "汾西县"
+},
+{
+"countyId": "1081",
+"countyName": "侯马市"
+},
+{
+"countyId": "1082",
+"countyName": "霍州市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "吕梁市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "离石区"
+},
+{
+"countyId": "1121",
+"countyName": "文水县"
+},
+{
+"countyId": "1122",
+"countyName": "交城县"
+},
+{
+"countyId": "1123",
+"countyName": "兴县"
+},
+{
+"countyId": "1124",
+"countyName": "临县"
+},
+{
+"countyId": "1125",
+"countyName": "柳林县"
+},
+{
+"countyId": "1126",
+"countyName": "石楼县"
+},
+{
+"countyId": "1127",
+"countyName": "岚县"
+},
+{
+"countyId": "1128",
+"countyName": "方山县"
+},
+{
+"countyId": "1129",
+"countyName": "中阳县"
+},
+{
+"countyId": "1130",
+"countyName": "交口县"
+},
+{
+"countyId": "1181",
+"countyName": "孝义市"
+},
+{
+"countyId": "1182",
+"countyName": "汾阳市"
+}
+]
+}
+]
+},
+{
+"provinceId": "15",
+"provinceName": "内蒙古自治区",
+"district": [
+{
+"districtId": "0100",
+"districtName": "呼和浩特市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "新城区"
+},
+{
+"countyId": "0103",
+"countyName": "回民区"
+},
+{
+"countyId": "0104",
+"countyName": "玉泉区"
+},
+{
+"countyId": "0105",
+"countyName": "赛罕区"
+},
+{
+"countyId": "0121",
+"countyName": "土默特左旗"
+},
+{
+"countyId": "0122",
+"countyName": "托克托县"
+},
+{
+"countyId": "0123",
+"countyName": "和林格尔县"
+},
+{
+"countyId": "0124",
+"countyName": "清水河县"
+},
+{
+"countyId": "0125",
+"countyName": "武川县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "包头市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "东河区"
+},
+{
+"countyId": "0203",
+"countyName": "昆都仑区"
+},
+{
+"countyId": "0204",
+"countyName": "青山区"
+},
+{
+"countyId": "0205",
+"countyName": "石拐区"
+},
+{
+"countyId": "0206",
+"countyName": "白云鄂博矿区"
+},
+{
+"countyId": "0207",
+"countyName": "九原区"
+},
+{
+"countyId": "0221",
+"countyName": "土默特右旗"
+},
+{
+"countyId": "0222",
+"countyName": "固阳县"
+},
+{
+"countyId": "0223",
+"countyName": "达尔罕茂明安联合旗"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "乌海市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "海勃湾区"
+},
+{
+"countyId": "0303",
+"countyName": "海南区"
+},
+{
+"countyId": "0304",
+"countyName": "乌达区"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "赤峰市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "红山区"
+},
+{
+"countyId": "0403",
+"countyName": "元宝山区"
+},
+{
+"countyId": "0404",
+"countyName": "松山区"
+},
+{
+"countyId": "0421",
+"countyName": "阿鲁科尔沁旗"
+},
+{
+"countyId": "0422",
+"countyName": "巴林左旗"
+},
+{
+"countyId": "0423",
+"countyName": "巴林右旗"
+},
+{
+"countyId": "0424",
+"countyName": "林西县"
+},
+{
+"countyId": "0425",
+"countyName": "克什克腾旗"
+},
+{
+"countyId": "0426",
+"countyName": "翁牛特旗"
+},
+{
+"countyId": "0428",
+"countyName": "喀喇沁旗"
+},
+{
+"countyId": "0429",
+"countyName": "宁城县"
+},
+{
+"countyId": "0430",
+"countyName": "敖汉旗"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "通辽市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "科尔沁区"
+},
+{
+"countyId": "0521",
+"countyName": "科尔沁左翼中旗"
+},
+{
+"countyId": "0522",
+"countyName": "科尔沁左翼后旗"
+},
+{
+"countyId": "0523",
+"countyName": "开鲁县"
+},
+{
+"countyId": "0524",
+"countyName": "库伦旗"
+},
+{
+"countyId": "0525",
+"countyName": "奈曼旗"
+},
+{
+"countyId": "0526",
+"countyName": "扎鲁特旗"
+},
+{
+"countyId": "0581",
+"countyName": "霍林郭勒市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "鄂尔多斯市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "东胜区"
+},
+{
+"countyId": "0603",
+"countyName": "康巴什区"
+},
+{
+"countyId": "0621",
+"countyName": "达拉特旗"
+},
+{
+"countyId": "0622",
+"countyName": "准格尔旗"
+},
+{
+"countyId": "0623",
+"countyName": "鄂托克前旗"
+},
+{
+"countyId": "0624",
+"countyName": "鄂托克旗"
+},
+{
+"countyId": "0625",
+"countyName": "杭锦旗"
+},
+{
+"countyId": "0626",
+"countyName": "乌审旗"
+},
+{
+"countyId": "0627",
+"countyName": "伊金霍洛旗"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "呼伦贝尔市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "海拉尔区"
+},
+{
+"countyId": "0703",
+"countyName": "扎赉诺尔区"
+},
+{
+"countyId": "0721",
+"countyName": "阿荣旗"
+},
+{
+"countyId": "0722",
+"countyName": "莫力达瓦达斡尔族自治旗"
+},
+{
+"countyId": "0723",
+"countyName": "鄂伦春自治旗"
+},
+{
+"countyId": "0724",
+"countyName": "鄂温克族自治旗"
+},
+{
+"countyId": "0725",
+"countyName": "陈巴尔虎旗"
+},
+{
+"countyId": "0726",
+"countyName": "新巴尔虎左旗"
+},
+{
+"countyId": "0727",
+"countyName": "新巴尔虎右旗"
+},
+{
+"countyId": "0781",
+"countyName": "满洲里市"
+},
+{
+"countyId": "0782",
+"countyName": "牙克石市"
+},
+{
+"countyId": "0783",
+"countyName": "扎兰屯市"
+},
+{
+"countyId": "0784",
+"countyName": "额尔古纳市"
+},
+{
+"countyId": "0785",
+"countyName": "根河市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "巴彦淖尔市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "临河区"
+},
+{
+"countyId": "0821",
+"countyName": "五原县"
+},
+{
+"countyId": "0822",
+"countyName": "磴口县"
+},
+{
+"countyId": "0823",
+"countyName": "乌拉特前旗"
+},
+{
+"countyId": "0824",
+"countyName": "乌拉特中旗"
+},
+{
+"countyId": "0825",
+"countyName": "乌拉特后旗"
+},
+{
+"countyId": "0826",
+"countyName": "杭锦后旗"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "乌兰察布市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "集宁区"
+},
+{
+"countyId": "0921",
+"countyName": "卓资县"
+},
+{
+"countyId": "0922",
+"countyName": "化德县"
+},
+{
+"countyId": "0923",
+"countyName": "商都县"
+},
+{
+"countyId": "0924",
+"countyName": "兴和县"
+},
+{
+"countyId": "0925",
+"countyName": "凉城县"
+},
+{
+"countyId": "0926",
+"countyName": "察哈尔右翼前旗"
+},
+{
+"countyId": "0927",
+"countyName": "察哈尔右翼中旗"
+},
+{
+"countyId": "0928",
+"countyName": "察哈尔右翼后旗"
+},
+{
+"countyId": "0929",
+"countyName": "四子王旗"
+},
+{
+"countyId": "0981",
+"countyName": "丰镇市"
+}
+]
+},
+{
+"districtId": "2200",
+"districtName": "兴安盟",
+"county": [
+{
+"countyId": "2201",
+"countyName": "乌兰浩特市"
+},
+{
+"countyId": "2202",
+"countyName": "阿尔山市"
+},
+{
+"countyId": "2221",
+"countyName": "科尔沁右翼前旗"
+},
+{
+"countyId": "2222",
+"countyName": "科尔沁右翼中旗"
+},
+{
+"countyId": "2223",
+"countyName": "扎赉特旗"
+},
+{
+"countyId": "2224",
+"countyName": "突泉县"
+}
+]
+},
+{
+"districtId": "2500",
+"districtName": "锡林郭勒盟",
+"county": [
+{
+"countyId": "2501",
+"countyName": "二连浩特市"
+},
+{
+"countyId": "2502",
+"countyName": "锡林浩特市"
+},
+{
+"countyId": "2522",
+"countyName": "阿巴嘎旗"
+},
+{
+"countyId": "2523",
+"countyName": "苏尼特左旗"
+},
+{
+"countyId": "2524",
+"countyName": "苏尼特右旗"
+},
+{
+"countyId": "2525",
+"countyName": "东乌珠穆沁旗"
+},
+{
+"countyId": "2526",
+"countyName": "西乌珠穆沁旗"
+},
+{
+"countyId": "2527",
+"countyName": "太仆寺旗"
+},
+{
+"countyId": "2528",
+"countyName": "镶黄旗"
+},
+{
+"countyId": "2529",
+"countyName": "正镶白旗"
+},
+{
+"countyId": "2530",
+"countyName": "正蓝旗"
+},
+{
+"countyId": "2531",
+"countyName": "多伦县"
+}
+]
+},
+{
+"districtId": "2900",
+"districtName": "阿拉善盟",
+"county": [
+{
+"countyId": "2921",
+"countyName": "阿拉善左旗"
+},
+{
+"countyId": "2922",
+"countyName": "阿拉善右旗"
+},
+{
+"countyId": "2923",
+"countyName": "额济纳旗"
+}
+]
+}
+]
+},
+{
+"provinceId": "21",
+"provinceName": "辽宁省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "沈阳市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "和平区"
+},
+{
+"countyId": "0103",
+"countyName": "沈河区"
+},
+{
+"countyId": "0104",
+"countyName": "大东区"
+},
+{
+"countyId": "0105",
+"countyName": "皇姑区"
+},
+{
+"countyId": "0106",
+"countyName": "铁西区"
+},
+{
+"countyId": "0111",
+"countyName": "苏家屯区"
+},
+{
+"countyId": "0112",
+"countyName": "浑南区"
+},
+{
+"countyId": "0113",
+"countyName": "沈北新区"
+},
+{
+"countyId": "0114",
+"countyName": "于洪区"
+},
+{
+"countyId": "0115",
+"countyName": "辽中区"
+},
+{
+"countyId": "0123",
+"countyName": "康平县"
+},
+{
+"countyId": "0124",
+"countyName": "法库县"
+},
+{
+"countyId": "0181",
+"countyName": "新民市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "大连市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "中山区"
+},
+{
+"countyId": "0203",
+"countyName": "西岗区"
+},
+{
+"countyId": "0204",
+"countyName": "沙河口区"
+},
+{
+"countyId": "0211",
+"countyName": "甘井子区"
+},
+{
+"countyId": "0212",
+"countyName": "旅顺口区"
+},
+{
+"countyId": "0213",
+"countyName": "金州区"
+},
+{
+"countyId": "0214",
+"countyName": "普兰店区"
+},
+{
+"countyId": "0224",
+"countyName": "长海县"
+},
+{
+"countyId": "0281",
+"countyName": "瓦房店市"
+},
+{
+"countyId": "0283",
+"countyName": "庄河市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "鞍山市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "铁东区"
+},
+{
+"countyId": "0303",
+"countyName": "铁西区"
+},
+{
+"countyId": "0304",
+"countyName": "立山区"
+},
+{
+"countyId": "0311",
+"countyName": "千山区"
+},
+{
+"countyId": "0321",
+"countyName": "台安县"
+},
+{
+"countyId": "0323",
+"countyName": "岫岩满族自治县"
+},
+{
+"countyId": "0381",
+"countyName": "海城市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "抚顺市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "新抚区"
+},
+{
+"countyId": "0403",
+"countyName": "东洲区"
+},
+{
+"countyId": "0404",
+"countyName": "望花区"
+},
+{
+"countyId": "0411",
+"countyName": "顺城区"
+},
+{
+"countyId": "0421",
+"countyName": "抚顺县"
+},
+{
+"countyId": "0422",
+"countyName": "新宾满族自治县"
+},
+{
+"countyId": "0423",
+"countyName": "清原满族自治县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "本溪市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "平山区"
+},
+{
+"countyId": "0503",
+"countyName": "溪湖区"
+},
+{
+"countyId": "0504",
+"countyName": "明山区"
+},
+{
+"countyId": "0505",
+"countyName": "南芬区"
+},
+{
+"countyId": "0521",
+"countyName": "本溪满族自治县"
+},
+{
+"countyId": "0522",
+"countyName": "桓仁满族自治县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "丹东市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "元宝区"
+},
+{
+"countyId": "0603",
+"countyName": "振兴区"
+},
+{
+"countyId": "0604",
+"countyName": "振安区"
+},
+{
+"countyId": "0624",
+"countyName": "宽甸满族自治县"
+},
+{
+"countyId": "0681",
+"countyName": "东港市"
+},
+{
+"countyId": "0682",
+"countyName": "凤城市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "锦州市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "古塔区"
+},
+{
+"countyId": "0703",
+"countyName": "凌河区"
+},
+{
+"countyId": "0711",
+"countyName": "太和区"
+},
+{
+"countyId": "0726",
+"countyName": "黑山县"
+},
+{
+"countyId": "0727",
+"countyName": "义县"
+},
+{
+"countyId": "0781",
+"countyName": "凌海市"
+},
+{
+"countyId": "0782",
+"countyName": "北镇市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "营口市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "站前区"
+},
+{
+"countyId": "0803",
+"countyName": "西市区"
+},
+{
+"countyId": "0804",
+"countyName": "鲅鱼圈区"
+},
+{
+"countyId": "0811",
+"countyName": "老边区"
+},
+{
+"countyId": "0881",
+"countyName": "盖州市"
+},
+{
+"countyId": "0882",
+"countyName": "大石桥市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "阜新市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "海州区"
+},
+{
+"countyId": "0903",
+"countyName": "新邱区"
+},
+{
+"countyId": "0904",
+"countyName": "太平区"
+},
+{
+"countyId": "0905",
+"countyName": "清河门区"
+},
+{
+"countyId": "0911",
+"countyName": "细河区"
+},
+{
+"countyId": "0921",
+"countyName": "阜新蒙古族自治县"
+},
+{
+"countyId": "0922",
+"countyName": "彰武县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "辽阳市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "白塔区"
+},
+{
+"countyId": "1003",
+"countyName": "文圣区"
+},
+{
+"countyId": "1004",
+"countyName": "宏伟区"
+},
+{
+"countyId": "1005",
+"countyName": "弓长岭区"
+},
+{
+"countyId": "1011",
+"countyName": "太子河区"
+},
+{
+"countyId": "1021",
+"countyName": "辽阳县"
+},
+{
+"countyId": "1081",
+"countyName": "灯塔市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "盘锦市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "双台子区"
+},
+{
+"countyId": "1103",
+"countyName": "兴隆台区"
+},
+{
+"countyId": "1104",
+"countyName": "大洼区"
+},
+{
+"countyId": "1122",
+"countyName": "盘山县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "铁岭市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "银州区"
+},
+{
+"countyId": "1204",
+"countyName": "清河区"
+},
+{
+"countyId": "1221",
+"countyName": "铁岭县"
+},
+{
+"countyId": "1223",
+"countyName": "西丰县"
+},
+{
+"countyId": "1224",
+"countyName": "昌图县"
+},
+{
+"countyId": "1281",
+"countyName": "调兵山市"
+},
+{
+"countyId": "1282",
+"countyName": "开原市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "朝阳市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "双塔区"
+},
+{
+"countyId": "1303",
+"countyName": "龙城区"
+},
+{
+"countyId": "1321",
+"countyName": "朝阳县"
+},
+{
+"countyId": "1322",
+"countyName": "建平县"
+},
+{
+"countyId": "1324",
+"countyName": "喀喇沁左翼蒙古族自治县"
+},
+{
+"countyId": "1381",
+"countyName": "北票市"
+},
+{
+"countyId": "1382",
+"countyName": "凌源市"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "葫芦岛市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "连山区"
+},
+{
+"countyId": "1403",
+"countyName": "龙港区"
+},
+{
+"countyId": "1404",
+"countyName": "南票区"
+},
+{
+"countyId": "1421",
+"countyName": "绥中县"
+},
+{
+"countyId": "1422",
+"countyName": "建昌县"
+},
+{
+"countyId": "1481",
+"countyName": "兴城市"
+}
+]
+}
+]
+},
+{
+"provinceId": "22",
+"provinceName": "吉林省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "长春市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "南关区"
+},
+{
+"countyId": "0103",
+"countyName": "宽城区"
+},
+{
+"countyId": "0104",
+"countyName": "朝阳区"
+},
+{
+"countyId": "0105",
+"countyName": "二道区"
+},
+{
+"countyId": "0106",
+"countyName": "绿园区"
+},
+{
+"countyId": "0112",
+"countyName": "双阳区"
+},
+{
+"countyId": "0113",
+"countyName": "九台区"
+},
+{
+"countyId": "0122",
+"countyName": "农安县"
+},
+{
+"countyId": "0182",
+"countyName": "榆树市"
+},
+{
+"countyId": "0183",
+"countyName": "德惠市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "吉林市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "昌邑区"
+},
+{
+"countyId": "0203",
+"countyName": "龙潭区"
+},
+{
+"countyId": "0204",
+"countyName": "船营区"
+},
+{
+"countyId": "0211",
+"countyName": "丰满区"
+},
+{
+"countyId": "0221",
+"countyName": "永吉县"
+},
+{
+"countyId": "0281",
+"countyName": "蛟河市"
+},
+{
+"countyId": "0282",
+"countyName": "桦甸市"
+},
+{
+"countyId": "0283",
+"countyName": "舒兰市"
+},
+{
+"countyId": "0284",
+"countyName": "磐石市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "四平市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "铁西区"
+},
+{
+"countyId": "0303",
+"countyName": "铁东区"
+},
+{
+"countyId": "0322",
+"countyName": "梨树县"
+},
+{
+"countyId": "0323",
+"countyName": "伊通满族自治县"
+},
+{
+"countyId": "0381",
+"countyName": "公主岭市"
+},
+{
+"countyId": "0382",
+"countyName": "双辽市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "辽源市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "龙山区"
+},
+{
+"countyId": "0403",
+"countyName": "西安区"
+},
+{
+"countyId": "0421",
+"countyName": "东丰县"
+},
+{
+"countyId": "0422",
+"countyName": "东辽县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "通化市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "东昌区"
+},
+{
+"countyId": "0503",
+"countyName": "二道江区"
+},
+{
+"countyId": "0521",
+"countyName": "通化县"
+},
+{
+"countyId": "0523",
+"countyName": "辉南县"
+},
+{
+"countyId": "0524",
+"countyName": "柳河县"
+},
+{
+"countyId": "0581",
+"countyName": "梅河口市"
+},
+{
+"countyId": "0582",
+"countyName": "集安市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "白山市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "浑江区"
+},
+{
+"countyId": "0605",
+"countyName": "江源区"
+},
+{
+"countyId": "0621",
+"countyName": "抚松县"
+},
+{
+"countyId": "0622",
+"countyName": "靖宇县"
+},
+{
+"countyId": "0623",
+"countyName": "长白朝鲜族自治县"
+},
+{
+"countyId": "0681",
+"countyName": "临江市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "松原市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "宁江区"
+},
+{
+"countyId": "0721",
+"countyName": "前郭尔罗斯蒙古族自治县"
+},
+{
+"countyId": "0722",
+"countyName": "长岭县"
+},
+{
+"countyId": "0723",
+"countyName": "乾安县"
+},
+{
+"countyId": "0781",
+"countyName": "扶余市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "白城市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "洮北区"
+},
+{
+"countyId": "0821",
+"countyName": "镇赉县"
+},
+{
+"countyId": "0822",
+"countyName": "通榆县"
+},
+{
+"countyId": "0881",
+"countyName": "洮南市"
+},
+{
+"countyId": "0882",
+"countyName": "大安市"
+}
+]
+},
+{
+"districtId": "2400",
+"districtName": "延边朝鲜族自治州",
+"county": [
+{
+"countyId": "2401",
+"countyName": "延吉市"
+},
+{
+"countyId": "2402",
+"countyName": "图们市"
+},
+{
+"countyId": "2403",
+"countyName": "敦化市"
+},
+{
+"countyId": "2404",
+"countyName": "珲春市"
+},
+{
+"countyId": "2405",
+"countyName": "龙井市"
+},
+{
+"countyId": "2406",
+"countyName": "和龙市"
+},
+{
+"countyId": "2424",
+"countyName": "汪清县"
+},
+{
+"countyId": "2426",
+"countyName": "安图县"
+}
+]
+}
+]
+},
+{
+"provinceId": "23",
+"provinceName": "黑龙江省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "哈尔滨市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "道里区"
+},
+{
+"countyId": "0103",
+"countyName": "南岗区"
+},
+{
+"countyId": "0104",
+"countyName": "道外区"
+},
+{
+"countyId": "0108",
+"countyName": "平房区"
+},
+{
+"countyId": "0109",
+"countyName": "松北区"
+},
+{
+"countyId": "0110",
+"countyName": "香坊区"
+},
+{
+"countyId": "0111",
+"countyName": "呼兰区"
+},
+{
+"countyId": "0112",
+"countyName": "阿城区"
+},
+{
+"countyId": "0113",
+"countyName": "双城区"
+},
+{
+"countyId": "0123",
+"countyName": "依兰县"
+},
+{
+"countyId": "0124",
+"countyName": "方正县"
+},
+{
+"countyId": "0125",
+"countyName": "宾县"
+},
+{
+"countyId": "0126",
+"countyName": "巴彦县"
+},
+{
+"countyId": "0127",
+"countyName": "木兰县"
+},
+{
+"countyId": "0128",
+"countyName": "通河县"
+},
+{
+"countyId": "0129",
+"countyName": "延寿县"
+},
+{
+"countyId": "0183",
+"countyName": "尚志市"
+},
+{
+"countyId": "0184",
+"countyName": "五常市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "齐齐哈尔市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "龙沙区"
+},
+{
+"countyId": "0203",
+"countyName": "建华区"
+},
+{
+"countyId": "0204",
+"countyName": "铁锋区"
+},
+{
+"countyId": "0205",
+"countyName": "昂昂溪区"
+},
+{
+"countyId": "0206",
+"countyName": "富拉尔基区"
+},
+{
+"countyId": "0207",
+"countyName": "碾子山区"
+},
+{
+"countyId": "0208",
+"countyName": "梅里斯达斡尔族区"
+},
+{
+"countyId": "0221",
+"countyName": "龙江县"
+},
+{
+"countyId": "0223",
+"countyName": "依安县"
+},
+{
+"countyId": "0224",
+"countyName": "泰来县"
+},
+{
+"countyId": "0225",
+"countyName": "甘南县"
+},
+{
+"countyId": "0227",
+"countyName": "富裕县"
+},
+{
+"countyId": "0229",
+"countyName": "克山县"
+},
+{
+"countyId": "0230",
+"countyName": "克东县"
+},
+{
+"countyId": "0231",
+"countyName": "拜泉县"
+},
+{
+"countyId": "0281",
+"countyName": "讷河市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "鸡西市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "鸡冠区"
+},
+{
+"countyId": "0303",
+"countyName": "恒山区"
+},
+{
+"countyId": "0304",
+"countyName": "滴道区"
+},
+{
+"countyId": "0305",
+"countyName": "梨树区"
+},
+{
+"countyId": "0306",
+"countyName": "城子河区"
+},
+{
+"countyId": "0307",
+"countyName": "麻山区"
+},
+{
+"countyId": "0321",
+"countyName": "鸡东县"
+},
+{
+"countyId": "0381",
+"countyName": "虎林市"
+},
+{
+"countyId": "0382",
+"countyName": "密山市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "鹤岗市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "向阳区"
+},
+{
+"countyId": "0403",
+"countyName": "工农区"
+},
+{
+"countyId": "0404",
+"countyName": "南山区"
+},
+{
+"countyId": "0405",
+"countyName": "兴安区"
+},
+{
+"countyId": "0406",
+"countyName": "东山区"
+},
+{
+"countyId": "0407",
+"countyName": "兴山区"
+},
+{
+"countyId": "0421",
+"countyName": "萝北县"
+},
+{
+"countyId": "0422",
+"countyName": "绥滨县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "双鸭山市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "尖山区"
+},
+{
+"countyId": "0503",
+"countyName": "岭东区"
+},
+{
+"countyId": "0505",
+"countyName": "四方台区"
+},
+{
+"countyId": "0506",
+"countyName": "宝山区"
+},
+{
+"countyId": "0521",
+"countyName": "集贤县"
+},
+{
+"countyId": "0522",
+"countyName": "友谊县"
+},
+{
+"countyId": "0523",
+"countyName": "宝清县"
+},
+{
+"countyId": "0524",
+"countyName": "饶河县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "大庆市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "萨尔图区"
+},
+{
+"countyId": "0603",
+"countyName": "龙凤区"
+},
+{
+"countyId": "0604",
+"countyName": "让胡路区"
+},
+{
+"countyId": "0605",
+"countyName": "红岗区"
+},
+{
+"countyId": "0606",
+"countyName": "大同区"
+},
+{
+"countyId": "0621",
+"countyName": "肇州县"
+},
+{
+"countyId": "0622",
+"countyName": "肇源县"
+},
+{
+"countyId": "0623",
+"countyName": "林甸县"
+},
+{
+"countyId": "0624",
+"countyName": "杜尔伯特蒙古族自治县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "伊春市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "伊春区"
+},
+{
+"countyId": "0703",
+"countyName": "南岔区"
+},
+{
+"countyId": "0704",
+"countyName": "友好区"
+},
+{
+"countyId": "0705",
+"countyName": "西林区"
+},
+{
+"countyId": "0706",
+"countyName": "翠峦区"
+},
+{
+"countyId": "0707",
+"countyName": "新青区"
+},
+{
+"countyId": "0708",
+"countyName": "美溪区"
+},
+{
+"countyId": "0709",
+"countyName": "金山屯区"
+},
+{
+"countyId": "0710",
+"countyName": "五营区"
+},
+{
+"countyId": "0711",
+"countyName": "乌马河区"
+},
+{
+"countyId": "0712",
+"countyName": "汤旺河区"
+},
+{
+"countyId": "0713",
+"countyName": "带岭区"
+},
+{
+"countyId": "0714",
+"countyName": "乌伊岭区"
+},
+{
+"countyId": "0715",
+"countyName": "红星区"
+},
+{
+"countyId": "0716",
+"countyName": "上甘岭区"
+},
+{
+"countyId": "0722",
+"countyName": "嘉荫县"
+},
+{
+"countyId": "0781",
+"countyName": "铁力市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "佳木斯市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0803",
+"countyName": "向阳区"
+},
+{
+"countyId": "0804",
+"countyName": "前进区"
+},
+{
+"countyId": "0805",
+"countyName": "东风区"
+},
+{
+"countyId": "0811",
+"countyName": "郊区"
+},
+{
+"countyId": "0822",
+"countyName": "桦南县"
+},
+{
+"countyId": "0826",
+"countyName": "桦川县"
+},
+{
+"countyId": "0828",
+"countyName": "汤原县"
+},
+{
+"countyId": "0881",
+"countyName": "同江市"
+},
+{
+"countyId": "0882",
+"countyName": "富锦市"
+},
+{
+"countyId": "0883",
+"countyName": "抚远市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "七台河市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "新兴区"
+},
+{
+"countyId": "0903",
+"countyName": "桃山区"
+},
+{
+"countyId": "0904",
+"countyName": "茄子河区"
+},
+{
+"countyId": "0921",
+"countyName": "勃利县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "牡丹江市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "东安区"
+},
+{
+"countyId": "1003",
+"countyName": "阳明区"
+},
+{
+"countyId": "1004",
+"countyName": "爱民区"
+},
+{
+"countyId": "1005",
+"countyName": "西安区"
+},
+{
+"countyId": "1025",
+"countyName": "林口县"
+},
+{
+"countyId": "1081",
+"countyName": "绥芬河市"
+},
+{
+"countyId": "1083",
+"countyName": "海林市"
+},
+{
+"countyId": "1084",
+"countyName": "宁安市"
+},
+{
+"countyId": "1085",
+"countyName": "穆棱市"
+},
+{
+"countyId": "1086",
+"countyName": "东宁市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "黑河市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "爱辉区"
+},
+{
+"countyId": "1121",
+"countyName": "嫩江县"
+},
+{
+"countyId": "1123",
+"countyName": "逊克县"
+},
+{
+"countyId": "1124",
+"countyName": "孙吴县"
+},
+{
+"countyId": "1181",
+"countyName": "北安市"
+},
+{
+"countyId": "1182",
+"countyName": "五大连池市"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "绥化市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "北林区"
+},
+{
+"countyId": "1221",
+"countyName": "望奎县"
+},
+{
+"countyId": "1222",
+"countyName": "兰西县"
+},
+{
+"countyId": "1223",
+"countyName": "青冈县"
+},
+{
+"countyId": "1224",
+"countyName": "庆安县"
+},
+{
+"countyId": "1225",
+"countyName": "明水县"
+},
+{
+"countyId": "1226",
+"countyName": "绥棱县"
+},
+{
+"countyId": "1281",
+"countyName": "安达市"
+},
+{
+"countyId": "1282",
+"countyName": "肇东市"
+},
+{
+"countyId": "1283",
+"countyName": "海伦市"
+}
+]
+},
+{
+"districtId": "2700",
+"districtName": "大兴安岭地区",
+"county": [
+{
+"countyId": "2721",
+"countyName": "呼玛县"
+},
+{
+"countyId": "2722",
+"countyName": "塔河县"
+},
+{
+"countyId": "2723",
+"countyName": "漠河县"
+}
+]
+}
+]
+},
+{
+"provinceId": "31",
+"provinceName": "上海市",
+"district": [
+{
+"districtId": "0100",
+"districtName": "市辖区",
+"county": [
+{
+"countyId": "0101",
+"countyName": "黄浦区"
+},
+{
+"countyId": "0104",
+"countyName": "徐汇区"
+},
+{
+"countyId": "0105",
+"countyName": "长宁区"
+},
+{
+"countyId": "0106",
+"countyName": "静安区"
+},
+{
+"countyId": "0107",
+"countyName": "普陀区"
+},
+{
+"countyId": "0109",
+"countyName": "虹口区"
+},
+{
+"countyId": "0110",
+"countyName": "杨浦区"
+},
+{
+"countyId": "0112",
+"countyName": "闵行区"
+},
+{
+"countyId": "0113",
+"countyName": "宝山区"
+},
+{
+"countyId": "0114",
+"countyName": "嘉定区"
+},
+{
+"countyId": "0115",
+"countyName": "浦东新区"
+},
+{
+"countyId": "0116",
+"countyName": "金山区"
+},
+{
+"countyId": "0117",
+"countyName": "松江区"
+},
+{
+"countyId": "0118",
+"countyName": "青浦区"
+},
+{
+"countyId": "0120",
+"countyName": "奉贤区"
+},
+{
+"countyId": "0151",
+"countyName": "崇明区"
+}
+]
+}
+]
+},
+{
+"provinceId": "32",
+"provinceName": "江苏省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "南京市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "玄武区"
+},
+{
+"countyId": "0104",
+"countyName": "秦淮区"
+},
+{
+"countyId": "0105",
+"countyName": "建邺区"
+},
+{
+"countyId": "0106",
+"countyName": "鼓楼区"
+},
+{
+"countyId": "0111",
+"countyName": "浦口区"
+},
+{
+"countyId": "0113",
+"countyName": "栖霞区"
+},
+{
+"countyId": "0114",
+"countyName": "雨花台区"
+},
+{
+"countyId": "0115",
+"countyName": "江宁区"
+},
+{
+"countyId": "0116",
+"countyName": "六合区"
+},
+{
+"countyId": "0117",
+"countyName": "溧水区"
+},
+{
+"countyId": "0118",
+"countyName": "高淳区"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "无锡市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0205",
+"countyName": "锡山区"
+},
+{
+"countyId": "0206",
+"countyName": "惠山区"
+},
+{
+"countyId": "0211",
+"countyName": "滨湖区"
+},
+{
+"countyId": "0213",
+"countyName": "梁溪区"
+},
+{
+"countyId": "0214",
+"countyName": "新吴区"
+},
+{
+"countyId": "0281",
+"countyName": "江阴市"
+},
+{
+"countyId": "0282",
+"countyName": "宜兴市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "徐州市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "鼓楼区"
+},
+{
+"countyId": "0303",
+"countyName": "云龙区"
+},
+{
+"countyId": "0305",
+"countyName": "贾汪区"
+},
+{
+"countyId": "0311",
+"countyName": "泉山区"
+},
+{
+"countyId": "0312",
+"countyName": "铜山区"
+},
+{
+"countyId": "0321",
+"countyName": "丰县"
+},
+{
+"countyId": "0322",
+"countyName": "沛县"
+},
+{
+"countyId": "0324",
+"countyName": "睢宁县"
+},
+{
+"countyId": "0381",
+"countyName": "新沂市"
+},
+{
+"countyId": "0382",
+"countyName": "邳州市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "常州市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "天宁区"
+},
+{
+"countyId": "0404",
+"countyName": "钟楼区"
+},
+{
+"countyId": "0411",
+"countyName": "新北区"
+},
+{
+"countyId": "0412",
+"countyName": "武进区"
+},
+{
+"countyId": "0413",
+"countyName": "金坛区"
+},
+{
+"countyId": "0481",
+"countyName": "溧阳市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "苏州市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0505",
+"countyName": "虎丘区"
+},
+{
+"countyId": "0506",
+"countyName": "吴中区"
+},
+{
+"countyId": "0507",
+"countyName": "相城区"
+},
+{
+"countyId": "0508",
+"countyName": "姑苏区"
+},
+{
+"countyId": "0509",
+"countyName": "吴江区"
+},
+{
+"countyId": "0581",
+"countyName": "常熟市"
+},
+{
+"countyId": "0582",
+"countyName": "张家港市"
+},
+{
+"countyId": "0583",
+"countyName": "昆山市"
+},
+{
+"countyId": "0585",
+"countyName": "太仓市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "南通市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "崇川区"
+},
+{
+"countyId": "0611",
+"countyName": "港闸区"
+},
+{
+"countyId": "0612",
+"countyName": "通州区"
+},
+{
+"countyId": "0621",
+"countyName": "海安县"
+},
+{
+"countyId": "0623",
+"countyName": "如东县"
+},
+{
+"countyId": "0681",
+"countyName": "启东市"
+},
+{
+"countyId": "0682",
+"countyName": "如皋市"
+},
+{
+"countyId": "0684",
+"countyName": "海门市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "连云港市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0703",
+"countyName": "连云区"
+},
+{
+"countyId": "0706",
+"countyName": "海州区"
+},
+{
+"countyId": "0707",
+"countyName": "赣榆区"
+},
+{
+"countyId": "0722",
+"countyName": "东海县"
+},
+{
+"countyId": "0723",
+"countyName": "灌云县"
+},
+{
+"countyId": "0724",
+"countyName": "灌南县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "淮安市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0803",
+"countyName": "淮安区"
+},
+{
+"countyId": "0804",
+"countyName": "淮阴区"
+},
+{
+"countyId": "0812",
+"countyName": "清江浦区"
+},
+{
+"countyId": "0813",
+"countyName": "洪泽区"
+},
+{
+"countyId": "0826",
+"countyName": "涟水县"
+},
+{
+"countyId": "0830",
+"countyName": "盱眙县"
+},
+{
+"countyId": "0831",
+"countyName": "金湖县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "盐城市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "亭湖区"
+},
+{
+"countyId": "0903",
+"countyName": "盐都区"
+},
+{
+"countyId": "0904",
+"countyName": "大丰区"
+},
+{
+"countyId": "0921",
+"countyName": "响水县"
+},
+{
+"countyId": "0922",
+"countyName": "滨海县"
+},
+{
+"countyId": "0923",
+"countyName": "阜宁县"
+},
+{
+"countyId": "0924",
+"countyName": "射阳县"
+},
+{
+"countyId": "0925",
+"countyName": "建湖县"
+},
+{
+"countyId": "0981",
+"countyName": "东台市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "扬州市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "广陵区"
+},
+{
+"countyId": "1003",
+"countyName": "邗江区"
+},
+{
+"countyId": "1012",
+"countyName": "江都区"
+},
+{
+"countyId": "1023",
+"countyName": "宝应县"
+},
+{
+"countyId": "1081",
+"countyName": "仪征市"
+},
+{
+"countyId": "1084",
+"countyName": "高邮市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "镇江市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "京口区"
+},
+{
+"countyId": "1111",
+"countyName": "润州区"
+},
+{
+"countyId": "1112",
+"countyName": "丹徒区"
+},
+{
+"countyId": "1181",
+"countyName": "丹阳市"
+},
+{
+"countyId": "1182",
+"countyName": "扬中市"
+},
+{
+"countyId": "1183",
+"countyName": "句容市"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "泰州市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "海陵区"
+},
+{
+"countyId": "1203",
+"countyName": "高港区"
+},
+{
+"countyId": "1204",
+"countyName": "姜堰区"
+},
+{
+"countyId": "1281",
+"countyName": "兴化市"
+},
+{
+"countyId": "1282",
+"countyName": "靖江市"
+},
+{
+"countyId": "1283",
+"countyName": "泰兴市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "宿迁市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "宿城区"
+},
+{
+"countyId": "1311",
+"countyName": "宿豫区"
+},
+{
+"countyId": "1322",
+"countyName": "沭阳县"
+},
+{
+"countyId": "1323",
+"countyName": "泗阳县"
+},
+{
+"countyId": "1324",
+"countyName": "泗洪县"
+}
+]
+}
+]
+},
+{
+"provinceId": "33",
+"provinceName": "浙江省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "杭州市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "上城区"
+},
+{
+"countyId": "0103",
+"countyName": "下城区"
+},
+{
+"countyId": "0104",
+"countyName": "江干区"
+},
+{
+"countyId": "0105",
+"countyName": "拱墅区"
+},
+{
+"countyId": "0106",
+"countyName": "西湖区"
+},
+{
+"countyId": "0108",
+"countyName": "滨江区"
+},
+{
+"countyId": "0109",
+"countyName": "萧山区"
+},
+{
+"countyId": "0110",
+"countyName": "余杭区"
+},
+{
+"countyId": "0111",
+"countyName": "富阳区"
+},
+{
+"countyId": "0122",
+"countyName": "桐庐县"
+},
+{
+"countyId": "0127",
+"countyName": "淳安县"
+},
+{
+"countyId": "0182",
+"countyName": "建德市"
+},
+{
+"countyId": "0185",
+"countyName": "临安市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "宁波市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0203",
+"countyName": "海曙区"
+},
+{
+"countyId": "0204",
+"countyName": "江东区"
+},
+{
+"countyId": "0205",
+"countyName": "江北区"
+},
+{
+"countyId": "0206",
+"countyName": "北仑区"
+},
+{
+"countyId": "0211",
+"countyName": "镇海区"
+},
+{
+"countyId": "0212",
+"countyName": "鄞州区"
+},
+{
+"countyId": "0225",
+"countyName": "象山县"
+},
+{
+"countyId": "0226",
+"countyName": "宁海县"
+},
+{
+"countyId": "0281",
+"countyName": "余姚市"
+},
+{
+"countyId": "0282",
+"countyName": "慈溪市"
+},
+{
+"countyId": "0283",
+"countyName": "奉化市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "温州市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "鹿城区"
+},
+{
+"countyId": "0303",
+"countyName": "龙湾区"
+},
+{
+"countyId": "0304",
+"countyName": "瓯海区"
+},
+{
+"countyId": "0305",
+"countyName": "洞头区"
+},
+{
+"countyId": "0324",
+"countyName": "永嘉县"
+},
+{
+"countyId": "0326",
+"countyName": "平阳县"
+},
+{
+"countyId": "0327",
+"countyName": "苍南县"
+},
+{
+"countyId": "0328",
+"countyName": "文成县"
+},
+{
+"countyId": "0329",
+"countyName": "泰顺县"
+},
+{
+"countyId": "0381",
+"countyName": "瑞安市"
+},
+{
+"countyId": "0382",
+"countyName": "乐清市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "嘉兴市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "南湖区"
+},
+{
+"countyId": "0411",
+"countyName": "秀洲区"
+},
+{
+"countyId": "0421",
+"countyName": "嘉善县"
+},
+{
+"countyId": "0424",
+"countyName": "海盐县"
+},
+{
+"countyId": "0481",
+"countyName": "海宁市"
+},
+{
+"countyId": "0482",
+"countyName": "平湖市"
+},
+{
+"countyId": "0483",
+"countyName": "桐乡市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "湖州市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "吴兴区"
+},
+{
+"countyId": "0503",
+"countyName": "南浔区"
+},
+{
+"countyId": "0521",
+"countyName": "德清县"
+},
+{
+"countyId": "0522",
+"countyName": "长兴县"
+},
+{
+"countyId": "0523",
+"countyName": "安吉县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "绍兴市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "越城区"
+},
+{
+"countyId": "0603",
+"countyName": "柯桥区"
+},
+{
+"countyId": "0604",
+"countyName": "上虞区"
+},
+{
+"countyId": "0624",
+"countyName": "新昌县"
+},
+{
+"countyId": "0681",
+"countyName": "诸暨市"
+},
+{
+"countyId": "0683",
+"countyName": "嵊州市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "金华市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "婺城区"
+},
+{
+"countyId": "0703",
+"countyName": "金东区"
+},
+{
+"countyId": "0723",
+"countyName": "武义县"
+},
+{
+"countyId": "0726",
+"countyName": "浦江县"
+},
+{
+"countyId": "0727",
+"countyName": "磐安县"
+},
+{
+"countyId": "0781",
+"countyName": "兰溪市"
+},
+{
+"countyId": "0782",
+"countyName": "义乌市"
+},
+{
+"countyId": "0783",
+"countyName": "东阳市"
+},
+{
+"countyId": "0784",
+"countyName": "永康市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "衢州市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "柯城区"
+},
+{
+"countyId": "0803",
+"countyName": "衢江区"
+},
+{
+"countyId": "0822",
+"countyName": "常山县"
+},
+{
+"countyId": "0824",
+"countyName": "开化县"
+},
+{
+"countyId": "0825",
+"countyName": "龙游县"
+},
+{
+"countyId": "0881",
+"countyName": "江山市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "舟山市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "定海区"
+},
+{
+"countyId": "0903",
+"countyName": "普陀区"
+},
+{
+"countyId": "0921",
+"countyName": "岱山县"
+},
+{
+"countyId": "0922",
+"countyName": "嵊泗县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "台州市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "椒江区"
+},
+{
+"countyId": "1003",
+"countyName": "黄岩区"
+},
+{
+"countyId": "1004",
+"countyName": "路桥区"
+},
+{
+"countyId": "1021",
+"countyName": "玉环县"
+},
+{
+"countyId": "1022",
+"countyName": "三门县"
+},
+{
+"countyId": "1023",
+"countyName": "天台县"
+},
+{
+"countyId": "1024",
+"countyName": "仙居县"
+},
+{
+"countyId": "1081",
+"countyName": "温岭市"
+},
+{
+"countyId": "1082",
+"countyName": "临海市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "丽水市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "莲都区"
+},
+{
+"countyId": "1121",
+"countyName": "青田县"
+},
+{
+"countyId": "1122",
+"countyName": "缙云县"
+},
+{
+"countyId": "1123",
+"countyName": "遂昌县"
+},
+{
+"countyId": "1124",
+"countyName": "松阳县"
+},
+{
+"countyId": "1125",
+"countyName": "云和县"
+},
+{
+"countyId": "1126",
+"countyName": "庆元县"
+},
+{
+"countyId": "1127",
+"countyName": "景宁畲族自治县"
+},
+{
+"countyId": "1181",
+"countyName": "龙泉市"
+}
+]
+}
+]
+},
+{
+"provinceId": "34",
+"provinceName": "安徽省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "合肥市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "瑶海区"
+},
+{
+"countyId": "0103",
+"countyName": "庐阳区"
+},
+{
+"countyId": "0104",
+"countyName": "蜀山区"
+},
+{
+"countyId": "0111",
+"countyName": "包河区"
+},
+{
+"countyId": "0121",
+"countyName": "长丰县"
+},
+{
+"countyId": "0122",
+"countyName": "肥东县"
+},
+{
+"countyId": "0123",
+"countyName": "肥西县"
+},
+{
+"countyId": "0124",
+"countyName": "庐江县"
+},
+{
+"countyId": "0181",
+"countyName": "巢湖市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "芜湖市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "镜湖区"
+},
+{
+"countyId": "0203",
+"countyName": "弋江区"
+},
+{
+"countyId": "0207",
+"countyName": "鸠江区"
+},
+{
+"countyId": "0208",
+"countyName": "三山区"
+},
+{
+"countyId": "0221",
+"countyName": "芜湖县"
+},
+{
+"countyId": "0222",
+"countyName": "繁昌县"
+},
+{
+"countyId": "0223",
+"countyName": "南陵县"
+},
+{
+"countyId": "0225",
+"countyName": "无为县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "蚌埠市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "龙子湖区"
+},
+{
+"countyId": "0303",
+"countyName": "蚌山区"
+},
+{
+"countyId": "0304",
+"countyName": "禹会区"
+},
+{
+"countyId": "0311",
+"countyName": "淮上区"
+},
+{
+"countyId": "0321",
+"countyName": "怀远县"
+},
+{
+"countyId": "0322",
+"countyName": "五河县"
+},
+{
+"countyId": "0323",
+"countyName": "固镇县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "淮南市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "大通区"
+},
+{
+"countyId": "0403",
+"countyName": "田家庵区"
+},
+{
+"countyId": "0404",
+"countyName": "谢家集区"
+},
+{
+"countyId": "0405",
+"countyName": "八公山区"
+},
+{
+"countyId": "0406",
+"countyName": "潘集区"
+},
+{
+"countyId": "0421",
+"countyName": "凤台县"
+},
+{
+"countyId": "0422",
+"countyName": "寿县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "马鞍山市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0503",
+"countyName": "花山区"
+},
+{
+"countyId": "0504",
+"countyName": "雨山区"
+},
+{
+"countyId": "0506",
+"countyName": "博望区"
+},
+{
+"countyId": "0521",
+"countyName": "当涂县"
+},
+{
+"countyId": "0522",
+"countyName": "含山县"
+},
+{
+"countyId": "0523",
+"countyName": "和县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "淮北市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "杜集区"
+},
+{
+"countyId": "0603",
+"countyName": "相山区"
+},
+{
+"countyId": "0604",
+"countyName": "烈山区"
+},
+{
+"countyId": "0621",
+"countyName": "濉溪县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "铜陵市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0705",
+"countyName": "铜官区"
+},
+{
+"countyId": "0706",
+"countyName": "义安区"
+},
+{
+"countyId": "0711",
+"countyName": "郊区"
+},
+{
+"countyId": "0722",
+"countyName": "枞阳县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "安庆市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "迎江区"
+},
+{
+"countyId": "0803",
+"countyName": "大观区"
+},
+{
+"countyId": "0811",
+"countyName": "宜秀区"
+},
+{
+"countyId": "0822",
+"countyName": "怀宁县"
+},
+{
+"countyId": "0824",
+"countyName": "潜山县"
+},
+{
+"countyId": "0825",
+"countyName": "太湖县"
+},
+{
+"countyId": "0826",
+"countyName": "宿松县"
+},
+{
+"countyId": "0827",
+"countyName": "望江县"
+},
+{
+"countyId": "0828",
+"countyName": "岳西县"
+},
+{
+"countyId": "0881",
+"countyName": "桐城市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "黄山市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "屯溪区"
+},
+{
+"countyId": "1003",
+"countyName": "黄山区"
+},
+{
+"countyId": "1004",
+"countyName": "徽州区"
+},
+{
+"countyId": "1021",
+"countyName": "歙县"
+},
+{
+"countyId": "1022",
+"countyName": "休宁县"
+},
+{
+"countyId": "1023",
+"countyName": "黟县"
+},
+{
+"countyId": "1024",
+"countyName": "祁门县"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "滁州市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "琅琊区"
+},
+{
+"countyId": "1103",
+"countyName": "南谯区"
+},
+{
+"countyId": "1122",
+"countyName": "来安县"
+},
+{
+"countyId": "1124",
+"countyName": "全椒县"
+},
+{
+"countyId": "1125",
+"countyName": "定远县"
+},
+{
+"countyId": "1126",
+"countyName": "凤阳县"
+},
+{
+"countyId": "1181",
+"countyName": "天长市"
+},
+{
+"countyId": "1182",
+"countyName": "明光市"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "阜阳市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "颍州区"
+},
+{
+"countyId": "1203",
+"countyName": "颍东区"
+},
+{
+"countyId": "1204",
+"countyName": "颍泉区"
+},
+{
+"countyId": "1221",
+"countyName": "临泉县"
+},
+{
+"countyId": "1222",
+"countyName": "太和县"
+},
+{
+"countyId": "1225",
+"countyName": "阜南县"
+},
+{
+"countyId": "1226",
+"countyName": "颍上县"
+},
+{
+"countyId": "1282",
+"countyName": "界首市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "宿州市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "埇桥区"
+},
+{
+"countyId": "1321",
+"countyName": "砀山县"
+},
+{
+"countyId": "1322",
+"countyName": "萧县"
+},
+{
+"countyId": "1323",
+"countyName": "灵璧县"
+},
+{
+"countyId": "1324",
+"countyName": "泗县"
+}
+]
+},
+{
+"districtId": "1500",
+"districtName": "六安市",
+"county": [
+{
+"countyId": "1501",
+"countyName": "市辖区"
+},
+{
+"countyId": "1502",
+"countyName": "金安区"
+},
+{
+"countyId": "1503",
+"countyName": "裕安区"
+},
+{
+"countyId": "1504",
+"countyName": "叶集区"
+},
+{
+"countyId": "1522",
+"countyName": "霍邱县"
+},
+{
+"countyId": "1523",
+"countyName": "舒城县"
+},
+{
+"countyId": "1524",
+"countyName": "金寨县"
+},
+{
+"countyId": "1525",
+"countyName": "霍山县"
+}
+]
+},
+{
+"districtId": "1600",
+"districtName": "亳州市",
+"county": [
+{
+"countyId": "1601",
+"countyName": "市辖区"
+},
+{
+"countyId": "1602",
+"countyName": "谯城区"
+},
+{
+"countyId": "1621",
+"countyName": "涡阳县"
+},
+{
+"countyId": "1622",
+"countyName": "蒙城县"
+},
+{
+"countyId": "1623",
+"countyName": "利辛县"
+}
+]
+},
+{
+"districtId": "1700",
+"districtName": "池州市",
+"county": [
+{
+"countyId": "1701",
+"countyName": "市辖区"
+},
+{
+"countyId": "1702",
+"countyName": "贵池区"
+},
+{
+"countyId": "1721",
+"countyName": "东至县"
+},
+{
+"countyId": "1722",
+"countyName": "石台县"
+},
+{
+"countyId": "1723",
+"countyName": "青阳县"
+}
+]
+},
+{
+"districtId": "1800",
+"districtName": "宣城市",
+"county": [
+{
+"countyId": "1801",
+"countyName": "市辖区"
+},
+{
+"countyId": "1802",
+"countyName": "宣州区"
+},
+{
+"countyId": "1821",
+"countyName": "郎溪县"
+},
+{
+"countyId": "1822",
+"countyName": "广德县"
+},
+{
+"countyId": "1823",
+"countyName": "泾县"
+},
+{
+"countyId": "1824",
+"countyName": "绩溪县"
+},
+{
+"countyId": "1825",
+"countyName": "旌德县"
+},
+{
+"countyId": "1881",
+"countyName": "宁国市"
+}
+]
+}
+]
+},
+{
+"provinceId": "35",
+"provinceName": "福建省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "福州市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "鼓楼区"
+},
+{
+"countyId": "0103",
+"countyName": "台江区"
+},
+{
+"countyId": "0104",
+"countyName": "仓山区"
+},
+{
+"countyId": "0105",
+"countyName": "马尾区"
+},
+{
+"countyId": "0111",
+"countyName": "晋安区"
+},
+{
+"countyId": "0121",
+"countyName": "闽侯县"
+},
+{
+"countyId": "0122",
+"countyName": "连江县"
+},
+{
+"countyId": "0123",
+"countyName": "罗源县"
+},
+{
+"countyId": "0124",
+"countyName": "闽清县"
+},
+{
+"countyId": "0125",
+"countyName": "永泰县"
+},
+{
+"countyId": "0128",
+"countyName": "平潭县"
+},
+{
+"countyId": "0181",
+"countyName": "福清市"
+},
+{
+"countyId": "0182",
+"countyName": "长乐市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "厦门市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0203",
+"countyName": "思明区"
+},
+{
+"countyId": "0205",
+"countyName": "海沧区"
+},
+{
+"countyId": "0206",
+"countyName": "湖里区"
+},
+{
+"countyId": "0211",
+"countyName": "集美区"
+},
+{
+"countyId": "0212",
+"countyName": "同安区"
+},
+{
+"countyId": "0213",
+"countyName": "翔安区"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "莆田市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "城厢区"
+},
+{
+"countyId": "0303",
+"countyName": "涵江区"
+},
+{
+"countyId": "0304",
+"countyName": "荔城区"
+},
+{
+"countyId": "0305",
+"countyName": "秀屿区"
+},
+{
+"countyId": "0322",
+"countyName": "仙游县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "三明市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "梅列区"
+},
+{
+"countyId": "0403",
+"countyName": "三元区"
+},
+{
+"countyId": "0421",
+"countyName": "明溪县"
+},
+{
+"countyId": "0423",
+"countyName": "清流县"
+},
+{
+"countyId": "0424",
+"countyName": "宁化县"
+},
+{
+"countyId": "0425",
+"countyName": "大田县"
+},
+{
+"countyId": "0426",
+"countyName": "尤溪县"
+},
+{
+"countyId": "0427",
+"countyName": "沙县"
+},
+{
+"countyId": "0428",
+"countyName": "将乐县"
+},
+{
+"countyId": "0429",
+"countyName": "泰宁县"
+},
+{
+"countyId": "0430",
+"countyName": "建宁县"
+},
+{
+"countyId": "0481",
+"countyName": "永安市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "泉州市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "鲤城区"
+},
+{
+"countyId": "0503",
+"countyName": "丰泽区"
+},
+{
+"countyId": "0504",
+"countyName": "洛江区"
+},
+{
+"countyId": "0505",
+"countyName": "泉港区"
+},
+{
+"countyId": "0521",
+"countyName": "惠安县"
+},
+{
+"countyId": "0524",
+"countyName": "安溪县"
+},
+{
+"countyId": "0525",
+"countyName": "永春县"
+},
+{
+"countyId": "0526",
+"countyName": "德化县"
+},
+{
+"countyId": "0527",
+"countyName": "金门县"
+},
+{
+"countyId": "0581",
+"countyName": "石狮市"
+},
+{
+"countyId": "0582",
+"countyName": "晋江市"
+},
+{
+"countyId": "0583",
+"countyName": "南安市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "漳州市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "芗城区"
+},
+{
+"countyId": "0603",
+"countyName": "龙文区"
+},
+{
+"countyId": "0622",
+"countyName": "云霄县"
+},
+{
+"countyId": "0623",
+"countyName": "漳浦县"
+},
+{
+"countyId": "0624",
+"countyName": "诏安县"
+},
+{
+"countyId": "0625",
+"countyName": "长泰县"
+},
+{
+"countyId": "0626",
+"countyName": "东山县"
+},
+{
+"countyId": "0627",
+"countyName": "南靖县"
+},
+{
+"countyId": "0628",
+"countyName": "平和县"
+},
+{
+"countyId": "0629",
+"countyName": "华安县"
+},
+{
+"countyId": "0681",
+"countyName": "龙海市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "南平市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "延平区"
+},
+{
+"countyId": "0703",
+"countyName": "建阳区"
+},
+{
+"countyId": "0721",
+"countyName": "顺昌县"
+},
+{
+"countyId": "0722",
+"countyName": "浦城县"
+},
+{
+"countyId": "0723",
+"countyName": "光泽县"
+},
+{
+"countyId": "0724",
+"countyName": "松溪县"
+},
+{
+"countyId": "0725",
+"countyName": "政和县"
+},
+{
+"countyId": "0781",
+"countyName": "邵武市"
+},
+{
+"countyId": "0782",
+"countyName": "武夷山市"
+},
+{
+"countyId": "0783",
+"countyName": "建瓯市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "龙岩市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "新罗区"
+},
+{
+"countyId": "0803",
+"countyName": "永定区"
+},
+{
+"countyId": "0821",
+"countyName": "长汀县"
+},
+{
+"countyId": "0823",
+"countyName": "上杭县"
+},
+{
+"countyId": "0824",
+"countyName": "武平县"
+},
+{
+"countyId": "0825",
+"countyName": "连城县"
+},
+{
+"countyId": "0881",
+"countyName": "漳平市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "宁德市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "蕉城区"
+},
+{
+"countyId": "0921",
+"countyName": "霞浦县"
+},
+{
+"countyId": "0922",
+"countyName": "古田县"
+},
+{
+"countyId": "0923",
+"countyName": "屏南县"
+},
+{
+"countyId": "0924",
+"countyName": "寿宁县"
+},
+{
+"countyId": "0925",
+"countyName": "周宁县"
+},
+{
+"countyId": "0926",
+"countyName": "柘荣县"
+},
+{
+"countyId": "0981",
+"countyName": "福安市"
+},
+{
+"countyId": "0982",
+"countyName": "福鼎市"
+}
+]
+}
+]
+},
+{
+"provinceId": "36",
+"provinceName": "江西省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "南昌市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "东湖区"
+},
+{
+"countyId": "0103",
+"countyName": "西湖区"
+},
+{
+"countyId": "0104",
+"countyName": "青云谱区"
+},
+{
+"countyId": "0105",
+"countyName": "湾里区"
+},
+{
+"countyId": "0111",
+"countyName": "青山湖区"
+},
+{
+"countyId": "0112",
+"countyName": "新建区"
+},
+{
+"countyId": "0121",
+"countyName": "南昌县"
+},
+{
+"countyId": "0123",
+"countyName": "安义县"
+},
+{
+"countyId": "0124",
+"countyName": "进贤县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "景德镇市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "昌江区"
+},
+{
+"countyId": "0203",
+"countyName": "珠山区"
+},
+{
+"countyId": "0222",
+"countyName": "浮梁县"
+},
+{
+"countyId": "0281",
+"countyName": "乐平市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "萍乡市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "安源区"
+},
+{
+"countyId": "0313",
+"countyName": "湘东区"
+},
+{
+"countyId": "0321",
+"countyName": "莲花县"
+},
+{
+"countyId": "0322",
+"countyName": "上栗县"
+},
+{
+"countyId": "0323",
+"countyName": "芦溪县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "九江市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "濂溪区"
+},
+{
+"countyId": "0403",
+"countyName": "浔阳区"
+},
+{
+"countyId": "0421",
+"countyName": "九江县"
+},
+{
+"countyId": "0423",
+"countyName": "武宁县"
+},
+{
+"countyId": "0424",
+"countyName": "修水县"
+},
+{
+"countyId": "0425",
+"countyName": "永修县"
+},
+{
+"countyId": "0426",
+"countyName": "德安县"
+},
+{
+"countyId": "0428",
+"countyName": "都昌县"
+},
+{
+"countyId": "0429",
+"countyName": "湖口县"
+},
+{
+"countyId": "0430",
+"countyName": "彭泽县"
+},
+{
+"countyId": "0481",
+"countyName": "瑞昌市"
+},
+{
+"countyId": "0482",
+"countyName": "共青城市"
+},
+{
+"countyId": "0483",
+"countyName": "庐山市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "新余市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "渝水区"
+},
+{
+"countyId": "0521",
+"countyName": "分宜县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "鹰潭市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "月湖区"
+},
+{
+"countyId": "0622",
+"countyName": "余江县"
+},
+{
+"countyId": "0681",
+"countyName": "贵溪市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "赣州市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "章贡区"
+},
+{
+"countyId": "0703",
+"countyName": "南康区"
+},
+{
+"countyId": "0721",
+"countyName": "赣县"
+},
+{
+"countyId": "0722",
+"countyName": "信丰县"
+},
+{
+"countyId": "0723",
+"countyName": "大余县"
+},
+{
+"countyId": "0724",
+"countyName": "上犹县"
+},
+{
+"countyId": "0725",
+"countyName": "崇义县"
+},
+{
+"countyId": "0726",
+"countyName": "安远县"
+},
+{
+"countyId": "0727",
+"countyName": "龙南县"
+},
+{
+"countyId": "0728",
+"countyName": "定南县"
+},
+{
+"countyId": "0729",
+"countyName": "全南县"
+},
+{
+"countyId": "0730",
+"countyName": "宁都县"
+},
+{
+"countyId": "0731",
+"countyName": "于都县"
+},
+{
+"countyId": "0732",
+"countyName": "兴国县"
+},
+{
+"countyId": "0733",
+"countyName": "会昌县"
+},
+{
+"countyId": "0734",
+"countyName": "寻乌县"
+},
+{
+"countyId": "0735",
+"countyName": "石城县"
+},
+{
+"countyId": "0781",
+"countyName": "瑞金市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "吉安市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "吉州区"
+},
+{
+"countyId": "0803",
+"countyName": "青原区"
+},
+{
+"countyId": "0821",
+"countyName": "吉安县"
+},
+{
+"countyId": "0822",
+"countyName": "吉水县"
+},
+{
+"countyId": "0823",
+"countyName": "峡江县"
+},
+{
+"countyId": "0824",
+"countyName": "新干县"
+},
+{
+"countyId": "0825",
+"countyName": "永丰县"
+},
+{
+"countyId": "0826",
+"countyName": "泰和县"
+},
+{
+"countyId": "0827",
+"countyName": "遂川县"
+},
+{
+"countyId": "0828",
+"countyName": "万安县"
+},
+{
+"countyId": "0829",
+"countyName": "安福县"
+},
+{
+"countyId": "0830",
+"countyName": "永新县"
+},
+{
+"countyId": "0881",
+"countyName": "井冈山市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "宜春市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "袁州区"
+},
+{
+"countyId": "0921",
+"countyName": "奉新县"
+},
+{
+"countyId": "0922",
+"countyName": "万载县"
+},
+{
+"countyId": "0923",
+"countyName": "上高县"
+},
+{
+"countyId": "0924",
+"countyName": "宜丰县"
+},
+{
+"countyId": "0925",
+"countyName": "靖安县"
+},
+{
+"countyId": "0926",
+"countyName": "铜鼓县"
+},
+{
+"countyId": "0981",
+"countyName": "丰城市"
+},
+{
+"countyId": "0982",
+"countyName": "樟树市"
+},
+{
+"countyId": "0983",
+"countyName": "高安市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "抚州市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "临川区"
+},
+{
+"countyId": "1021",
+"countyName": "南城县"
+},
+{
+"countyId": "1022",
+"countyName": "黎川县"
+},
+{
+"countyId": "1023",
+"countyName": "南丰县"
+},
+{
+"countyId": "1024",
+"countyName": "崇仁县"
+},
+{
+"countyId": "1025",
+"countyName": "乐安县"
+},
+{
+"countyId": "1026",
+"countyName": "宜黄县"
+},
+{
+"countyId": "1027",
+"countyName": "金溪县"
+},
+{
+"countyId": "1028",
+"countyName": "资溪县"
+},
+{
+"countyId": "1029",
+"countyName": "东乡县"
+},
+{
+"countyId": "1030",
+"countyName": "广昌县"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "上饶市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "信州区"
+},
+{
+"countyId": "1103",
+"countyName": "广丰区"
+},
+{
+"countyId": "1121",
+"countyName": "上饶县"
+},
+{
+"countyId": "1123",
+"countyName": "玉山县"
+},
+{
+"countyId": "1124",
+"countyName": "铅山县"
+},
+{
+"countyId": "1125",
+"countyName": "横峰县"
+},
+{
+"countyId": "1126",
+"countyName": "弋阳县"
+},
+{
+"countyId": "1127",
+"countyName": "余干县"
+},
+{
+"countyId": "1128",
+"countyName": "鄱阳县"
+},
+{
+"countyId": "1129",
+"countyName": "万年县"
+},
+{
+"countyId": "1130",
+"countyName": "婺源县"
+},
+{
+"countyId": "1181",
+"countyName": "德兴市"
+}
+]
+}
+]
+},
+{
+"provinceId": "37",
+"provinceName": "山东省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "济南市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "历下区"
+},
+{
+"countyId": "0103",
+"countyName": "市中区"
+},
+{
+"countyId": "0104",
+"countyName": "槐荫区"
+},
+{
+"countyId": "0105",
+"countyName": "天桥区"
+},
+{
+"countyId": "0112",
+"countyName": "历城区"
+},
+{
+"countyId": "0113",
+"countyName": "长清区"
+},
+{
+"countyId": "0124",
+"countyName": "平阴县"
+},
+{
+"countyId": "0125",
+"countyName": "济阳县"
+},
+{
+"countyId": "0126",
+"countyName": "商河县"
+},
+{
+"countyId": "0181",
+"countyName": "章丘市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "青岛市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "市南区"
+},
+{
+"countyId": "0203",
+"countyName": "市北区"
+},
+{
+"countyId": "0211",
+"countyName": "黄岛区"
+},
+{
+"countyId": "0212",
+"countyName": "崂山区"
+},
+{
+"countyId": "0213",
+"countyName": "李沧区"
+},
+{
+"countyId": "0214",
+"countyName": "城阳区"
+},
+{
+"countyId": "0281",
+"countyName": "胶州市"
+},
+{
+"countyId": "0282",
+"countyName": "即墨市"
+},
+{
+"countyId": "0283",
+"countyName": "平度市"
+},
+{
+"countyId": "0285",
+"countyName": "莱西市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "淄博市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "淄川区"
+},
+{
+"countyId": "0303",
+"countyName": "张店区"
+},
+{
+"countyId": "0304",
+"countyName": "博山区"
+},
+{
+"countyId": "0305",
+"countyName": "临淄区"
+},
+{
+"countyId": "0306",
+"countyName": "周村区"
+},
+{
+"countyId": "0321",
+"countyName": "桓台县"
+},
+{
+"countyId": "0322",
+"countyName": "高青县"
+},
+{
+"countyId": "0323",
+"countyName": "沂源县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "枣庄市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "市中区"
+},
+{
+"countyId": "0403",
+"countyName": "薛城区"
+},
+{
+"countyId": "0404",
+"countyName": "峄城区"
+},
+{
+"countyId": "0405",
+"countyName": "台儿庄区"
+},
+{
+"countyId": "0406",
+"countyName": "山亭区"
+},
+{
+"countyId": "0481",
+"countyName": "滕州市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "东营市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "东营区"
+},
+{
+"countyId": "0503",
+"countyName": "河口区"
+},
+{
+"countyId": "0505",
+"countyName": "垦利区"
+},
+{
+"countyId": "0522",
+"countyName": "利津县"
+},
+{
+"countyId": "0523",
+"countyName": "广饶县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "烟台市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "芝罘区"
+},
+{
+"countyId": "0611",
+"countyName": "福山区"
+},
+{
+"countyId": "0612",
+"countyName": "牟平区"
+},
+{
+"countyId": "0613",
+"countyName": "莱山区"
+},
+{
+"countyId": "0634",
+"countyName": "长岛县"
+},
+{
+"countyId": "0681",
+"countyName": "龙口市"
+},
+{
+"countyId": "0682",
+"countyName": "莱阳市"
+},
+{
+"countyId": "0683",
+"countyName": "莱州市"
+},
+{
+"countyId": "0684",
+"countyName": "蓬莱市"
+},
+{
+"countyId": "0685",
+"countyName": "招远市"
+},
+{
+"countyId": "0686",
+"countyName": "栖霞市"
+},
+{
+"countyId": "0687",
+"countyName": "海阳市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "潍坊市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "潍城区"
+},
+{
+"countyId": "0703",
+"countyName": "寒亭区"
+},
+{
+"countyId": "0704",
+"countyName": "坊子区"
+},
+{
+"countyId": "0705",
+"countyName": "奎文区"
+},
+{
+"countyId": "0724",
+"countyName": "临朐县"
+},
+{
+"countyId": "0725",
+"countyName": "昌乐县"
+},
+{
+"countyId": "0781",
+"countyName": "青州市"
+},
+{
+"countyId": "0782",
+"countyName": "诸城市"
+},
+{
+"countyId": "0783",
+"countyName": "寿光市"
+},
+{
+"countyId": "0784",
+"countyName": "安丘市"
+},
+{
+"countyId": "0785",
+"countyName": "高密市"
+},
+{
+"countyId": "0786",
+"countyName": "昌邑市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "济宁市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0811",
+"countyName": "任城区"
+},
+{
+"countyId": "0812",
+"countyName": "兖州区"
+},
+{
+"countyId": "0826",
+"countyName": "微山县"
+},
+{
+"countyId": "0827",
+"countyName": "鱼台县"
+},
+{
+"countyId": "0828",
+"countyName": "金乡县"
+},
+{
+"countyId": "0829",
+"countyName": "嘉祥县"
+},
+{
+"countyId": "0830",
+"countyName": "汶上县"
+},
+{
+"countyId": "0831",
+"countyName": "泗水县"
+},
+{
+"countyId": "0832",
+"countyName": "梁山县"
+},
+{
+"countyId": "0881",
+"countyName": "曲阜市"
+},
+{
+"countyId": "0883",
+"countyName": "邹城市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "泰安市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "泰山区"
+},
+{
+"countyId": "0911",
+"countyName": "岱岳区"
+},
+{
+"countyId": "0921",
+"countyName": "宁阳县"
+},
+{
+"countyId": "0923",
+"countyName": "东平县"
+},
+{
+"countyId": "0982",
+"countyName": "新泰市"
+},
+{
+"countyId": "0983",
+"countyName": "肥城市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "威海市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "环翠区"
+},
+{
+"countyId": "1003",
+"countyName": "文登区"
+},
+{
+"countyId": "1082",
+"countyName": "荣成市"
+},
+{
+"countyId": "1083",
+"countyName": "乳山市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "日照市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "东港区"
+},
+{
+"countyId": "1103",
+"countyName": "岚山区"
+},
+{
+"countyId": "1121",
+"countyName": "五莲县"
+},
+{
+"countyId": "1122",
+"countyName": "莒县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "莱芜市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "莱城区"
+},
+{
+"countyId": "1203",
+"countyName": "钢城区"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "临沂市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "兰山区"
+},
+{
+"countyId": "1311",
+"countyName": "罗庄区"
+},
+{
+"countyId": "1312",
+"countyName": "河东区"
+},
+{
+"countyId": "1321",
+"countyName": "沂南县"
+},
+{
+"countyId": "1322",
+"countyName": "郯城县"
+},
+{
+"countyId": "1323",
+"countyName": "沂水县"
+},
+{
+"countyId": "1324",
+"countyName": "兰陵县"
+},
+{
+"countyId": "1325",
+"countyName": "费县"
+},
+{
+"countyId": "1326",
+"countyName": "平邑县"
+},
+{
+"countyId": "1327",
+"countyName": "莒南县"
+},
+{
+"countyId": "1328",
+"countyName": "蒙阴县"
+},
+{
+"countyId": "1329",
+"countyName": "临沭县"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "德州市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "德城区"
+},
+{
+"countyId": "1403",
+"countyName": "陵城区"
+},
+{
+"countyId": "1422",
+"countyName": "宁津县"
+},
+{
+"countyId": "1423",
+"countyName": "庆云县"
+},
+{
+"countyId": "1424",
+"countyName": "临邑县"
+},
+{
+"countyId": "1425",
+"countyName": "齐河县"
+},
+{
+"countyId": "1426",
+"countyName": "平原县"
+},
+{
+"countyId": "1427",
+"countyName": "夏津县"
+},
+{
+"countyId": "1428",
+"countyName": "武城县"
+},
+{
+"countyId": "1481",
+"countyName": "乐陵市"
+},
+{
+"countyId": "1482",
+"countyName": "禹城市"
+}
+]
+},
+{
+"districtId": "1500",
+"districtName": "聊城市",
+"county": [
+{
+"countyId": "1501",
+"countyName": "市辖区"
+},
+{
+"countyId": "1502",
+"countyName": "东昌府区"
+},
+{
+"countyId": "1521",
+"countyName": "阳谷县"
+},
+{
+"countyId": "1522",
+"countyName": "莘县"
+},
+{
+"countyId": "1523",
+"countyName": "茌平县"
+},
+{
+"countyId": "1524",
+"countyName": "东阿县"
+},
+{
+"countyId": "1525",
+"countyName": "冠县"
+},
+{
+"countyId": "1526",
+"countyName": "高唐县"
+},
+{
+"countyId": "1581",
+"countyName": "临清市"
+}
+]
+},
+{
+"districtId": "1600",
+"districtName": "滨州市",
+"county": [
+{
+"countyId": "1601",
+"countyName": "市辖区"
+},
+{
+"countyId": "1602",
+"countyName": "滨城区"
+},
+{
+"countyId": "1603",
+"countyName": "沾化区"
+},
+{
+"countyId": "1621",
+"countyName": "惠民县"
+},
+{
+"countyId": "1622",
+"countyName": "阳信县"
+},
+{
+"countyId": "1623",
+"countyName": "无棣县"
+},
+{
+"countyId": "1625",
+"countyName": "博兴县"
+},
+{
+"countyId": "1626",
+"countyName": "邹平县"
+}
+]
+},
+{
+"districtId": "1700",
+"districtName": "菏泽市",
+"county": [
+{
+"countyId": "1701",
+"countyName": "市辖区"
+},
+{
+"countyId": "1702",
+"countyName": "牡丹区"
+},
+{
+"countyId": "1703",
+"countyName": "定陶区"
+},
+{
+"countyId": "1721",
+"countyName": "曹县"
+},
+{
+"countyId": "1722",
+"countyName": "单县"
+},
+{
+"countyId": "1723",
+"countyName": "成武县"
+},
+{
+"countyId": "1724",
+"countyName": "巨野县"
+},
+{
+"countyId": "1725",
+"countyName": "郓城县"
+},
+{
+"countyId": "1726",
+"countyName": "鄄城县"
+},
+{
+"countyId": "1728",
+"countyName": "东明县"
+}
+]
+}
+]
+},
+{
+"provinceId": "41",
+"provinceName": "河南省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "郑州市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "中原区"
+},
+{
+"countyId": "0103",
+"countyName": "二七区"
+},
+{
+"countyId": "0104",
+"countyName": "管城回族区"
+},
+{
+"countyId": "0105",
+"countyName": "金水区"
+},
+{
+"countyId": "0106",
+"countyName": "上街区"
+},
+{
+"countyId": "0108",
+"countyName": "惠济区"
+},
+{
+"countyId": "0122",
+"countyName": "中牟县"
+},
+{
+"countyId": "0181",
+"countyName": "巩义市"
+},
+{
+"countyId": "0182",
+"countyName": "荥阳市"
+},
+{
+"countyId": "0183",
+"countyName": "新密市"
+},
+{
+"countyId": "0184",
+"countyName": "新郑市"
+},
+{
+"countyId": "0185",
+"countyName": "登封市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "开封市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "龙亭区"
+},
+{
+"countyId": "0203",
+"countyName": "顺河回族区"
+},
+{
+"countyId": "0204",
+"countyName": "鼓楼区"
+},
+{
+"countyId": "0205",
+"countyName": "禹王台区"
+},
+{
+"countyId": "0211",
+"countyName": "金明区"
+},
+{
+"countyId": "0212",
+"countyName": "祥符区"
+},
+{
+"countyId": "0221",
+"countyName": "杞县"
+},
+{
+"countyId": "0222",
+"countyName": "通许县"
+},
+{
+"countyId": "0223",
+"countyName": "尉氏县"
+},
+{
+"countyId": "0225",
+"countyName": "兰考县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "洛阳市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "老城区"
+},
+{
+"countyId": "0303",
+"countyName": "西工区"
+},
+{
+"countyId": "0304",
+"countyName": "瀍河回族区"
+},
+{
+"countyId": "0305",
+"countyName": "涧西区"
+},
+{
+"countyId": "0306",
+"countyName": "吉利区"
+},
+{
+"countyId": "0311",
+"countyName": "洛龙区"
+},
+{
+"countyId": "0322",
+"countyName": "孟津县"
+},
+{
+"countyId": "0323",
+"countyName": "新安县"
+},
+{
+"countyId": "0324",
+"countyName": "栾川县"
+},
+{
+"countyId": "0325",
+"countyName": "嵩县"
+},
+{
+"countyId": "0326",
+"countyName": "汝阳县"
+},
+{
+"countyId": "0327",
+"countyName": "宜阳县"
+},
+{
+"countyId": "0328",
+"countyName": "洛宁县"
+},
+{
+"countyId": "0329",
+"countyName": "伊川县"
+},
+{
+"countyId": "0381",
+"countyName": "偃师市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "平顶山市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "新华区"
+},
+{
+"countyId": "0403",
+"countyName": "卫东区"
+},
+{
+"countyId": "0404",
+"countyName": "石龙区"
+},
+{
+"countyId": "0411",
+"countyName": "湛河区"
+},
+{
+"countyId": "0421",
+"countyName": "宝丰县"
+},
+{
+"countyId": "0422",
+"countyName": "叶县"
+},
+{
+"countyId": "0423",
+"countyName": "鲁山县"
+},
+{
+"countyId": "0425",
+"countyName": "郏县"
+},
+{
+"countyId": "0481",
+"countyName": "舞钢市"
+},
+{
+"countyId": "0482",
+"countyName": "汝州市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "安阳市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "文峰区"
+},
+{
+"countyId": "0503",
+"countyName": "北关区"
+},
+{
+"countyId": "0505",
+"countyName": "殷都区"
+},
+{
+"countyId": "0506",
+"countyName": "龙安区"
+},
+{
+"countyId": "0522",
+"countyName": "安阳县"
+},
+{
+"countyId": "0523",
+"countyName": "汤阴县"
+},
+{
+"countyId": "0526",
+"countyName": "滑县"
+},
+{
+"countyId": "0527",
+"countyName": "内黄县"
+},
+{
+"countyId": "0581",
+"countyName": "林州市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "鹤壁市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "鹤山区"
+},
+{
+"countyId": "0603",
+"countyName": "山城区"
+},
+{
+"countyId": "0611",
+"countyName": "淇滨区"
+},
+{
+"countyId": "0621",
+"countyName": "浚县"
+},
+{
+"countyId": "0622",
+"countyName": "淇县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "新乡市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "红旗区"
+},
+{
+"countyId": "0703",
+"countyName": "卫滨区"
+},
+{
+"countyId": "0704",
+"countyName": "凤泉区"
+},
+{
+"countyId": "0711",
+"countyName": "牧野区"
+},
+{
+"countyId": "0721",
+"countyName": "新乡县"
+},
+{
+"countyId": "0724",
+"countyName": "获嘉县"
+},
+{
+"countyId": "0725",
+"countyName": "原阳县"
+},
+{
+"countyId": "0726",
+"countyName": "延津县"
+},
+{
+"countyId": "0727",
+"countyName": "封丘县"
+},
+{
+"countyId": "0728",
+"countyName": "长垣县"
+},
+{
+"countyId": "0781",
+"countyName": "卫辉市"
+},
+{
+"countyId": "0782",
+"countyName": "辉县市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "焦作市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "解放区"
+},
+{
+"countyId": "0803",
+"countyName": "中站区"
+},
+{
+"countyId": "0804",
+"countyName": "马村区"
+},
+{
+"countyId": "0811",
+"countyName": "山阳区"
+},
+{
+"countyId": "0821",
+"countyName": "修武县"
+},
+{
+"countyId": "0822",
+"countyName": "博爱县"
+},
+{
+"countyId": "0823",
+"countyName": "武陟县"
+},
+{
+"countyId": "0825",
+"countyName": "温县"
+},
+{
+"countyId": "0882",
+"countyName": "沁阳市"
+},
+{
+"countyId": "0883",
+"countyName": "孟州市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "濮阳市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "华龙区"
+},
+{
+"countyId": "0922",
+"countyName": "清丰县"
+},
+{
+"countyId": "0923",
+"countyName": "南乐县"
+},
+{
+"countyId": "0926",
+"countyName": "范县"
+},
+{
+"countyId": "0927",
+"countyName": "台前县"
+},
+{
+"countyId": "0928",
+"countyName": "濮阳县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "许昌市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "魏都区"
+},
+{
+"countyId": "1023",
+"countyName": "许昌县"
+},
+{
+"countyId": "1024",
+"countyName": "鄢陵县"
+},
+{
+"countyId": "1025",
+"countyName": "襄城县"
+},
+{
+"countyId": "1081",
+"countyName": "禹州市"
+},
+{
+"countyId": "1082",
+"countyName": "长葛市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "漯河市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "源汇区"
+},
+{
+"countyId": "1103",
+"countyName": "郾城区"
+},
+{
+"countyId": "1104",
+"countyName": "召陵区"
+},
+{
+"countyId": "1121",
+"countyName": "舞阳县"
+},
+{
+"countyId": "1122",
+"countyName": "临颍县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "三门峡市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "湖滨区"
+},
+{
+"countyId": "1203",
+"countyName": "陕州区"
+},
+{
+"countyId": "1221",
+"countyName": "渑池县"
+},
+{
+"countyId": "1224",
+"countyName": "卢氏县"
+},
+{
+"countyId": "1281",
+"countyName": "义马市"
+},
+{
+"countyId": "1282",
+"countyName": "灵宝市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "南阳市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "宛城区"
+},
+{
+"countyId": "1303",
+"countyName": "卧龙区"
+},
+{
+"countyId": "1321",
+"countyName": "南召县"
+},
+{
+"countyId": "1322",
+"countyName": "方城县"
+},
+{
+"countyId": "1323",
+"countyName": "西峡县"
+},
+{
+"countyId": "1324",
+"countyName": "镇平县"
+},
+{
+"countyId": "1325",
+"countyName": "内乡县"
+},
+{
+"countyId": "1326",
+"countyName": "淅川县"
+},
+{
+"countyId": "1327",
+"countyName": "社旗县"
+},
+{
+"countyId": "1328",
+"countyName": "唐河县"
+},
+{
+"countyId": "1329",
+"countyName": "新野县"
+},
+{
+"countyId": "1330",
+"countyName": "桐柏县"
+},
+{
+"countyId": "1381",
+"countyName": "邓州市"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "商丘市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "梁园区"
+},
+{
+"countyId": "1403",
+"countyName": "睢阳区"
+},
+{
+"countyId": "1421",
+"countyName": "民权县"
+},
+{
+"countyId": "1422",
+"countyName": "睢县"
+},
+{
+"countyId": "1423",
+"countyName": "宁陵县"
+},
+{
+"countyId": "1424",
+"countyName": "柘城县"
+},
+{
+"countyId": "1425",
+"countyName": "虞城县"
+},
+{
+"countyId": "1426",
+"countyName": "夏邑县"
+},
+{
+"countyId": "1481",
+"countyName": "永城市"
+}
+]
+},
+{
+"districtId": "1500",
+"districtName": "信阳市",
+"county": [
+{
+"countyId": "1501",
+"countyName": "市辖区"
+},
+{
+"countyId": "1502",
+"countyName": "浉河区"
+},
+{
+"countyId": "1503",
+"countyName": "平桥区"
+},
+{
+"countyId": "1521",
+"countyName": "罗山县"
+},
+{
+"countyId": "1522",
+"countyName": "光山县"
+},
+{
+"countyId": "1523",
+"countyName": "新县"
+},
+{
+"countyId": "1524",
+"countyName": "商城县"
+},
+{
+"countyId": "1525",
+"countyName": "固始县"
+},
+{
+"countyId": "1526",
+"countyName": "潢川县"
+},
+{
+"countyId": "1527",
+"countyName": "淮滨县"
+},
+{
+"countyId": "1528",
+"countyName": "息县"
+}
+]
+},
+{
+"districtId": "1600",
+"districtName": "周口市",
+"county": [
+{
+"countyId": "1601",
+"countyName": "市辖区"
+},
+{
+"countyId": "1602",
+"countyName": "川汇区"
+},
+{
+"countyId": "1621",
+"countyName": "扶沟县"
+},
+{
+"countyId": "1622",
+"countyName": "西华县"
+},
+{
+"countyId": "1623",
+"countyName": "商水县"
+},
+{
+"countyId": "1624",
+"countyName": "沈丘县"
+},
+{
+"countyId": "1625",
+"countyName": "郸城县"
+},
+{
+"countyId": "1626",
+"countyName": "淮阳县"
+},
+{
+"countyId": "1627",
+"countyName": "太康县"
+},
+{
+"countyId": "1628",
+"countyName": "鹿邑县"
+},
+{
+"countyId": "1681",
+"countyName": "项城市"
+}
+]
+},
+{
+"districtId": "1700",
+"districtName": "驻马店市",
+"county": [
+{
+"countyId": "1701",
+"countyName": "市辖区"
+},
+{
+"countyId": "1702",
+"countyName": "驿城区"
+},
+{
+"countyId": "1721",
+"countyName": "西平县"
+},
+{
+"countyId": "1722",
+"countyName": "上蔡县"
+},
+{
+"countyId": "1723",
+"countyName": "平舆县"
+},
+{
+"countyId": "1724",
+"countyName": "正阳县"
+},
+{
+"countyId": "1725",
+"countyName": "确山县"
+},
+{
+"countyId": "1726",
+"countyName": "泌阳县"
+},
+{
+"countyId": "1727",
+"countyName": "汝南县"
+},
+{
+"countyId": "1728",
+"countyName": "遂平县"
+},
+{
+"countyId": "1729",
+"countyName": "新蔡县"
+}
+]
+},
+{
+"districtId": "9000",
+"districtName": "省直辖县级行政区划",
+"county": [
+{
+"countyId": "9001",
+"countyName": "济源市"
+}
+]
+}
+]
+},
+{
+"provinceId": "42",
+"provinceName": "湖北省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "武汉市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "江岸区"
+},
+{
+"countyId": "0103",
+"countyName": "江汉区"
+},
+{
+"countyId": "0104",
+"countyName": "硚口区"
+},
+{
+"countyId": "0105",
+"countyName": "汉阳区"
+},
+{
+"countyId": "0106",
+"countyName": "武昌区"
+},
+{
+"countyId": "0107",
+"countyName": "青山区"
+},
+{
+"countyId": "0111",
+"countyName": "洪山区"
+},
+{
+"countyId": "0112",
+"countyName": "东西湖区"
+},
+{
+"countyId": "0113",
+"countyName": "汉南区"
+},
+{
+"countyId": "0114",
+"countyName": "蔡甸区"
+},
+{
+"countyId": "0115",
+"countyName": "江夏区"
+},
+{
+"countyId": "0116",
+"countyName": "黄陂区"
+},
+{
+"countyId": "0117",
+"countyName": "新洲区"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "黄石市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "黄石港区"
+},
+{
+"countyId": "0203",
+"countyName": "西塞山区"
+},
+{
+"countyId": "0204",
+"countyName": "下陆区"
+},
+{
+"countyId": "0205",
+"countyName": "铁山区"
+},
+{
+"countyId": "0222",
+"countyName": "阳新县"
+},
+{
+"countyId": "0281",
+"countyName": "大冶市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "十堰市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "茅箭区"
+},
+{
+"countyId": "0303",
+"countyName": "张湾区"
+},
+{
+"countyId": "0304",
+"countyName": "郧阳区"
+},
+{
+"countyId": "0322",
+"countyName": "郧西县"
+},
+{
+"countyId": "0323",
+"countyName": "竹山县"
+},
+{
+"countyId": "0324",
+"countyName": "竹溪县"
+},
+{
+"countyId": "0325",
+"countyName": "房县"
+},
+{
+"countyId": "0381",
+"countyName": "丹江口市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "宜昌市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "西陵区"
+},
+{
+"countyId": "0503",
+"countyName": "伍家岗区"
+},
+{
+"countyId": "0504",
+"countyName": "点军区"
+},
+{
+"countyId": "0505",
+"countyName": "猇亭区"
+},
+{
+"countyId": "0506",
+"countyName": "夷陵区"
+},
+{
+"countyId": "0525",
+"countyName": "远安县"
+},
+{
+"countyId": "0526",
+"countyName": "兴山县"
+},
+{
+"countyId": "0527",
+"countyName": "秭归县"
+},
+{
+"countyId": "0528",
+"countyName": "长阳土家族自治县"
+},
+{
+"countyId": "0529",
+"countyName": "五峰土家族自治县"
+},
+{
+"countyId": "0581",
+"countyName": "宜都市"
+},
+{
+"countyId": "0582",
+"countyName": "当阳市"
+},
+{
+"countyId": "0583",
+"countyName": "枝江市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "襄阳市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "襄城区"
+},
+{
+"countyId": "0606",
+"countyName": "樊城区"
+},
+{
+"countyId": "0607",
+"countyName": "襄州区"
+},
+{
+"countyId": "0624",
+"countyName": "南漳县"
+},
+{
+"countyId": "0625",
+"countyName": "谷城县"
+},
+{
+"countyId": "0626",
+"countyName": "保康县"
+},
+{
+"countyId": "0682",
+"countyName": "老河口市"
+},
+{
+"countyId": "0683",
+"countyName": "枣阳市"
+},
+{
+"countyId": "0684",
+"countyName": "宜城市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "鄂州市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "梁子湖区"
+},
+{
+"countyId": "0703",
+"countyName": "华容区"
+},
+{
+"countyId": "0704",
+"countyName": "鄂城区"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "荆门市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "东宝区"
+},
+{
+"countyId": "0804",
+"countyName": "掇刀区"
+},
+{
+"countyId": "0821",
+"countyName": "京山县"
+},
+{
+"countyId": "0822",
+"countyName": "沙洋县"
+},
+{
+"countyId": "0881",
+"countyName": "钟祥市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "孝感市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "孝南区"
+},
+{
+"countyId": "0921",
+"countyName": "孝昌县"
+},
+{
+"countyId": "0922",
+"countyName": "大悟县"
+},
+{
+"countyId": "0923",
+"countyName": "云梦县"
+},
+{
+"countyId": "0981",
+"countyName": "应城市"
+},
+{
+"countyId": "0982",
+"countyName": "安陆市"
+},
+{
+"countyId": "0984",
+"countyName": "汉川市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "荆州市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "沙市区"
+},
+{
+"countyId": "1003",
+"countyName": "荆州区"
+},
+{
+"countyId": "1022",
+"countyName": "公安县"
+},
+{
+"countyId": "1023",
+"countyName": "监利县"
+},
+{
+"countyId": "1024",
+"countyName": "江陵县"
+},
+{
+"countyId": "1081",
+"countyName": "石首市"
+},
+{
+"countyId": "1083",
+"countyName": "洪湖市"
+},
+{
+"countyId": "1087",
+"countyName": "松滋市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "黄冈市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "黄州区"
+},
+{
+"countyId": "1121",
+"countyName": "团风县"
+},
+{
+"countyId": "1122",
+"countyName": "红安县"
+},
+{
+"countyId": "1123",
+"countyName": "罗田县"
+},
+{
+"countyId": "1124",
+"countyName": "英山县"
+},
+{
+"countyId": "1125",
+"countyName": "浠水县"
+},
+{
+"countyId": "1126",
+"countyName": "蕲春县"
+},
+{
+"countyId": "1127",
+"countyName": "黄梅县"
+},
+{
+"countyId": "1181",
+"countyName": "麻城市"
+},
+{
+"countyId": "1182",
+"countyName": "武穴市"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "咸宁市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "咸安区"
+},
+{
+"countyId": "1221",
+"countyName": "嘉鱼县"
+},
+{
+"countyId": "1222",
+"countyName": "通城县"
+},
+{
+"countyId": "1223",
+"countyName": "崇阳县"
+},
+{
+"countyId": "1224",
+"countyName": "通山县"
+},
+{
+"countyId": "1281",
+"countyName": "赤壁市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "随州市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1303",
+"countyName": "曾都区"
+},
+{
+"countyId": "1321",
+"countyName": "随县"
+},
+{
+"countyId": "1381",
+"countyName": "广水市"
+}
+]
+},
+{
+"districtId": "2800",
+"districtName": "恩施土家族苗族自治州",
+"county": [
+{
+"countyId": "2801",
+"countyName": "恩施市"
+},
+{
+"countyId": "2802",
+"countyName": "利川市"
+},
+{
+"countyId": "2822",
+"countyName": "建始县"
+},
+{
+"countyId": "2823",
+"countyName": "巴东县"
+},
+{
+"countyId": "2825",
+"countyName": "宣恩县"
+},
+{
+"countyId": "2826",
+"countyName": "咸丰县"
+},
+{
+"countyId": "2827",
+"countyName": "来凤县"
+},
+{
+"countyId": "2828",
+"countyName": "鹤峰县"
+}
+]
+},
+{
+"districtId": "9000",
+"districtName": "省直辖县级行政区划",
+"county": [
+{
+"countyId": "9004",
+"countyName": "仙桃市"
+},
+{
+"countyId": "9005",
+"countyName": "潜江市"
+},
+{
+"countyId": "9006",
+"countyName": "天门市"
+},
+{
+"countyId": "9021",
+"countyName": "神农架林区"
+}
+]
+}
+]
+},
+{
+"provinceId": "43",
+"provinceName": "湖南省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "长沙市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "芙蓉区"
+},
+{
+"countyId": "0103",
+"countyName": "天心区"
+},
+{
+"countyId": "0104",
+"countyName": "岳麓区"
+},
+{
+"countyId": "0105",
+"countyName": "开福区"
+},
+{
+"countyId": "0111",
+"countyName": "雨花区"
+},
+{
+"countyId": "0112",
+"countyName": "望城区"
+},
+{
+"countyId": "0121",
+"countyName": "长沙县"
+},
+{
+"countyId": "0124",
+"countyName": "宁乡县"
+},
+{
+"countyId": "0181",
+"countyName": "浏阳市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "株洲市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "荷塘区"
+},
+{
+"countyId": "0203",
+"countyName": "芦淞区"
+},
+{
+"countyId": "0204",
+"countyName": "石峰区"
+},
+{
+"countyId": "0211",
+"countyName": "天元区"
+},
+{
+"countyId": "0221",
+"countyName": "株洲县"
+},
+{
+"countyId": "0223",
+"countyName": "攸县"
+},
+{
+"countyId": "0224",
+"countyName": "茶陵县"
+},
+{
+"countyId": "0225",
+"countyName": "炎陵县"
+},
+{
+"countyId": "0281",
+"countyName": "醴陵市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "湘潭市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "雨湖区"
+},
+{
+"countyId": "0304",
+"countyName": "岳塘区"
+},
+{
+"countyId": "0321",
+"countyName": "湘潭县"
+},
+{
+"countyId": "0381",
+"countyName": "湘乡市"
+},
+{
+"countyId": "0382",
+"countyName": "韶山市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "衡阳市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0405",
+"countyName": "珠晖区"
+},
+{
+"countyId": "0406",
+"countyName": "雁峰区"
+},
+{
+"countyId": "0407",
+"countyName": "石鼓区"
+},
+{
+"countyId": "0408",
+"countyName": "蒸湘区"
+},
+{
+"countyId": "0412",
+"countyName": "南岳区"
+},
+{
+"countyId": "0421",
+"countyName": "衡阳县"
+},
+{
+"countyId": "0422",
+"countyName": "衡南县"
+},
+{
+"countyId": "0423",
+"countyName": "衡山县"
+},
+{
+"countyId": "0424",
+"countyName": "衡东县"
+},
+{
+"countyId": "0426",
+"countyName": "祁东县"
+},
+{
+"countyId": "0481",
+"countyName": "耒阳市"
+},
+{
+"countyId": "0482",
+"countyName": "常宁市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "邵阳市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "双清区"
+},
+{
+"countyId": "0503",
+"countyName": "大祥区"
+},
+{
+"countyId": "0511",
+"countyName": "北塔区"
+},
+{
+"countyId": "0521",
+"countyName": "邵东县"
+},
+{
+"countyId": "0522",
+"countyName": "新邵县"
+},
+{
+"countyId": "0523",
+"countyName": "邵阳县"
+},
+{
+"countyId": "0524",
+"countyName": "隆回县"
+},
+{
+"countyId": "0525",
+"countyName": "洞口县"
+},
+{
+"countyId": "0527",
+"countyName": "绥宁县"
+},
+{
+"countyId": "0528",
+"countyName": "新宁县"
+},
+{
+"countyId": "0529",
+"countyName": "城步苗族自治县"
+},
+{
+"countyId": "0581",
+"countyName": "武冈市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "岳阳市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "岳阳楼区"
+},
+{
+"countyId": "0603",
+"countyName": "云溪区"
+},
+{
+"countyId": "0611",
+"countyName": "君山区"
+},
+{
+"countyId": "0621",
+"countyName": "岳阳县"
+},
+{
+"countyId": "0623",
+"countyName": "华容县"
+},
+{
+"countyId": "0624",
+"countyName": "湘阴县"
+},
+{
+"countyId": "0626",
+"countyName": "平江县"
+},
+{
+"countyId": "0681",
+"countyName": "汨罗市"
+},
+{
+"countyId": "0682",
+"countyName": "临湘市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "常德市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "武陵区"
+},
+{
+"countyId": "0703",
+"countyName": "鼎城区"
+},
+{
+"countyId": "0721",
+"countyName": "安乡县"
+},
+{
+"countyId": "0722",
+"countyName": "汉寿县"
+},
+{
+"countyId": "0723",
+"countyName": "澧县"
+},
+{
+"countyId": "0724",
+"countyName": "临澧县"
+},
+{
+"countyId": "0725",
+"countyName": "桃源县"
+},
+{
+"countyId": "0726",
+"countyName": "石门县"
+},
+{
+"countyId": "0781",
+"countyName": "津市市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "张家界市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "永定区"
+},
+{
+"countyId": "0811",
+"countyName": "武陵源区"
+},
+{
+"countyId": "0821",
+"countyName": "慈利县"
+},
+{
+"countyId": "0822",
+"countyName": "桑植县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "益阳市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "资阳区"
+},
+{
+"countyId": "0903",
+"countyName": "赫山区"
+},
+{
+"countyId": "0921",
+"countyName": "南县"
+},
+{
+"countyId": "0922",
+"countyName": "桃江县"
+},
+{
+"countyId": "0923",
+"countyName": "安化县"
+},
+{
+"countyId": "0981",
+"countyName": "沅江市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "郴州市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "北湖区"
+},
+{
+"countyId": "1003",
+"countyName": "苏仙区"
+},
+{
+"countyId": "1021",
+"countyName": "桂阳县"
+},
+{
+"countyId": "1022",
+"countyName": "宜章县"
+},
+{
+"countyId": "1023",
+"countyName": "永兴县"
+},
+{
+"countyId": "1024",
+"countyName": "嘉禾县"
+},
+{
+"countyId": "1025",
+"countyName": "临武县"
+},
+{
+"countyId": "1026",
+"countyName": "汝城县"
+},
+{
+"countyId": "1027",
+"countyName": "桂东县"
+},
+{
+"countyId": "1028",
+"countyName": "安仁县"
+},
+{
+"countyId": "1081",
+"countyName": "资兴市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "永州市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "零陵区"
+},
+{
+"countyId": "1103",
+"countyName": "冷水滩区"
+},
+{
+"countyId": "1121",
+"countyName": "祁阳县"
+},
+{
+"countyId": "1122",
+"countyName": "东安县"
+},
+{
+"countyId": "1123",
+"countyName": "双牌县"
+},
+{
+"countyId": "1124",
+"countyName": "道县"
+},
+{
+"countyId": "1125",
+"countyName": "江永县"
+},
+{
+"countyId": "1126",
+"countyName": "宁远县"
+},
+{
+"countyId": "1127",
+"countyName": "蓝山县"
+},
+{
+"countyId": "1128",
+"countyName": "新田县"
+},
+{
+"countyId": "1129",
+"countyName": "江华瑶族自治县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "怀化市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "鹤城区"
+},
+{
+"countyId": "1221",
+"countyName": "中方县"
+},
+{
+"countyId": "1222",
+"countyName": "沅陵县"
+},
+{
+"countyId": "1223",
+"countyName": "辰溪县"
+},
+{
+"countyId": "1224",
+"countyName": "溆浦县"
+},
+{
+"countyId": "1225",
+"countyName": "会同县"
+},
+{
+"countyId": "1226",
+"countyName": "麻阳苗族自治县"
+},
+{
+"countyId": "1227",
+"countyName": "新晃侗族自治县"
+},
+{
+"countyId": "1228",
+"countyName": "芷江侗族自治县"
+},
+{
+"countyId": "1229",
+"countyName": "靖州苗族侗族自治县"
+},
+{
+"countyId": "1230",
+"countyName": "通道侗族自治县"
+},
+{
+"countyId": "1281",
+"countyName": "洪江市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "娄底市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "娄星区"
+},
+{
+"countyId": "1321",
+"countyName": "双峰县"
+},
+{
+"countyId": "1322",
+"countyName": "新化县"
+},
+{
+"countyId": "1381",
+"countyName": "冷水江市"
+},
+{
+"countyId": "1382",
+"countyName": "涟源市"
+}
+]
+},
+{
+"districtId": "3100",
+"districtName": "湘西土家族苗族自治州",
+"county": [
+{
+"countyId": "3101",
+"countyName": "吉首市"
+},
+{
+"countyId": "3122",
+"countyName": "泸溪县"
+},
+{
+"countyId": "3123",
+"countyName": "凤凰县"
+},
+{
+"countyId": "3124",
+"countyName": "花垣县"
+},
+{
+"countyId": "3125",
+"countyName": "保靖县"
+},
+{
+"countyId": "3126",
+"countyName": "古丈县"
+},
+{
+"countyId": "3127",
+"countyName": "永顺县"
+},
+{
+"countyId": "3130",
+"countyName": "龙山县"
+}
+]
+}
+]
+},
+{
+"provinceId": "44",
+"provinceName": "广东省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "广州市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0103",
+"countyName": "荔湾区"
+},
+{
+"countyId": "0104",
+"countyName": "越秀区"
+},
+{
+"countyId": "0105",
+"countyName": "海珠区"
+},
+{
+"countyId": "0106",
+"countyName": "天河区"
+},
+{
+"countyId": "0111",
+"countyName": "白云区"
+},
+{
+"countyId": "0112",
+"countyName": "黄埔区"
+},
+{
+"countyId": "0113",
+"countyName": "番禺区"
+},
+{
+"countyId": "0114",
+"countyName": "花都区"
+},
+{
+"countyId": "0115",
+"countyName": "南沙区"
+},
+{
+"countyId": "0117",
+"countyName": "从化区"
+},
+{
+"countyId": "0118",
+"countyName": "增城区"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "韶关市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0203",
+"countyName": "武江区"
+},
+{
+"countyId": "0204",
+"countyName": "浈江区"
+},
+{
+"countyId": "0205",
+"countyName": "曲江区"
+},
+{
+"countyId": "0222",
+"countyName": "始兴县"
+},
+{
+"countyId": "0224",
+"countyName": "仁化县"
+},
+{
+"countyId": "0229",
+"countyName": "翁源县"
+},
+{
+"countyId": "0232",
+"countyName": "乳源瑶族自治县"
+},
+{
+"countyId": "0233",
+"countyName": "新丰县"
+},
+{
+"countyId": "0281",
+"countyName": "乐昌市"
+},
+{
+"countyId": "0282",
+"countyName": "南雄市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "深圳市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0303",
+"countyName": "罗湖区"
+},
+{
+"countyId": "0304",
+"countyName": "福田区"
+},
+{
+"countyId": "0305",
+"countyName": "南山区"
+},
+{
+"countyId": "0306",
+"countyName": "宝安区"
+},
+{
+"countyId": "0307",
+"countyName": "龙岗区"
+},
+{
+"countyId": "0308",
+"countyName": "盐田区"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "珠海市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "香洲区"
+},
+{
+"countyId": "0403",
+"countyName": "斗门区"
+},
+{
+"countyId": "0404",
+"countyName": "金湾区"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "汕头市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0507",
+"countyName": "龙湖区"
+},
+{
+"countyId": "0511",
+"countyName": "金平区"
+},
+{
+"countyId": "0512",
+"countyName": "濠江区"
+},
+{
+"countyId": "0513",
+"countyName": "潮阳区"
+},
+{
+"countyId": "0514",
+"countyName": "潮南区"
+},
+{
+"countyId": "0515",
+"countyName": "澄海区"
+},
+{
+"countyId": "0523",
+"countyName": "南澳县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "佛山市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0604",
+"countyName": "禅城区"
+},
+{
+"countyId": "0605",
+"countyName": "南海区"
+},
+{
+"countyId": "0606",
+"countyName": "顺德区"
+},
+{
+"countyId": "0607",
+"countyName": "三水区"
+},
+{
+"countyId": "0608",
+"countyName": "高明区"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "江门市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0703",
+"countyName": "蓬江区"
+},
+{
+"countyId": "0704",
+"countyName": "江海区"
+},
+{
+"countyId": "0705",
+"countyName": "新会区"
+},
+{
+"countyId": "0781",
+"countyName": "台山市"
+},
+{
+"countyId": "0783",
+"countyName": "开平市"
+},
+{
+"countyId": "0784",
+"countyName": "鹤山市"
+},
+{
+"countyId": "0785",
+"countyName": "恩平市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "湛江市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "赤坎区"
+},
+{
+"countyId": "0803",
+"countyName": "霞山区"
+},
+{
+"countyId": "0804",
+"countyName": "坡头区"
+},
+{
+"countyId": "0811",
+"countyName": "麻章区"
+},
+{
+"countyId": "0823",
+"countyName": "遂溪县"
+},
+{
+"countyId": "0825",
+"countyName": "徐闻县"
+},
+{
+"countyId": "0881",
+"countyName": "廉江市"
+},
+{
+"countyId": "0882",
+"countyName": "雷州市"
+},
+{
+"countyId": "0883",
+"countyName": "吴川市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "茂名市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "茂南区"
+},
+{
+"countyId": "0904",
+"countyName": "电白区"
+},
+{
+"countyId": "0981",
+"countyName": "高州市"
+},
+{
+"countyId": "0982",
+"countyName": "化州市"
+},
+{
+"countyId": "0983",
+"countyName": "信宜市"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "肇庆市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "端州区"
+},
+{
+"countyId": "1203",
+"countyName": "鼎湖区"
+},
+{
+"countyId": "1204",
+"countyName": "高要区"
+},
+{
+"countyId": "1223",
+"countyName": "广宁县"
+},
+{
+"countyId": "1224",
+"countyName": "怀集县"
+},
+{
+"countyId": "1225",
+"countyName": "封开县"
+},
+{
+"countyId": "1226",
+"countyName": "德庆县"
+},
+{
+"countyId": "1284",
+"countyName": "四会市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "惠州市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "惠城区"
+},
+{
+"countyId": "1303",
+"countyName": "惠阳区"
+},
+{
+"countyId": "1322",
+"countyName": "博罗县"
+},
+{
+"countyId": "1323",
+"countyName": "惠东县"
+},
+{
+"countyId": "1324",
+"countyName": "龙门县"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "梅州市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "梅江区"
+},
+{
+"countyId": "1403",
+"countyName": "梅县区"
+},
+{
+"countyId": "1422",
+"countyName": "大埔县"
+},
+{
+"countyId": "1423",
+"countyName": "丰顺县"
+},
+{
+"countyId": "1424",
+"countyName": "五华县"
+},
+{
+"countyId": "1426",
+"countyName": "平远县"
+},
+{
+"countyId": "1427",
+"countyName": "蕉岭县"
+},
+{
+"countyId": "1481",
+"countyName": "兴宁市"
+}
+]
+},
+{
+"districtId": "1500",
+"districtName": "汕尾市",
+"county": [
+{
+"countyId": "1501",
+"countyName": "市辖区"
+},
+{
+"countyId": "1502",
+"countyName": "城区"
+},
+{
+"countyId": "1521",
+"countyName": "海丰县"
+},
+{
+"countyId": "1523",
+"countyName": "陆河县"
+},
+{
+"countyId": "1581",
+"countyName": "陆丰市"
+}
+]
+},
+{
+"districtId": "1600",
+"districtName": "河源市",
+"county": [
+{
+"countyId": "1601",
+"countyName": "市辖区"
+},
+{
+"countyId": "1602",
+"countyName": "源城区"
+},
+{
+"countyId": "1621",
+"countyName": "紫金县"
+},
+{
+"countyId": "1622",
+"countyName": "龙川县"
+},
+{
+"countyId": "1623",
+"countyName": "连平县"
+},
+{
+"countyId": "1624",
+"countyName": "和平县"
+},
+{
+"countyId": "1625",
+"countyName": "东源县"
+}
+]
+},
+{
+"districtId": "1700",
+"districtName": "阳江市",
+"county": [
+{
+"countyId": "1701",
+"countyName": "市辖区"
+},
+{
+"countyId": "1702",
+"countyName": "江城区"
+},
+{
+"countyId": "1704",
+"countyName": "阳东区"
+},
+{
+"countyId": "1721",
+"countyName": "阳西县"
+},
+{
+"countyId": "1781",
+"countyName": "阳春市"
+}
+]
+},
+{
+"districtId": "1800",
+"districtName": "清远市",
+"county": [
+{
+"countyId": "1801",
+"countyName": "市辖区"
+},
+{
+"countyId": "1802",
+"countyName": "清城区"
+},
+{
+"countyId": "1803",
+"countyName": "清新区"
+},
+{
+"countyId": "1821",
+"countyName": "佛冈县"
+},
+{
+"countyId": "1823",
+"countyName": "阳山县"
+},
+{
+"countyId": "1825",
+"countyName": "连山壮族瑶族自治县"
+},
+{
+"countyId": "1826",
+"countyName": "连南瑶族自治县"
+},
+{
+"countyId": "1881",
+"countyName": "英德市"
+},
+{
+"countyId": "1882",
+"countyName": "连州市"
+}
+]
+},
+{
+"districtId": "1900",
+"districtName": "东莞市",
+"county": [
+{
+"countyId": "1900",
+"countyName": "东莞市"
+}
+]
+},
+{
+"districtId": "2000",
+"districtName": "中山市",
+"county": [
+{
+"countyId": "2000",
+"countyName": "中山市"
+}
+]
+},
+{
+"districtId": "5100",
+"districtName": "潮州市",
+"county": [
+{
+"countyId": "5101",
+"countyName": "市辖区"
+},
+{
+"countyId": "5102",
+"countyName": "湘桥区"
+},
+{
+"countyId": "5103",
+"countyName": "潮安区"
+},
+{
+"countyId": "5122",
+"countyName": "饶平县"
+}
+]
+},
+{
+"districtId": "5200",
+"districtName": "揭阳市",
+"county": [
+{
+"countyId": "5201",
+"countyName": "市辖区"
+},
+{
+"countyId": "5202",
+"countyName": "榕城区"
+},
+{
+"countyId": "5203",
+"countyName": "揭东区"
+},
+{
+"countyId": "5222",
+"countyName": "揭西县"
+},
+{
+"countyId": "5224",
+"countyName": "惠来县"
+},
+{
+"countyId": "5281",
+"countyName": "普宁市"
+}
+]
+},
+{
+"districtId": "5300",
+"districtName": "云浮市",
+"county": [
+{
+"countyId": "5301",
+"countyName": "市辖区"
+},
+{
+"countyId": "5302",
+"countyName": "云城区"
+},
+{
+"countyId": "5303",
+"countyName": "云安区"
+},
+{
+"countyId": "5321",
+"countyName": "新兴县"
+},
+{
+"countyId": "5322",
+"countyName": "郁南县"
+},
+{
+"countyId": "5381",
+"countyName": "罗定市"
+}
+]
+}
+]
+},
+{
+"provinceId": "45",
+"provinceName": "广西壮族自治区",
+"district": [
+{
+"districtId": "0100",
+"districtName": "南宁市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "兴宁区"
+},
+{
+"countyId": "0103",
+"countyName": "青秀区"
+},
+{
+"countyId": "0105",
+"countyName": "江南区"
+},
+{
+"countyId": "0107",
+"countyName": "西乡塘区"
+},
+{
+"countyId": "0108",
+"countyName": "良庆区"
+},
+{
+"countyId": "0109",
+"countyName": "邕宁区"
+},
+{
+"countyId": "0110",
+"countyName": "武鸣区"
+},
+{
+"countyId": "0123",
+"countyName": "隆安县"
+},
+{
+"countyId": "0124",
+"countyName": "马山县"
+},
+{
+"countyId": "0125",
+"countyName": "上林县"
+},
+{
+"countyId": "0126",
+"countyName": "宾阳县"
+},
+{
+"countyId": "0127",
+"countyName": "横县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "柳州市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "城中区"
+},
+{
+"countyId": "0203",
+"countyName": "鱼峰区"
+},
+{
+"countyId": "0204",
+"countyName": "柳南区"
+},
+{
+"countyId": "0205",
+"countyName": "柳北区"
+},
+{
+"countyId": "0206",
+"countyName": "柳江区"
+},
+{
+"countyId": "0222",
+"countyName": "柳城县"
+},
+{
+"countyId": "0223",
+"countyName": "鹿寨县"
+},
+{
+"countyId": "0224",
+"countyName": "融安县"
+},
+{
+"countyId": "0225",
+"countyName": "融水苗族自治县"
+},
+{
+"countyId": "0226",
+"countyName": "三江侗族自治县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "桂林市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "秀峰区"
+},
+{
+"countyId": "0303",
+"countyName": "叠彩区"
+},
+{
+"countyId": "0304",
+"countyName": "象山区"
+},
+{
+"countyId": "0305",
+"countyName": "七星区"
+},
+{
+"countyId": "0311",
+"countyName": "雁山区"
+},
+{
+"countyId": "0312",
+"countyName": "临桂区"
+},
+{
+"countyId": "0321",
+"countyName": "阳朔县"
+},
+{
+"countyId": "0323",
+"countyName": "灵川县"
+},
+{
+"countyId": "0324",
+"countyName": "全州县"
+},
+{
+"countyId": "0325",
+"countyName": "兴安县"
+},
+{
+"countyId": "0326",
+"countyName": "永福县"
+},
+{
+"countyId": "0327",
+"countyName": "灌阳县"
+},
+{
+"countyId": "0328",
+"countyName": "龙胜各族自治县"
+},
+{
+"countyId": "0329",
+"countyName": "资源县"
+},
+{
+"countyId": "0330",
+"countyName": "平乐县"
+},
+{
+"countyId": "0331",
+"countyName": "荔浦县"
+},
+{
+"countyId": "0332",
+"countyName": "恭城瑶族自治县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "梧州市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0403",
+"countyName": "万秀区"
+},
+{
+"countyId": "0405",
+"countyName": "长洲区"
+},
+{
+"countyId": "0406",
+"countyName": "龙圩区"
+},
+{
+"countyId": "0421",
+"countyName": "苍梧县"
+},
+{
+"countyId": "0422",
+"countyName": "藤县"
+},
+{
+"countyId": "0423",
+"countyName": "蒙山县"
+},
+{
+"countyId": "0481",
+"countyName": "岑溪市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "北海市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "海城区"
+},
+{
+"countyId": "0503",
+"countyName": "银海区"
+},
+{
+"countyId": "0512",
+"countyName": "铁山港区"
+},
+{
+"countyId": "0521",
+"countyName": "合浦县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "防城港市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "港口区"
+},
+{
+"countyId": "0603",
+"countyName": "防城区"
+},
+{
+"countyId": "0621",
+"countyName": "上思县"
+},
+{
+"countyId": "0681",
+"countyName": "东兴市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "钦州市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "钦南区"
+},
+{
+"countyId": "0703",
+"countyName": "钦北区"
+},
+{
+"countyId": "0721",
+"countyName": "灵山县"
+},
+{
+"countyId": "0722",
+"countyName": "浦北县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "贵港市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "港北区"
+},
+{
+"countyId": "0803",
+"countyName": "港南区"
+},
+{
+"countyId": "0804",
+"countyName": "覃塘区"
+},
+{
+"countyId": "0821",
+"countyName": "平南县"
+},
+{
+"countyId": "0881",
+"countyName": "桂平市"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "玉林市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "玉州区"
+},
+{
+"countyId": "0903",
+"countyName": "福绵区"
+},
+{
+"countyId": "0921",
+"countyName": "容县"
+},
+{
+"countyId": "0922",
+"countyName": "陆川县"
+},
+{
+"countyId": "0923",
+"countyName": "博白县"
+},
+{
+"countyId": "0924",
+"countyName": "兴业县"
+},
+{
+"countyId": "0981",
+"countyName": "北流市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "百色市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "右江区"
+},
+{
+"countyId": "1021",
+"countyName": "田阳县"
+},
+{
+"countyId": "1022",
+"countyName": "田东县"
+},
+{
+"countyId": "1023",
+"countyName": "平果县"
+},
+{
+"countyId": "1024",
+"countyName": "德保县"
+},
+{
+"countyId": "1026",
+"countyName": "那坡县"
+},
+{
+"countyId": "1027",
+"countyName": "凌云县"
+},
+{
+"countyId": "1028",
+"countyName": "乐业县"
+},
+{
+"countyId": "1029",
+"countyName": "田林县"
+},
+{
+"countyId": "1030",
+"countyName": "西林县"
+},
+{
+"countyId": "1031",
+"countyName": "隆林各族自治县"
+},
+{
+"countyId": "1081",
+"countyName": "靖西市"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "贺州市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "八步区"
+},
+{
+"countyId": "1103",
+"countyName": "平桂区"
+},
+{
+"countyId": "1121",
+"countyName": "昭平县"
+},
+{
+"countyId": "1122",
+"countyName": "钟山县"
+},
+{
+"countyId": "1123",
+"countyName": "富川瑶族自治县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "河池市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "金城江区"
+},
+{
+"countyId": "1221",
+"countyName": "南丹县"
+},
+{
+"countyId": "1222",
+"countyName": "天峨县"
+},
+{
+"countyId": "1223",
+"countyName": "凤山县"
+},
+{
+"countyId": "1224",
+"countyName": "东兰县"
+},
+{
+"countyId": "1225",
+"countyName": "罗城仫佬族自治县"
+},
+{
+"countyId": "1226",
+"countyName": "环江毛南族自治县"
+},
+{
+"countyId": "1227",
+"countyName": "巴马瑶族自治县"
+},
+{
+"countyId": "1228",
+"countyName": "都安瑶族自治县"
+},
+{
+"countyId": "1229",
+"countyName": "大化瑶族自治县"
+},
+{
+"countyId": "1281",
+"countyName": "宜州市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "来宾市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "兴宾区"
+},
+{
+"countyId": "1321",
+"countyName": "忻城县"
+},
+{
+"countyId": "1322",
+"countyName": "象州县"
+},
+{
+"countyId": "1323",
+"countyName": "武宣县"
+},
+{
+"countyId": "1324",
+"countyName": "金秀瑶族自治县"
+},
+{
+"countyId": "1381",
+"countyName": "合山市"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "崇左市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "江州区"
+},
+{
+"countyId": "1421",
+"countyName": "扶绥县"
+},
+{
+"countyId": "1422",
+"countyName": "宁明县"
+},
+{
+"countyId": "1423",
+"countyName": "龙州县"
+},
+{
+"countyId": "1424",
+"countyName": "大新县"
+},
+{
+"countyId": "1425",
+"countyName": "天等县"
+},
+{
+"countyId": "1481",
+"countyName": "凭祥市"
+}
+]
+}
+]
+},
+{
+"provinceId": "46",
+"provinceName": "海南省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "海口市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0105",
+"countyName": "秀英区"
+},
+{
+"countyId": "0106",
+"countyName": "龙华区"
+},
+{
+"countyId": "0107",
+"countyName": "琼山区"
+},
+{
+"countyId": "0108",
+"countyName": "美兰区"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "三亚市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "海棠区"
+},
+{
+"countyId": "0203",
+"countyName": "吉阳区"
+},
+{
+"countyId": "0204",
+"countyName": "天涯区"
+},
+{
+"countyId": "0205",
+"countyName": "崖州区"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "三沙市",
+"county": [
+{
+"countyId": "0300",
+"countyName": "三沙市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "儋州市",
+"county": [
+{
+"countyId": "0400",
+"countyName": "儋州市"
+}
+]
+},
+{
+"districtId": "9000",
+"districtName": "省直辖县级行政区划",
+"county": [
+{
+"countyId": "9001",
+"countyName": "五指山市"
+},
+{
+"countyId": "9002",
+"countyName": "琼海市"
+},
+{
+"countyId": "9005",
+"countyName": "文昌市"
+},
+{
+"countyId": "9006",
+"countyName": "万宁市"
+},
+{
+"countyId": "9007",
+"countyName": "东方市"
+},
+{
+"countyId": "9021",
+"countyName": "定安县"
+},
+{
+"countyId": "9022",
+"countyName": "屯昌县"
+},
+{
+"countyId": "9023",
+"countyName": "澄迈县"
+},
+{
+"countyId": "9024",
+"countyName": "临高县"
+},
+{
+"countyId": "9025",
+"countyName": "白沙黎族自治县"
+},
+{
+"countyId": "9026",
+"countyName": "昌江黎族自治县"
+},
+{
+"countyId": "9027",
+"countyName": "乐东黎族自治县"
+},
+{
+"countyId": "9028",
+"countyName": "陵水黎族自治县"
+},
+{
+"countyId": "9029",
+"countyName": "保亭黎族苗族自治县"
+},
+{
+"countyId": "9030",
+"countyName": "琼中黎族苗族自治县"
+}
+]
+}
+]
+},
+{
+"provinceId": "50",
+"provinceName": "重庆市",
+"district": [
+{
+"districtId": "0100",
+"districtName": "市辖区",
+"county": [
+{
+"countyId": "0101",
+"countyName": "万州区"
+},
+{
+"countyId": "0102",
+"countyName": "涪陵区"
+},
+{
+"countyId": "0103",
+"countyName": "渝中区"
+},
+{
+"countyId": "0104",
+"countyName": "大渡口区"
+},
+{
+"countyId": "0105",
+"countyName": "江北区"
+},
+{
+"countyId": "0106",
+"countyName": "沙坪坝区"
+},
+{
+"countyId": "0107",
+"countyName": "九龙坡区"
+},
+{
+"countyId": "0108",
+"countyName": "南岸区"
+},
+{
+"countyId": "0109",
+"countyName": "北碚区"
+},
+{
+"countyId": "0110",
+"countyName": "綦江区"
+},
+{
+"countyId": "0111",
+"countyName": "大足区"
+},
+{
+"countyId": "0112",
+"countyName": "渝北区"
+},
+{
+"countyId": "0113",
+"countyName": "巴南区"
+},
+{
+"countyId": "0114",
+"countyName": "黔江区"
+},
+{
+"countyId": "0115",
+"countyName": "长寿区"
+},
+{
+"countyId": "0116",
+"countyName": "江津区"
+},
+{
+"countyId": "0117",
+"countyName": "合川区"
+},
+{
+"countyId": "0118",
+"countyName": "永川区"
+},
+{
+"countyId": "0119",
+"countyName": "南川区"
+},
+{
+"countyId": "0120",
+"countyName": "璧山区"
+},
+{
+"countyId": "0151",
+"countyName": "铜梁区"
+},
+{
+"countyId": "0152",
+"countyName": "潼南区"
+},
+{
+"countyId": "0153",
+"countyName": "荣昌区"
+},
+{
+"countyId": "0154",
+"countyName": "开州区"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "市辖县",
+"county": [
+{
+"countyId": "0228",
+"countyName": "梁平县"
+},
+{
+"countyId": "0229",
+"countyName": "城口县"
+},
+{
+"countyId": "0230",
+"countyName": "丰都县"
+},
+{
+"countyId": "0231",
+"countyName": "垫江县"
+},
+{
+"countyId": "0232",
+"countyName": "武隆县"
+},
+{
+"countyId": "0233",
+"countyName": "忠县"
+},
+{
+"countyId": "0235",
+"countyName": "云阳县"
+},
+{
+"countyId": "0236",
+"countyName": "奉节县"
+},
+{
+"countyId": "0237",
+"countyName": "巫山县"
+},
+{
+"countyId": "0238",
+"countyName": "巫溪县"
+},
+{
+"countyId": "0240",
+"countyName": "石柱土家族自治县"
+},
+{
+"countyId": "0241",
+"countyName": "秀山土家族苗族自治县"
+},
+{
+"countyId": "0242",
+"countyName": "酉阳土家族苗族自治县"
+},
+{
+"countyId": "0243",
+"countyName": "彭水苗族土家族自治县"
+}
+]
+}
+]
+},
+{
+"provinceId": "51",
+"provinceName": "四川省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "成都市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0104",
+"countyName": "锦江区"
+},
+{
+"countyId": "0105",
+"countyName": "青羊区"
+},
+{
+"countyId": "0106",
+"countyName": "金牛区"
+},
+{
+"countyId": "0107",
+"countyName": "武侯区"
+},
+{
+"countyId": "0108",
+"countyName": "成华区"
+},
+{
+"countyId": "0112",
+"countyName": "龙泉驿区"
+},
+{
+"countyId": "0113",
+"countyName": "青白江区"
+},
+{
+"countyId": "0114",
+"countyName": "新都区"
+},
+{
+"countyId": "0115",
+"countyName": "温江区"
+},
+{
+"countyId": "0116",
+"countyName": "双流区"
+},
+{
+"countyId": "0121",
+"countyName": "金堂县"
+},
+{
+"countyId": "0124",
+"countyName": "郫县"
+},
+{
+"countyId": "0129",
+"countyName": "大邑县"
+},
+{
+"countyId": "0131",
+"countyName": "蒲江县"
+},
+{
+"countyId": "0132",
+"countyName": "新津县"
+},
+{
+"countyId": "0181",
+"countyName": "都江堰市"
+},
+{
+"countyId": "0182",
+"countyName": "彭州市"
+},
+{
+"countyId": "0183",
+"countyName": "邛崃市"
+},
+{
+"countyId": "0184",
+"countyName": "崇州市"
+},
+{
+"countyId": "0185",
+"countyName": "简阳市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "自贡市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "自流井区"
+},
+{
+"countyId": "0303",
+"countyName": "贡井区"
+},
+{
+"countyId": "0304",
+"countyName": "大安区"
+},
+{
+"countyId": "0311",
+"countyName": "沿滩区"
+},
+{
+"countyId": "0321",
+"countyName": "荣县"
+},
+{
+"countyId": "0322",
+"countyName": "富顺县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "攀枝花市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "东区"
+},
+{
+"countyId": "0403",
+"countyName": "西区"
+},
+{
+"countyId": "0411",
+"countyName": "仁和区"
+},
+{
+"countyId": "0421",
+"countyName": "米易县"
+},
+{
+"countyId": "0422",
+"countyName": "盐边县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "泸州市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "江阳区"
+},
+{
+"countyId": "0503",
+"countyName": "纳溪区"
+},
+{
+"countyId": "0504",
+"countyName": "龙马潭区"
+},
+{
+"countyId": "0521",
+"countyName": "泸县"
+},
+{
+"countyId": "0522",
+"countyName": "合江县"
+},
+{
+"countyId": "0524",
+"countyName": "叙永县"
+},
+{
+"countyId": "0525",
+"countyName": "古蔺县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "德阳市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0603",
+"countyName": "旌阳区"
+},
+{
+"countyId": "0623",
+"countyName": "中江县"
+},
+{
+"countyId": "0626",
+"countyName": "罗江县"
+},
+{
+"countyId": "0681",
+"countyName": "广汉市"
+},
+{
+"countyId": "0682",
+"countyName": "什邡市"
+},
+{
+"countyId": "0683",
+"countyName": "绵竹市"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "绵阳市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0703",
+"countyName": "涪城区"
+},
+{
+"countyId": "0704",
+"countyName": "游仙区"
+},
+{
+"countyId": "0705",
+"countyName": "安州区"
+},
+{
+"countyId": "0722",
+"countyName": "三台县"
+},
+{
+"countyId": "0723",
+"countyName": "盐亭县"
+},
+{
+"countyId": "0725",
+"countyName": "梓潼县"
+},
+{
+"countyId": "0726",
+"countyName": "北川羌族自治县"
+},
+{
+"countyId": "0727",
+"countyName": "平武县"
+},
+{
+"countyId": "0781",
+"countyName": "江油市"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "广元市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "利州区"
+},
+{
+"countyId": "0811",
+"countyName": "昭化区"
+},
+{
+"countyId": "0812",
+"countyName": "朝天区"
+},
+{
+"countyId": "0821",
+"countyName": "旺苍县"
+},
+{
+"countyId": "0822",
+"countyName": "青川县"
+},
+{
+"countyId": "0823",
+"countyName": "剑阁县"
+},
+{
+"countyId": "0824",
+"countyName": "苍溪县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "遂宁市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0903",
+"countyName": "船山区"
+},
+{
+"countyId": "0904",
+"countyName": "安居区"
+},
+{
+"countyId": "0921",
+"countyName": "蓬溪县"
+},
+{
+"countyId": "0922",
+"countyName": "射洪县"
+},
+{
+"countyId": "0923",
+"countyName": "大英县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "内江市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "市中区"
+},
+{
+"countyId": "1011",
+"countyName": "东兴区"
+},
+{
+"countyId": "1024",
+"countyName": "威远县"
+},
+{
+"countyId": "1025",
+"countyName": "资中县"
+},
+{
+"countyId": "1028",
+"countyName": "隆昌县"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "乐山市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "市中区"
+},
+{
+"countyId": "1111",
+"countyName": "沙湾区"
+},
+{
+"countyId": "1112",
+"countyName": "五通桥区"
+},
+{
+"countyId": "1113",
+"countyName": "金口河区"
+},
+{
+"countyId": "1123",
+"countyName": "犍为县"
+},
+{
+"countyId": "1124",
+"countyName": "井研县"
+},
+{
+"countyId": "1126",
+"countyName": "夹江县"
+},
+{
+"countyId": "1129",
+"countyName": "沐川县"
+},
+{
+"countyId": "1132",
+"countyName": "峨边彝族自治县"
+},
+{
+"countyId": "1133",
+"countyName": "马边彝族自治县"
+},
+{
+"countyId": "1181",
+"countyName": "峨眉山市"
+}
+]
+},
+{
+"districtId": "1300",
+"districtName": "南充市",
+"county": [
+{
+"countyId": "1301",
+"countyName": "市辖区"
+},
+{
+"countyId": "1302",
+"countyName": "顺庆区"
+},
+{
+"countyId": "1303",
+"countyName": "高坪区"
+},
+{
+"countyId": "1304",
+"countyName": "嘉陵区"
+},
+{
+"countyId": "1321",
+"countyName": "南部县"
+},
+{
+"countyId": "1322",
+"countyName": "营山县"
+},
+{
+"countyId": "1323",
+"countyName": "蓬安县"
+},
+{
+"countyId": "1324",
+"countyName": "仪陇县"
+},
+{
+"countyId": "1325",
+"countyName": "西充县"
+},
+{
+"countyId": "1381",
+"countyName": "阆中市"
+}
+]
+},
+{
+"districtId": "1400",
+"districtName": "眉山市",
+"county": [
+{
+"countyId": "1401",
+"countyName": "市辖区"
+},
+{
+"countyId": "1402",
+"countyName": "东坡区"
+},
+{
+"countyId": "1403",
+"countyName": "彭山区"
+},
+{
+"countyId": "1421",
+"countyName": "仁寿县"
+},
+{
+"countyId": "1423",
+"countyName": "洪雅县"
+},
+{
+"countyId": "1424",
+"countyName": "丹棱县"
+},
+{
+"countyId": "1425",
+"countyName": "青神县"
+}
+]
+},
+{
+"districtId": "1500",
+"districtName": "宜宾市",
+"county": [
+{
+"countyId": "1501",
+"countyName": "市辖区"
+},
+{
+"countyId": "1502",
+"countyName": "翠屏区"
+},
+{
+"countyId": "1503",
+"countyName": "南溪区"
+},
+{
+"countyId": "1521",
+"countyName": "宜宾县"
+},
+{
+"countyId": "1523",
+"countyName": "江安县"
+},
+{
+"countyId": "1524",
+"countyName": "长宁县"
+},
+{
+"countyId": "1525",
+"countyName": "高县"
+},
+{
+"countyId": "1526",
+"countyName": "珙县"
+},
+{
+"countyId": "1527",
+"countyName": "筠连县"
+},
+{
+"countyId": "1528",
+"countyName": "兴文县"
+},
+{
+"countyId": "1529",
+"countyName": "屏山县"
+}
+]
+},
+{
+"districtId": "1600",
+"districtName": "广安市",
+"county": [
+{
+"countyId": "1601",
+"countyName": "市辖区"
+},
+{
+"countyId": "1602",
+"countyName": "广安区"
+},
+{
+"countyId": "1603",
+"countyName": "前锋区"
+},
+{
+"countyId": "1621",
+"countyName": "岳池县"
+},
+{
+"countyId": "1622",
+"countyName": "武胜县"
+},
+{
+"countyId": "1623",
+"countyName": "邻水县"
+},
+{
+"countyId": "1681",
+"countyName": "华蓥市"
+}
+]
+},
+{
+"districtId": "1700",
+"districtName": "达州市",
+"county": [
+{
+"countyId": "1701",
+"countyName": "市辖区"
+},
+{
+"countyId": "1702",
+"countyName": "通川区"
+},
+{
+"countyId": "1703",
+"countyName": "达川区"
+},
+{
+"countyId": "1722",
+"countyName": "宣汉县"
+},
+{
+"countyId": "1723",
+"countyName": "开江县"
+},
+{
+"countyId": "1724",
+"countyName": "大竹县"
+},
+{
+"countyId": "1725",
+"countyName": "渠县"
+},
+{
+"countyId": "1781",
+"countyName": "万源市"
+}
+]
+},
+{
+"districtId": "1800",
+"districtName": "雅安市",
+"county": [
+{
+"countyId": "1801",
+"countyName": "市辖区"
+},
+{
+"countyId": "1802",
+"countyName": "雨城区"
+},
+{
+"countyId": "1803",
+"countyName": "名山区"
+},
+{
+"countyId": "1822",
+"countyName": "荥经县"
+},
+{
+"countyId": "1823",
+"countyName": "汉源县"
+},
+{
+"countyId": "1824",
+"countyName": "石棉县"
+},
+{
+"countyId": "1825",
+"countyName": "天全县"
+},
+{
+"countyId": "1826",
+"countyName": "芦山县"
+},
+{
+"countyId": "1827",
+"countyName": "宝兴县"
+}
+]
+},
+{
+"districtId": "1900",
+"districtName": "巴中市",
+"county": [
+{
+"countyId": "1901",
+"countyName": "市辖区"
+},
+{
+"countyId": "1902",
+"countyName": "巴州区"
+},
+{
+"countyId": "1903",
+"countyName": "恩阳区"
+},
+{
+"countyId": "1921",
+"countyName": "通江县"
+},
+{
+"countyId": "1922",
+"countyName": "南江县"
+},
+{
+"countyId": "1923",
+"countyName": "平昌县"
+}
+]
+},
+{
+"districtId": "2000",
+"districtName": "资阳市",
+"county": [
+{
+"countyId": "2001",
+"countyName": "市辖区"
+},
+{
+"countyId": "2002",
+"countyName": "雁江区"
+},
+{
+"countyId": "2021",
+"countyName": "安岳县"
+},
+{
+"countyId": "2022",
+"countyName": "乐至县"
+}
+]
+},
+{
+"districtId": "3200",
+"districtName": "阿坝藏族羌族自治州",
+"county": [
+{
+"countyId": "3201",
+"countyName": "马尔康市"
+},
+{
+"countyId": "3221",
+"countyName": "汶川县"
+},
+{
+"countyId": "3222",
+"countyName": "理县"
+},
+{
+"countyId": "3223",
+"countyName": "茂县"
+},
+{
+"countyId": "3224",
+"countyName": "松潘县"
+},
+{
+"countyId": "3225",
+"countyName": "九寨沟县"
+},
+{
+"countyId": "3226",
+"countyName": "金川县"
+},
+{
+"countyId": "3227",
+"countyName": "小金县"
+},
+{
+"countyId": "3228",
+"countyName": "黑水县"
+},
+{
+"countyId": "3230",
+"countyName": "壤塘县"
+},
+{
+"countyId": "3231",
+"countyName": "阿坝县"
+},
+{
+"countyId": "3232",
+"countyName": "若尔盖县"
+},
+{
+"countyId": "3233",
+"countyName": "红原县"
+}
+]
+},
+{
+"districtId": "3300",
+"districtName": "甘孜藏族自治州",
+"county": [
+{
+"countyId": "3301",
+"countyName": "康定市"
+},
+{
+"countyId": "3322",
+"countyName": "泸定县"
+},
+{
+"countyId": "3323",
+"countyName": "丹巴县"
+},
+{
+"countyId": "3324",
+"countyName": "九龙县"
+},
+{
+"countyId": "3325",
+"countyName": "雅江县"
+},
+{
+"countyId": "3326",
+"countyName": "道孚县"
+},
+{
+"countyId": "3327",
+"countyName": "炉霍县"
+},
+{
+"countyId": "3328",
+"countyName": "甘孜县"
+},
+{
+"countyId": "3329",
+"countyName": "新龙县"
+},
+{
+"countyId": "3330",
+"countyName": "德格县"
+},
+{
+"countyId": "3331",
+"countyName": "白玉县"
+},
+{
+"countyId": "3332",
+"countyName": "石渠县"
+},
+{
+"countyId": "3333",
+"countyName": "色达县"
+},
+{
+"countyId": "3334",
+"countyName": "理塘县"
+},
+{
+"countyId": "3335",
+"countyName": "巴塘县"
+},
+{
+"countyId": "3336",
+"countyName": "乡城县"
+},
+{
+"countyId": "3337",
+"countyName": "稻城县"
+},
+{
+"countyId": "3338",
+"countyName": "得荣县"
+}
+]
+},
+{
+"districtId": "3400",
+"districtName": "凉山彝族自治州",
+"county": [
+{
+"countyId": "3401",
+"countyName": "西昌市"
+},
+{
+"countyId": "3422",
+"countyName": "木里藏族自治县"
+},
+{
+"countyId": "3423",
+"countyName": "盐源县"
+},
+{
+"countyId": "3424",
+"countyName": "德昌县"
+},
+{
+"countyId": "3425",
+"countyName": "会理县"
+},
+{
+"countyId": "3426",
+"countyName": "会东县"
+},
+{
+"countyId": "3427",
+"countyName": "宁南县"
+},
+{
+"countyId": "3428",
+"countyName": "普格县"
+},
+{
+"countyId": "3429",
+"countyName": "布拖县"
+},
+{
+"countyId": "3430",
+"countyName": "金阳县"
+},
+{
+"countyId": "3431",
+"countyName": "昭觉县"
+},
+{
+"countyId": "3432",
+"countyName": "喜德县"
+},
+{
+"countyId": "3433",
+"countyName": "冕宁县"
+},
+{
+"countyId": "3434",
+"countyName": "越西县"
+},
+{
+"countyId": "3435",
+"countyName": "甘洛县"
+},
+{
+"countyId": "3436",
+"countyName": "美姑县"
+},
+{
+"countyId": "3437",
+"countyName": "雷波县"
+}
+]
+}
+]
+},
+{
+"provinceId": "52",
+"provinceName": "贵州省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "贵阳市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "南明区"
+},
+{
+"countyId": "0103",
+"countyName": "云岩区"
+},
+{
+"countyId": "0111",
+"countyName": "花溪区"
+},
+{
+"countyId": "0112",
+"countyName": "乌当区"
+},
+{
+"countyId": "0113",
+"countyName": "白云区"
+},
+{
+"countyId": "0115",
+"countyName": "观山湖区"
+},
+{
+"countyId": "0121",
+"countyName": "开阳县"
+},
+{
+"countyId": "0122",
+"countyName": "息烽县"
+},
+{
+"countyId": "0123",
+"countyName": "修文县"
+},
+{
+"countyId": "0181",
+"countyName": "清镇市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "六盘水市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "钟山区"
+},
+{
+"countyId": "0203",
+"countyName": "六枝特区"
+},
+{
+"countyId": "0221",
+"countyName": "水城县"
+},
+{
+"countyId": "0222",
+"countyName": "盘县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "遵义市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "红花岗区"
+},
+{
+"countyId": "0303",
+"countyName": "汇川区"
+},
+{
+"countyId": "0304",
+"countyName": "播州区"
+},
+{
+"countyId": "0322",
+"countyName": "桐梓县"
+},
+{
+"countyId": "0323",
+"countyName": "绥阳县"
+},
+{
+"countyId": "0324",
+"countyName": "正安县"
+},
+{
+"countyId": "0325",
+"countyName": "道真仡佬族苗族自治县"
+},
+{
+"countyId": "0326",
+"countyName": "务川仡佬族苗族自治县"
+},
+{
+"countyId": "0327",
+"countyName": "凤冈县"
+},
+{
+"countyId": "0328",
+"countyName": "湄潭县"
+},
+{
+"countyId": "0329",
+"countyName": "余庆县"
+},
+{
+"countyId": "0330",
+"countyName": "习水县"
+},
+{
+"countyId": "0381",
+"countyName": "赤水市"
+},
+{
+"countyId": "0382",
+"countyName": "仁怀市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "安顺市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "西秀区"
+},
+{
+"countyId": "0403",
+"countyName": "平坝区"
+},
+{
+"countyId": "0422",
+"countyName": "普定县"
+},
+{
+"countyId": "0423",
+"countyName": "镇宁布依族苗族自治县"
+},
+{
+"countyId": "0424",
+"countyName": "关岭布依族苗族自治县"
+},
+{
+"countyId": "0425",
+"countyName": "紫云苗族布依族自治县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "毕节市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "七星关区"
+},
+{
+"countyId": "0521",
+"countyName": "大方县"
+},
+{
+"countyId": "0522",
+"countyName": "黔西县"
+},
+{
+"countyId": "0523",
+"countyName": "金沙县"
+},
+{
+"countyId": "0524",
+"countyName": "织金县"
+},
+{
+"countyId": "0525",
+"countyName": "纳雍县"
+},
+{
+"countyId": "0526",
+"countyName": "威宁彝族回族苗族自治县"
+},
+{
+"countyId": "0527",
+"countyName": "赫章县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "铜仁市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "碧江区"
+},
+{
+"countyId": "0603",
+"countyName": "万山区"
+},
+{
+"countyId": "0621",
+"countyName": "江口县"
+},
+{
+"countyId": "0622",
+"countyName": "玉屏侗族自治县"
+},
+{
+"countyId": "0623",
+"countyName": "石阡县"
+},
+{
+"countyId": "0624",
+"countyName": "思南县"
+},
+{
+"countyId": "0625",
+"countyName": "印江土家族苗族自治县"
+},
+{
+"countyId": "0626",
+"countyName": "德江县"
+},
+{
+"countyId": "0627",
+"countyName": "沿河土家族自治县"
+},
+{
+"countyId": "0628",
+"countyName": "松桃苗族自治县"
+}
+]
+},
+{
+"districtId": "2300",
+"districtName": "黔西南布依族苗族自治州",
+"county": [
+{
+"countyId": "2301",
+"countyName": "兴义市"
+},
+{
+"countyId": "2322",
+"countyName": "兴仁县"
+},
+{
+"countyId": "2323",
+"countyName": "普安县"
+},
+{
+"countyId": "2324",
+"countyName": "晴隆县"
+},
+{
+"countyId": "2325",
+"countyName": "贞丰县"
+},
+{
+"countyId": "2326",
+"countyName": "望谟县"
+},
+{
+"countyId": "2327",
+"countyName": "册亨县"
+},
+{
+"countyId": "2328",
+"countyName": "安龙县"
+}
+]
+},
+{
+"districtId": "2600",
+"districtName": "黔东南苗族侗族自治州",
+"county": [
+{
+"countyId": "2601",
+"countyName": "凯里市"
+},
+{
+"countyId": "2622",
+"countyName": "黄平县"
+},
+{
+"countyId": "2623",
+"countyName": "施秉县"
+},
+{
+"countyId": "2624",
+"countyName": "三穗县"
+},
+{
+"countyId": "2625",
+"countyName": "镇远县"
+},
+{
+"countyId": "2626",
+"countyName": "岑巩县"
+},
+{
+"countyId": "2627",
+"countyName": "天柱县"
+},
+{
+"countyId": "2628",
+"countyName": "锦屏县"
+},
+{
+"countyId": "2629",
+"countyName": "剑河县"
+},
+{
+"countyId": "2630",
+"countyName": "台江县"
+},
+{
+"countyId": "2631",
+"countyName": "黎平县"
+},
+{
+"countyId": "2632",
+"countyName": "榕江县"
+},
+{
+"countyId": "2633",
+"countyName": "从江县"
+},
+{
+"countyId": "2634",
+"countyName": "雷山县"
+},
+{
+"countyId": "2635",
+"countyName": "麻江县"
+},
+{
+"countyId": "2636",
+"countyName": "丹寨县"
+}
+]
+},
+{
+"districtId": "2700",
+"districtName": "黔南布依族苗族自治州",
+"county": [
+{
+"countyId": "2701",
+"countyName": "都匀市"
+},
+{
+"countyId": "2702",
+"countyName": "福泉市"
+},
+{
+"countyId": "2722",
+"countyName": "荔波县"
+},
+{
+"countyId": "2723",
+"countyName": "贵定县"
+},
+{
+"countyId": "2725",
+"countyName": "瓮安县"
+},
+{
+"countyId": "2726",
+"countyName": "独山县"
+},
+{
+"countyId": "2727",
+"countyName": "平塘县"
+},
+{
+"countyId": "2728",
+"countyName": "罗甸县"
+},
+{
+"countyId": "2729",
+"countyName": "长顺县"
+},
+{
+"countyId": "2730",
+"countyName": "龙里县"
+},
+{
+"countyId": "2731",
+"countyName": "惠水县"
+},
+{
+"countyId": "2732",
+"countyName": "三都水族自治县"
+}
+]
+}
+]
+},
+{
+"provinceId": "53",
+"provinceName": "云南省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "昆明市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "五华区"
+},
+{
+"countyId": "0103",
+"countyName": "盘龙区"
+},
+{
+"countyId": "0111",
+"countyName": "官渡区"
+},
+{
+"countyId": "0112",
+"countyName": "西山区"
+},
+{
+"countyId": "0113",
+"countyName": "东川区"
+},
+{
+"countyId": "0114",
+"countyName": "呈贡区"
+},
+{
+"countyId": "0122",
+"countyName": "晋宁县"
+},
+{
+"countyId": "0124",
+"countyName": "富民县"
+},
+{
+"countyId": "0125",
+"countyName": "宜良县"
+},
+{
+"countyId": "0126",
+"countyName": "石林彝族自治县"
+},
+{
+"countyId": "0127",
+"countyName": "嵩明县"
+},
+{
+"countyId": "0128",
+"countyName": "禄劝彝族苗族自治县"
+},
+{
+"countyId": "0129",
+"countyName": "寻甸回族彝族自治县"
+},
+{
+"countyId": "0181",
+"countyName": "安宁市"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "曲靖市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "麒麟区"
+},
+{
+"countyId": "0303",
+"countyName": "沾益区"
+},
+{
+"countyId": "0321",
+"countyName": "马龙县"
+},
+{
+"countyId": "0322",
+"countyName": "陆良县"
+},
+{
+"countyId": "0323",
+"countyName": "师宗县"
+},
+{
+"countyId": "0324",
+"countyName": "罗平县"
+},
+{
+"countyId": "0325",
+"countyName": "富源县"
+},
+{
+"countyId": "0326",
+"countyName": "会泽县"
+},
+{
+"countyId": "0381",
+"countyName": "宣威市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "玉溪市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "红塔区"
+},
+{
+"countyId": "0403",
+"countyName": "江川区"
+},
+{
+"countyId": "0422",
+"countyName": "澄江县"
+},
+{
+"countyId": "0423",
+"countyName": "通海县"
+},
+{
+"countyId": "0424",
+"countyName": "华宁县"
+},
+{
+"countyId": "0425",
+"countyName": "易门县"
+},
+{
+"countyId": "0426",
+"countyName": "峨山彝族自治县"
+},
+{
+"countyId": "0427",
+"countyName": "新平彝族傣族自治县"
+},
+{
+"countyId": "0428",
+"countyName": "元江哈尼族彝族傣族自治县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "保山市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "隆阳区"
+},
+{
+"countyId": "0521",
+"countyName": "施甸县"
+},
+{
+"countyId": "0523",
+"countyName": "龙陵县"
+},
+{
+"countyId": "0524",
+"countyName": "昌宁县"
+},
+{
+"countyId": "0581",
+"countyName": "腾冲市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "昭通市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "昭阳区"
+},
+{
+"countyId": "0621",
+"countyName": "鲁甸县"
+},
+{
+"countyId": "0622",
+"countyName": "巧家县"
+},
+{
+"countyId": "0623",
+"countyName": "盐津县"
+},
+{
+"countyId": "0624",
+"countyName": "大关县"
+},
+{
+"countyId": "0625",
+"countyName": "永善县"
+},
+{
+"countyId": "0626",
+"countyName": "绥江县"
+},
+{
+"countyId": "0627",
+"countyName": "镇雄县"
+},
+{
+"countyId": "0628",
+"countyName": "彝良县"
+},
+{
+"countyId": "0629",
+"countyName": "威信县"
+},
+{
+"countyId": "0630",
+"countyName": "水富县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "丽江市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "古城区"
+},
+{
+"countyId": "0721",
+"countyName": "玉龙纳西族自治县"
+},
+{
+"countyId": "0722",
+"countyName": "永胜县"
+},
+{
+"countyId": "0723",
+"countyName": "华坪县"
+},
+{
+"countyId": "0724",
+"countyName": "宁蒗彝族自治县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "普洱市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "思茅区"
+},
+{
+"countyId": "0821",
+"countyName": "宁洱哈尼族彝族自治县"
+},
+{
+"countyId": "0822",
+"countyName": "墨江哈尼族自治县"
+},
+{
+"countyId": "0823",
+"countyName": "景东彝族自治县"
+},
+{
+"countyId": "0824",
+"countyName": "景谷傣族彝族自治县"
+},
+{
+"countyId": "0825",
+"countyName": "镇沅彝族哈尼族拉祜族自治县"
+},
+{
+"countyId": "0826",
+"countyName": "江城哈尼族彝族自治县"
+},
+{
+"countyId": "0827",
+"countyName": "孟连傣族拉祜族佤族自治县"
+},
+{
+"countyId": "0828",
+"countyName": "澜沧拉祜族自治县"
+},
+{
+"countyId": "0829",
+"countyName": "西盟佤族自治县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "临沧市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "临翔区"
+},
+{
+"countyId": "0921",
+"countyName": "凤庆县"
+},
+{
+"countyId": "0922",
+"countyName": "云县"
+},
+{
+"countyId": "0923",
+"countyName": "永德县"
+},
+{
+"countyId": "0924",
+"countyName": "镇康县"
+},
+{
+"countyId": "0925",
+"countyName": "双江拉祜族佤族布朗族傣族自治县"
+},
+{
+"countyId": "0926",
+"countyName": "耿马傣族佤族自治县"
+},
+{
+"countyId": "0927",
+"countyName": "沧源佤族自治县"
+}
+]
+},
+{
+"districtId": "2300",
+"districtName": "楚雄彝族自治州",
+"county": [
+{
+"countyId": "2301",
+"countyName": "楚雄市"
+},
+{
+"countyId": "2322",
+"countyName": "双柏县"
+},
+{
+"countyId": "2323",
+"countyName": "牟定县"
+},
+{
+"countyId": "2324",
+"countyName": "南华县"
+},
+{
+"countyId": "2325",
+"countyName": "姚安县"
+},
+{
+"countyId": "2326",
+"countyName": "大姚县"
+},
+{
+"countyId": "2327",
+"countyName": "永仁县"
+},
+{
+"countyId": "2328",
+"countyName": "元谋县"
+},
+{
+"countyId": "2329",
+"countyName": "武定县"
+},
+{
+"countyId": "2331",
+"countyName": "禄丰县"
+}
+]
+},
+{
+"districtId": "2500",
+"districtName": "红河哈尼族彝族自治州",
+"county": [
+{
+"countyId": "2501",
+"countyName": "个旧市"
+},
+{
+"countyId": "2502",
+"countyName": "开远市"
+},
+{
+"countyId": "2503",
+"countyName": "蒙自市"
+},
+{
+"countyId": "2504",
+"countyName": "弥勒市"
+},
+{
+"countyId": "2523",
+"countyName": "屏边苗族自治县"
+},
+{
+"countyId": "2524",
+"countyName": "建水县"
+},
+{
+"countyId": "2525",
+"countyName": "石屏县"
+},
+{
+"countyId": "2527",
+"countyName": "泸西县"
+},
+{
+"countyId": "2528",
+"countyName": "元阳县"
+},
+{
+"countyId": "2529",
+"countyName": "红河县"
+},
+{
+"countyId": "2530",
+"countyName": "金平苗族瑶族傣族自治县"
+},
+{
+"countyId": "2531",
+"countyName": "绿春县"
+},
+{
+"countyId": "2532",
+"countyName": "河口瑶族自治县"
+}
+]
+},
+{
+"districtId": "2600",
+"districtName": "文山壮族苗族自治州",
+"county": [
+{
+"countyId": "2601",
+"countyName": "文山市"
+},
+{
+"countyId": "2622",
+"countyName": "砚山县"
+},
+{
+"countyId": "2623",
+"countyName": "西畴县"
+},
+{
+"countyId": "2624",
+"countyName": "麻栗坡县"
+},
+{
+"countyId": "2625",
+"countyName": "马关县"
+},
+{
+"countyId": "2626",
+"countyName": "丘北县"
+},
+{
+"countyId": "2627",
+"countyName": "广南县"
+},
+{
+"countyId": "2628",
+"countyName": "富宁县"
+}
+]
+},
+{
+"districtId": "2800",
+"districtName": "西双版纳傣族自治州",
+"county": [
+{
+"countyId": "2801",
+"countyName": "景洪市"
+},
+{
+"countyId": "2822",
+"countyName": "勐海县"
+},
+{
+"countyId": "2823",
+"countyName": "勐腊县"
+}
+]
+},
+{
+"districtId": "2900",
+"districtName": "大理白族自治州",
+"county": [
+{
+"countyId": "2901",
+"countyName": "大理市"
+},
+{
+"countyId": "2922",
+"countyName": "漾濞彝族自治县"
+},
+{
+"countyId": "2923",
+"countyName": "祥云县"
+},
+{
+"countyId": "2924",
+"countyName": "宾川县"
+},
+{
+"countyId": "2925",
+"countyName": "弥渡县"
+},
+{
+"countyId": "2926",
+"countyName": "南涧彝族自治县"
+},
+{
+"countyId": "2927",
+"countyName": "巍山彝族回族自治县"
+},
+{
+"countyId": "2928",
+"countyName": "永平县"
+},
+{
+"countyId": "2929",
+"countyName": "云龙县"
+},
+{
+"countyId": "2930",
+"countyName": "洱源县"
+},
+{
+"countyId": "2931",
+"countyName": "剑川县"
+},
+{
+"countyId": "2932",
+"countyName": "鹤庆县"
+}
+]
+},
+{
+"districtId": "3100",
+"districtName": "德宏傣族景颇族自治州",
+"county": [
+{
+"countyId": "3102",
+"countyName": "瑞丽市"
+},
+{
+"countyId": "3103",
+"countyName": "芒市"
+},
+{
+"countyId": "3122",
+"countyName": "梁河县"
+},
+{
+"countyId": "3123",
+"countyName": "盈江县"
+},
+{
+"countyId": "3124",
+"countyName": "陇川县"
+}
+]
+},
+{
+"districtId": "3300",
+"districtName": "怒江傈僳族自治州",
+"county": [
+{
+"countyId": "3301",
+"countyName": "泸水市"
+},
+{
+"countyId": "3323",
+"countyName": "福贡县"
+},
+{
+"countyId": "3324",
+"countyName": "贡山独龙族怒族自治县"
+},
+{
+"countyId": "3325",
+"countyName": "兰坪白族普米族自治县"
+}
+]
+},
+{
+"districtId": "3400",
+"districtName": "迪庆藏族自治州",
+"county": [
+{
+"countyId": "3401",
+"countyName": "香格里拉市"
+},
+{
+"countyId": "3422",
+"countyName": "德钦县"
+},
+{
+"countyId": "3423",
+"countyName": "维西傈僳族自治县"
+}
+]
+}
+]
+},
+{
+"provinceId": "54",
+"provinceName": "西藏自治区",
+"district": [
+{
+"districtId": "0100",
+"districtName": "拉萨市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "城关区"
+},
+{
+"countyId": "0103",
+"countyName": "堆龙德庆区"
+},
+{
+"countyId": "0121",
+"countyName": "林周县"
+},
+{
+"countyId": "0122",
+"countyName": "当雄县"
+},
+{
+"countyId": "0123",
+"countyName": "尼木县"
+},
+{
+"countyId": "0124",
+"countyName": "曲水县"
+},
+{
+"countyId": "0126",
+"countyName": "达孜县"
+},
+{
+"countyId": "0127",
+"countyName": "墨竹工卡县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "日喀则市",
+"county": [
+{
+"countyId": "0202",
+"countyName": "桑珠孜区"
+},
+{
+"countyId": "0221",
+"countyName": "南木林县"
+},
+{
+"countyId": "0222",
+"countyName": "江孜县"
+},
+{
+"countyId": "0223",
+"countyName": "定日县"
+},
+{
+"countyId": "0224",
+"countyName": "萨迦县"
+},
+{
+"countyId": "0225",
+"countyName": "拉孜县"
+},
+{
+"countyId": "0226",
+"countyName": "昂仁县"
+},
+{
+"countyId": "0227",
+"countyName": "谢通门县"
+},
+{
+"countyId": "0228",
+"countyName": "白朗县"
+},
+{
+"countyId": "0229",
+"countyName": "仁布县"
+},
+{
+"countyId": "0230",
+"countyName": "康马县"
+},
+{
+"countyId": "0231",
+"countyName": "定结县"
+},
+{
+"countyId": "0232",
+"countyName": "仲巴县"
+},
+{
+"countyId": "0233",
+"countyName": "亚东县"
+},
+{
+"countyId": "0234",
+"countyName": "吉隆县"
+},
+{
+"countyId": "0235",
+"countyName": "聂拉木县"
+},
+{
+"countyId": "0236",
+"countyName": "萨嘎县"
+},
+{
+"countyId": "0237",
+"countyName": "岗巴县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "昌都市",
+"county": [
+{
+"countyId": "0302",
+"countyName": "卡若区"
+},
+{
+"countyId": "0321",
+"countyName": "江达县"
+},
+{
+"countyId": "0322",
+"countyName": "贡觉县"
+},
+{
+"countyId": "0323",
+"countyName": "类乌齐县"
+},
+{
+"countyId": "0324",
+"countyName": "丁青县"
+},
+{
+"countyId": "0325",
+"countyName": "察雅县"
+},
+{
+"countyId": "0326",
+"countyName": "八宿县"
+},
+{
+"countyId": "0327",
+"countyName": "左贡县"
+},
+{
+"countyId": "0328",
+"countyName": "芒康县"
+},
+{
+"countyId": "0329",
+"countyName": "洛隆县"
+},
+{
+"countyId": "0330",
+"countyName": "边坝县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "林芝市",
+"county": [
+{
+"countyId": "0402",
+"countyName": "巴宜区"
+},
+{
+"countyId": "0421",
+"countyName": "工布江达县"
+},
+{
+"countyId": "0422",
+"countyName": "米林县"
+},
+{
+"countyId": "0423",
+"countyName": "墨脱县"
+},
+{
+"countyId": "0424",
+"countyName": "波密县"
+},
+{
+"countyId": "0425",
+"countyName": "察隅县"
+},
+{
+"countyId": "0426",
+"countyName": "朗县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "山南市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "乃东区"
+},
+{
+"countyId": "0521",
+"countyName": "扎囊县"
+},
+{
+"countyId": "0522",
+"countyName": "贡嘎县"
+},
+{
+"countyId": "0523",
+"countyName": "桑日县"
+},
+{
+"countyId": "0524",
+"countyName": "琼结县"
+},
+{
+"countyId": "0525",
+"countyName": "曲松县"
+},
+{
+"countyId": "0526",
+"countyName": "措美县"
+},
+{
+"countyId": "0527",
+"countyName": "洛扎县"
+},
+{
+"countyId": "0528",
+"countyName": "加查县"
+},
+{
+"countyId": "0529",
+"countyName": "隆子县"
+},
+{
+"countyId": "0530",
+"countyName": "错那县"
+},
+{
+"countyId": "0531",
+"countyName": "浪卡子县"
+}
+]
+},
+{
+"districtId": "2400",
+"districtName": "那曲地区",
+"county": [
+{
+"countyId": "2421",
+"countyName": "那曲县"
+},
+{
+"countyId": "2422",
+"countyName": "嘉黎县"
+},
+{
+"countyId": "2423",
+"countyName": "比如县"
+},
+{
+"countyId": "2424",
+"countyName": "聂荣县"
+},
+{
+"countyId": "2425",
+"countyName": "安多县"
+},
+{
+"countyId": "2426",
+"countyName": "申扎县"
+},
+{
+"countyId": "2427",
+"countyName": "索县"
+},
+{
+"countyId": "2428",
+"countyName": "班戈县"
+},
+{
+"countyId": "2429",
+"countyName": "巴青县"
+},
+{
+"countyId": "2430",
+"countyName": "尼玛县"
+},
+{
+"countyId": "2431",
+"countyName": "双湖县"
+}
+]
+},
+{
+"districtId": "2500",
+"districtName": "阿里地区",
+"county": [
+{
+"countyId": "2521",
+"countyName": "普兰县"
+},
+{
+"countyId": "2522",
+"countyName": "札达县"
+},
+{
+"countyId": "2523",
+"countyName": "噶尔县"
+},
+{
+"countyId": "2524",
+"countyName": "日土县"
+},
+{
+"countyId": "2525",
+"countyName": "革吉县"
+},
+{
+"countyId": "2526",
+"countyName": "改则县"
+},
+{
+"countyId": "2527",
+"countyName": "措勤县"
+}
+]
+}
+]
+},
+{
+"provinceId": "61",
+"provinceName": "陕西省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "西安市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "新城区"
+},
+{
+"countyId": "0103",
+"countyName": "碑林区"
+},
+{
+"countyId": "0104",
+"countyName": "莲湖区"
+},
+{
+"countyId": "0111",
+"countyName": "灞桥区"
+},
+{
+"countyId": "0112",
+"countyName": "未央区"
+},
+{
+"countyId": "0113",
+"countyName": "雁塔区"
+},
+{
+"countyId": "0114",
+"countyName": "阎良区"
+},
+{
+"countyId": "0115",
+"countyName": "临潼区"
+},
+{
+"countyId": "0116",
+"countyName": "长安区"
+},
+{
+"countyId": "0117",
+"countyName": "高陵区"
+},
+{
+"countyId": "0122",
+"countyName": "蓝田县"
+},
+{
+"countyId": "0124",
+"countyName": "周至县"
+},
+{
+"countyId": "0125",
+"countyName": "户县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "铜川市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "王益区"
+},
+{
+"countyId": "0203",
+"countyName": "印台区"
+},
+{
+"countyId": "0204",
+"countyName": "耀州区"
+},
+{
+"countyId": "0222",
+"countyName": "宜君县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "宝鸡市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "渭滨区"
+},
+{
+"countyId": "0303",
+"countyName": "金台区"
+},
+{
+"countyId": "0304",
+"countyName": "陈仓区"
+},
+{
+"countyId": "0322",
+"countyName": "凤翔县"
+},
+{
+"countyId": "0323",
+"countyName": "岐山县"
+},
+{
+"countyId": "0324",
+"countyName": "扶风县"
+},
+{
+"countyId": "0326",
+"countyName": "眉县"
+},
+{
+"countyId": "0327",
+"countyName": "陇县"
+},
+{
+"countyId": "0328",
+"countyName": "千阳县"
+},
+{
+"countyId": "0329",
+"countyName": "麟游县"
+},
+{
+"countyId": "0330",
+"countyName": "凤县"
+},
+{
+"countyId": "0331",
+"countyName": "太白县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "咸阳市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "秦都区"
+},
+{
+"countyId": "0403",
+"countyName": "杨陵区"
+},
+{
+"countyId": "0404",
+"countyName": "渭城区"
+},
+{
+"countyId": "0422",
+"countyName": "三原县"
+},
+{
+"countyId": "0423",
+"countyName": "泾阳县"
+},
+{
+"countyId": "0424",
+"countyName": "乾县"
+},
+{
+"countyId": "0425",
+"countyName": "礼泉县"
+},
+{
+"countyId": "0426",
+"countyName": "永寿县"
+},
+{
+"countyId": "0427",
+"countyName": "彬县"
+},
+{
+"countyId": "0428",
+"countyName": "长武县"
+},
+{
+"countyId": "0429",
+"countyName": "旬邑县"
+},
+{
+"countyId": "0430",
+"countyName": "淳化县"
+},
+{
+"countyId": "0431",
+"countyName": "武功县"
+},
+{
+"countyId": "0481",
+"countyName": "兴平市"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "渭南市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "临渭区"
+},
+{
+"countyId": "0503",
+"countyName": "华州区"
+},
+{
+"countyId": "0522",
+"countyName": "潼关县"
+},
+{
+"countyId": "0523",
+"countyName": "大荔县"
+},
+{
+"countyId": "0524",
+"countyName": "合阳县"
+},
+{
+"countyId": "0525",
+"countyName": "澄城县"
+},
+{
+"countyId": "0526",
+"countyName": "蒲城县"
+},
+{
+"countyId": "0527",
+"countyName": "白水县"
+},
+{
+"countyId": "0528",
+"countyName": "富平县"
+},
+{
+"countyId": "0581",
+"countyName": "韩城市"
+},
+{
+"countyId": "0582",
+"countyName": "华阴市"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "延安市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "宝塔区"
+},
+{
+"countyId": "0603",
+"countyName": "安塞区"
+},
+{
+"countyId": "0621",
+"countyName": "延长县"
+},
+{
+"countyId": "0622",
+"countyName": "延川县"
+},
+{
+"countyId": "0623",
+"countyName": "子长县"
+},
+{
+"countyId": "0625",
+"countyName": "志丹县"
+},
+{
+"countyId": "0626",
+"countyName": "吴起县"
+},
+{
+"countyId": "0627",
+"countyName": "甘泉县"
+},
+{
+"countyId": "0628",
+"countyName": "富县"
+},
+{
+"countyId": "0629",
+"countyName": "洛川县"
+},
+{
+"countyId": "0630",
+"countyName": "宜川县"
+},
+{
+"countyId": "0631",
+"countyName": "黄龙县"
+},
+{
+"countyId": "0632",
+"countyName": "黄陵县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "汉中市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "汉台区"
+},
+{
+"countyId": "0721",
+"countyName": "南郑县"
+},
+{
+"countyId": "0722",
+"countyName": "城固县"
+},
+{
+"countyId": "0723",
+"countyName": "洋县"
+},
+{
+"countyId": "0724",
+"countyName": "西乡县"
+},
+{
+"countyId": "0725",
+"countyName": "勉县"
+},
+{
+"countyId": "0726",
+"countyName": "宁强县"
+},
+{
+"countyId": "0727",
+"countyName": "略阳县"
+},
+{
+"countyId": "0728",
+"countyName": "镇巴县"
+},
+{
+"countyId": "0729",
+"countyName": "留坝县"
+},
+{
+"countyId": "0730",
+"countyName": "佛坪县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "榆林市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "榆阳区"
+},
+{
+"countyId": "0803",
+"countyName": "横山区"
+},
+{
+"countyId": "0821",
+"countyName": "神木县"
+},
+{
+"countyId": "0822",
+"countyName": "府谷县"
+},
+{
+"countyId": "0824",
+"countyName": "靖边县"
+},
+{
+"countyId": "0825",
+"countyName": "定边县"
+},
+{
+"countyId": "0826",
+"countyName": "绥德县"
+},
+{
+"countyId": "0827",
+"countyName": "米脂县"
+},
+{
+"countyId": "0828",
+"countyName": "佳县"
+},
+{
+"countyId": "0829",
+"countyName": "吴堡县"
+},
+{
+"countyId": "0830",
+"countyName": "清涧县"
+},
+{
+"countyId": "0831",
+"countyName": "子洲县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "安康市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "汉滨区"
+},
+{
+"countyId": "0921",
+"countyName": "汉阴县"
+},
+{
+"countyId": "0922",
+"countyName": "石泉县"
+},
+{
+"countyId": "0923",
+"countyName": "宁陕县"
+},
+{
+"countyId": "0924",
+"countyName": "紫阳县"
+},
+{
+"countyId": "0925",
+"countyName": "岚皋县"
+},
+{
+"countyId": "0926",
+"countyName": "平利县"
+},
+{
+"countyId": "0927",
+"countyName": "镇坪县"
+},
+{
+"countyId": "0928",
+"countyName": "旬阳县"
+},
+{
+"countyId": "0929",
+"countyName": "白河县"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "商洛市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "商州区"
+},
+{
+"countyId": "1021",
+"countyName": "洛南县"
+},
+{
+"countyId": "1022",
+"countyName": "丹凤县"
+},
+{
+"countyId": "1023",
+"countyName": "商南县"
+},
+{
+"countyId": "1024",
+"countyName": "山阳县"
+},
+{
+"countyId": "1025",
+"countyName": "镇安县"
+},
+{
+"countyId": "1026",
+"countyName": "柞水县"
+}
+]
+}
+]
+},
+{
+"provinceId": "62",
+"provinceName": "甘肃省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "兰州市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "城关区"
+},
+{
+"countyId": "0103",
+"countyName": "七里河区"
+},
+{
+"countyId": "0104",
+"countyName": "西固区"
+},
+{
+"countyId": "0105",
+"countyName": "安宁区"
+},
+{
+"countyId": "0111",
+"countyName": "红古区"
+},
+{
+"countyId": "0121",
+"countyName": "永登县"
+},
+{
+"countyId": "0122",
+"countyName": "皋兰县"
+},
+{
+"countyId": "0123",
+"countyName": "榆中县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "嘉峪关市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "金昌市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "金川区"
+},
+{
+"countyId": "0321",
+"countyName": "永昌县"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "白银市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "白银区"
+},
+{
+"countyId": "0403",
+"countyName": "平川区"
+},
+{
+"countyId": "0421",
+"countyName": "靖远县"
+},
+{
+"countyId": "0422",
+"countyName": "会宁县"
+},
+{
+"countyId": "0423",
+"countyName": "景泰县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "天水市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "秦州区"
+},
+{
+"countyId": "0503",
+"countyName": "麦积区"
+},
+{
+"countyId": "0521",
+"countyName": "清水县"
+},
+{
+"countyId": "0522",
+"countyName": "秦安县"
+},
+{
+"countyId": "0523",
+"countyName": "甘谷县"
+},
+{
+"countyId": "0524",
+"countyName": "武山县"
+},
+{
+"countyId": "0525",
+"countyName": "张家川回族自治县"
+}
+]
+},
+{
+"districtId": "0600",
+"districtName": "武威市",
+"county": [
+{
+"countyId": "0601",
+"countyName": "市辖区"
+},
+{
+"countyId": "0602",
+"countyName": "凉州区"
+},
+{
+"countyId": "0621",
+"countyName": "民勤县"
+},
+{
+"countyId": "0622",
+"countyName": "古浪县"
+},
+{
+"countyId": "0623",
+"countyName": "天祝藏族自治县"
+}
+]
+},
+{
+"districtId": "0700",
+"districtName": "张掖市",
+"county": [
+{
+"countyId": "0701",
+"countyName": "市辖区"
+},
+{
+"countyId": "0702",
+"countyName": "甘州区"
+},
+{
+"countyId": "0721",
+"countyName": "肃南裕固族自治县"
+},
+{
+"countyId": "0722",
+"countyName": "民乐县"
+},
+{
+"countyId": "0723",
+"countyName": "临泽县"
+},
+{
+"countyId": "0724",
+"countyName": "高台县"
+},
+{
+"countyId": "0725",
+"countyName": "山丹县"
+}
+]
+},
+{
+"districtId": "0800",
+"districtName": "平凉市",
+"county": [
+{
+"countyId": "0801",
+"countyName": "市辖区"
+},
+{
+"countyId": "0802",
+"countyName": "崆峒区"
+},
+{
+"countyId": "0821",
+"countyName": "泾川县"
+},
+{
+"countyId": "0822",
+"countyName": "灵台县"
+},
+{
+"countyId": "0823",
+"countyName": "崇信县"
+},
+{
+"countyId": "0824",
+"countyName": "华亭县"
+},
+{
+"countyId": "0825",
+"countyName": "庄浪县"
+},
+{
+"countyId": "0826",
+"countyName": "静宁县"
+}
+]
+},
+{
+"districtId": "0900",
+"districtName": "酒泉市",
+"county": [
+{
+"countyId": "0901",
+"countyName": "市辖区"
+},
+{
+"countyId": "0902",
+"countyName": "肃州区"
+},
+{
+"countyId": "0921",
+"countyName": "金塔县"
+},
+{
+"countyId": "0922",
+"countyName": "瓜州县"
+},
+{
+"countyId": "0923",
+"countyName": "肃北蒙古族自治县"
+},
+{
+"countyId": "0924",
+"countyName": "阿克塞哈萨克族自治县"
+},
+{
+"countyId": "0981",
+"countyName": "玉门市"
+},
+{
+"countyId": "0982",
+"countyName": "敦煌市"
+}
+]
+},
+{
+"districtId": "1000",
+"districtName": "庆阳市",
+"county": [
+{
+"countyId": "1001",
+"countyName": "市辖区"
+},
+{
+"countyId": "1002",
+"countyName": "西峰区"
+},
+{
+"countyId": "1021",
+"countyName": "庆城县"
+},
+{
+"countyId": "1022",
+"countyName": "环县"
+},
+{
+"countyId": "1023",
+"countyName": "华池县"
+},
+{
+"countyId": "1024",
+"countyName": "合水县"
+},
+{
+"countyId": "1025",
+"countyName": "正宁县"
+},
+{
+"countyId": "1026",
+"countyName": "宁县"
+},
+{
+"countyId": "1027",
+"countyName": "镇原县"
+}
+]
+},
+{
+"districtId": "1100",
+"districtName": "定西市",
+"county": [
+{
+"countyId": "1101",
+"countyName": "市辖区"
+},
+{
+"countyId": "1102",
+"countyName": "安定区"
+},
+{
+"countyId": "1121",
+"countyName": "通渭县"
+},
+{
+"countyId": "1122",
+"countyName": "陇西县"
+},
+{
+"countyId": "1123",
+"countyName": "渭源县"
+},
+{
+"countyId": "1124",
+"countyName": "临洮县"
+},
+{
+"countyId": "1125",
+"countyName": "漳县"
+},
+{
+"countyId": "1126",
+"countyName": "岷县"
+}
+]
+},
+{
+"districtId": "1200",
+"districtName": "陇南市",
+"county": [
+{
+"countyId": "1201",
+"countyName": "市辖区"
+},
+{
+"countyId": "1202",
+"countyName": "武都区"
+},
+{
+"countyId": "1221",
+"countyName": "成县"
+},
+{
+"countyId": "1222",
+"countyName": "文县"
+},
+{
+"countyId": "1223",
+"countyName": "宕昌县"
+},
+{
+"countyId": "1224",
+"countyName": "康县"
+},
+{
+"countyId": "1225",
+"countyName": "西和县"
+},
+{
+"countyId": "1226",
+"countyName": "礼县"
+},
+{
+"countyId": "1227",
+"countyName": "徽县"
+},
+{
+"countyId": "1228",
+"countyName": "两当县"
+}
+]
+},
+{
+"districtId": "2900",
+"districtName": "临夏回族自治州",
+"county": [
+{
+"countyId": "2901",
+"countyName": "临夏市"
+},
+{
+"countyId": "2921",
+"countyName": "临夏县"
+},
+{
+"countyId": "2922",
+"countyName": "康乐县"
+},
+{
+"countyId": "2923",
+"countyName": "永靖县"
+},
+{
+"countyId": "2924",
+"countyName": "广河县"
+},
+{
+"countyId": "2925",
+"countyName": "和政县"
+},
+{
+"countyId": "2926",
+"countyName": "东乡族自治县"
+},
+{
+"countyId": "2927",
+"countyName": "积石山保安族东乡族撒拉族自治县"
+}
+]
+},
+{
+"districtId": "3000",
+"districtName": "甘南藏族自治州",
+"county": [
+{
+"countyId": "3001",
+"countyName": "合作市"
+},
+{
+"countyId": "3021",
+"countyName": "临潭县"
+},
+{
+"countyId": "3022",
+"countyName": "卓尼县"
+},
+{
+"countyId": "3023",
+"countyName": "舟曲县"
+},
+{
+"countyId": "3024",
+"countyName": "迭部县"
+},
+{
+"countyId": "3025",
+"countyName": "玛曲县"
+},
+{
+"countyId": "3026",
+"countyName": "碌曲县"
+},
+{
+"countyId": "3027",
+"countyName": "夏河县"
+}
+]
+}
+]
+},
+{
+"provinceId": "63",
+"provinceName": "青海省",
+"district": [
+{
+"districtId": "0100",
+"districtName": "西宁市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "城东区"
+},
+{
+"countyId": "0103",
+"countyName": "城中区"
+},
+{
+"countyId": "0104",
+"countyName": "城西区"
+},
+{
+"countyId": "0105",
+"countyName": "城北区"
+},
+{
+"countyId": "0121",
+"countyName": "大通回族土族自治县"
+},
+{
+"countyId": "0122",
+"countyName": "湟中县"
+},
+{
+"countyId": "0123",
+"countyName": "湟源县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "海东市",
+"county": [
+{
+"countyId": "0202",
+"countyName": "乐都区"
+},
+{
+"countyId": "0203",
+"countyName": "平安区"
+},
+{
+"countyId": "0222",
+"countyName": "民和回族土族自治县"
+},
+{
+"countyId": "0223",
+"countyName": "互助土族自治县"
+},
+{
+"countyId": "0224",
+"countyName": "化隆回族自治县"
+},
+{
+"countyId": "0225",
+"countyName": "循化撒拉族自治县"
+}
+]
+},
+{
+"districtId": "2200",
+"districtName": "海北藏族自治州",
+"county": [
+{
+"countyId": "2221",
+"countyName": "门源回族自治县"
+},
+{
+"countyId": "2222",
+"countyName": "祁连县"
+},
+{
+"countyId": "2223",
+"countyName": "海晏县"
+},
+{
+"countyId": "2224",
+"countyName": "刚察县"
+}
+]
+},
+{
+"districtId": "2300",
+"districtName": "黄南藏族自治州",
+"county": [
+{
+"countyId": "2321",
+"countyName": "同仁县"
+},
+{
+"countyId": "2322",
+"countyName": "尖扎县"
+},
+{
+"countyId": "2323",
+"countyName": "泽库县"
+},
+{
+"countyId": "2324",
+"countyName": "河南蒙古族自治县"
+}
+]
+},
+{
+"districtId": "2500",
+"districtName": "海南藏族自治州",
+"county": [
+{
+"countyId": "2521",
+"countyName": "共和县"
+},
+{
+"countyId": "2522",
+"countyName": "同德县"
+},
+{
+"countyId": "2523",
+"countyName": "贵德县"
+},
+{
+"countyId": "2524",
+"countyName": "兴海县"
+},
+{
+"countyId": "2525",
+"countyName": "贵南县"
+}
+]
+},
+{
+"districtId": "2600",
+"districtName": "果洛藏族自治州",
+"county": [
+{
+"countyId": "2621",
+"countyName": "玛沁县"
+},
+{
+"countyId": "2622",
+"countyName": "班玛县"
+},
+{
+"countyId": "2623",
+"countyName": "甘德县"
+},
+{
+"countyId": "2624",
+"countyName": "达日县"
+},
+{
+"countyId": "2625",
+"countyName": "久治县"
+},
+{
+"countyId": "2626",
+"countyName": "玛多县"
+}
+]
+},
+{
+"districtId": "2700",
+"districtName": "玉树藏族自治州",
+"county": [
+{
+"countyId": "2701",
+"countyName": "玉树市"
+},
+{
+"countyId": "2722",
+"countyName": "杂多县"
+},
+{
+"countyId": "2723",
+"countyName": "称多县"
+},
+{
+"countyId": "2724",
+"countyName": "治多县"
+},
+{
+"countyId": "2725",
+"countyName": "囊谦县"
+},
+{
+"countyId": "2726",
+"countyName": "曲麻莱县"
+}
+]
+},
+{
+"districtId": "2800",
+"districtName": "海西蒙古族藏族自治州",
+"county": [
+{
+"countyId": "2801",
+"countyName": "格尔木市"
+},
+{
+"countyId": "2802",
+"countyName": "德令哈市"
+},
+{
+"countyId": "2821",
+"countyName": "乌兰县"
+},
+{
+"countyId": "2822",
+"countyName": "都兰县"
+},
+{
+"countyId": "2823",
+"countyName": "天峻县"
+}
+]
+}
+]
+},
+{
+"provinceId": "64",
+"provinceName": "宁夏回族自治区",
+"district": [
+{
+"districtId": "0100",
+"districtName": "银川市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0104",
+"countyName": "兴庆区"
+},
+{
+"countyId": "0105",
+"countyName": "西夏区"
+},
+{
+"countyId": "0106",
+"countyName": "金凤区"
+},
+{
+"countyId": "0121",
+"countyName": "永宁县"
+},
+{
+"countyId": "0122",
+"countyName": "贺兰县"
+},
+{
+"countyId": "0181",
+"countyName": "灵武市"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "石嘴山市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "大武口区"
+},
+{
+"countyId": "0205",
+"countyName": "惠农区"
+},
+{
+"countyId": "0221",
+"countyName": "平罗县"
+}
+]
+},
+{
+"districtId": "0300",
+"districtName": "吴忠市",
+"county": [
+{
+"countyId": "0301",
+"countyName": "市辖区"
+},
+{
+"countyId": "0302",
+"countyName": "利通区"
+},
+{
+"countyId": "0303",
+"countyName": "红寺堡区"
+},
+{
+"countyId": "0323",
+"countyName": "盐池县"
+},
+{
+"countyId": "0324",
+"countyName": "同心县"
+},
+{
+"countyId": "0381",
+"countyName": "青铜峡市"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "固原市",
+"county": [
+{
+"countyId": "0401",
+"countyName": "市辖区"
+},
+{
+"countyId": "0402",
+"countyName": "原州区"
+},
+{
+"countyId": "0422",
+"countyName": "西吉县"
+},
+{
+"countyId": "0423",
+"countyName": "隆德县"
+},
+{
+"countyId": "0424",
+"countyName": "泾源县"
+},
+{
+"countyId": "0425",
+"countyName": "彭阳县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "中卫市",
+"county": [
+{
+"countyId": "0501",
+"countyName": "市辖区"
+},
+{
+"countyId": "0502",
+"countyName": "沙坡头区"
+},
+{
+"countyId": "0521",
+"countyName": "中宁县"
+},
+{
+"countyId": "0522",
+"countyName": "海原县"
+}
+]
+}
+]
+},
+{
+"provinceId": "65",
+"provinceName": "新疆维吾尔自治区",
+"district": [
+{
+"districtId": "0100",
+"districtName": "乌鲁木齐市",
+"county": [
+{
+"countyId": "0101",
+"countyName": "市辖区"
+},
+{
+"countyId": "0102",
+"countyName": "天山区"
+},
+{
+"countyId": "0103",
+"countyName": "沙依巴克区"
+},
+{
+"countyId": "0104",
+"countyName": "新市区"
+},
+{
+"countyId": "0105",
+"countyName": "水磨沟区"
+},
+{
+"countyId": "0106",
+"countyName": "头屯河区"
+},
+{
+"countyId": "0107",
+"countyName": "达坂城区"
+},
+{
+"countyId": "0109",
+"countyName": "米东区"
+},
+{
+"countyId": "0121",
+"countyName": "乌鲁木齐县"
+}
+]
+},
+{
+"districtId": "0200",
+"districtName": "克拉玛依市",
+"county": [
+{
+"countyId": "0201",
+"countyName": "市辖区"
+},
+{
+"countyId": "0202",
+"countyName": "独山子区"
+},
+{
+"countyId": "0203",
+"countyName": "克拉玛依区"
+},
+{
+"countyId": "0204",
+"countyName": "白碱滩区"
+},
+{
+"countyId": "0205",
+"countyName": "乌尔禾区"
+}
+]
+},
+{
+"districtId": "0400",
+"districtName": "吐鲁番市",
+"county": [
+{
+"countyId": "0402",
+"countyName": "高昌区"
+},
+{
+"countyId": "0421",
+"countyName": "鄯善县"
+},
+{
+"countyId": "0422",
+"countyName": "托克逊县"
+}
+]
+},
+{
+"districtId": "0500",
+"districtName": "哈密市",
+"county": [
+{
+"countyId": "0502",
+"countyName": "伊州区"
+},
+{
+"countyId": "0521",
+"countyName": "巴里坤哈萨克自治县"
+},
+{
+"countyId": "0522",
+"countyName": "伊吾县"
+}
+]
+},
+{
+"districtId": "2300",
+"districtName": "昌吉回族自治州",
+"county": [
+{
+"countyId": "2301",
+"countyName": "昌吉市"
+},
+{
+"countyId": "2302",
+"countyName": "阜康市"
+},
+{
+"countyId": "2323",
+"countyName": "呼图壁县"
+},
+{
+"countyId": "2324",
+"countyName": "玛纳斯县"
+},
+{
+"countyId": "2325",
+"countyName": "奇台县"
+},
+{
+"countyId": "2327",
+"countyName": "吉木萨尔县"
+},
+{
+"countyId": "2328",
+"countyName": "木垒哈萨克自治县"
+}
+]
+},
+{
+"districtId": "2700",
+"districtName": "博尔塔拉蒙古自治州",
+"county": [
+{
+"countyId": "2701",
+"countyName": "博乐市"
+},
+{
+"countyId": "2702",
+"countyName": "阿拉山口市"
+},
+{
+"countyId": "2722",
+"countyName": "精河县"
+},
+{
+"countyId": "2723",
+"countyName": "温泉县"
+}
+]
+},
+{
+"districtId": "2800",
+"districtName": "巴音郭楞蒙古自治州",
+"county": [
+{
+"countyId": "2801",
+"countyName": "库尔勒市"
+},
+{
+"countyId": "2822",
+"countyName": "轮台县"
+},
+{
+"countyId": "2823",
+"countyName": "尉犁县"
+},
+{
+"countyId": "2824",
+"countyName": "若羌县"
+},
+{
+"countyId": "2825",
+"countyName": "且末县"
+},
+{
+"countyId": "2826",
+"countyName": "焉耆回族自治县"
+},
+{
+"countyId": "2827",
+"countyName": "和静县"
+},
+{
+"countyId": "2828",
+"countyName": "和硕县"
+},
+{
+"countyId": "2829",
+"countyName": "博湖县"
+}
+]
+},
+{
+"districtId": "2900",
+"districtName": "阿克苏地区",
+"county": [
+{
+"countyId": "2901",
+"countyName": "阿克苏市"
+},
+{
+"countyId": "2922",
+"countyName": "温宿县"
+},
+{
+"countyId": "2923",
+"countyName": "库车县"
+},
+{
+"countyId": "2924",
+"countyName": "沙雅县"
+},
+{
+"countyId": "2925",
+"countyName": "新和县"
+},
+{
+"countyId": "2926",
+"countyName": "拜城县"
+},
+{
+"countyId": "2927",
+"countyName": "乌什县"
+},
+{
+"countyId": "2928",
+"countyName": "阿瓦提县"
+},
+{
+"countyId": "2929",
+"countyName": "柯坪县"
+}
+]
+},
+{
+"districtId": "3000",
+"districtName": "克孜勒苏柯尔克孜自治州",
+"county": [
+{
+"countyId": "3001",
+"countyName": "阿图什市"
+},
+{
+"countyId": "3022",
+"countyName": "阿克陶县"
+},
+{
+"countyId": "3023",
+"countyName": "阿合奇县"
+},
+{
+"countyId": "3024",
+"countyName": "乌恰县"
+}
+]
+},
+{
+"districtId": "3100",
+"districtName": "喀什地区",
+"county": [
+{
+"countyId": "3101",
+"countyName": "喀什市"
+},
+{
+"countyId": "3121",
+"countyName": "疏附县"
+},
+{
+"countyId": "3122",
+"countyName": "疏勒县"
+},
+{
+"countyId": "3123",
+"countyName": "英吉沙县"
+},
+{
+"countyId": "3124",
+"countyName": "泽普县"
+},
+{
+"countyId": "3125",
+"countyName": "莎车县"
+},
+{
+"countyId": "3126",
+"countyName": "叶城县"
+},
+{
+"countyId": "3127",
+"countyName": "麦盖提县"
+},
+{
+"countyId": "3128",
+"countyName": "岳普湖县"
+},
+{
+"countyId": "3129",
+"countyName": "伽师县"
+},
+{
+"countyId": "3130",
+"countyName": "巴楚县"
+},
+{
+"countyId": "3131",
+"countyName": "塔什库尔干塔吉克自治县"
+}
+]
+},
+{
+"districtId": "3200",
+"districtName": "和田地区",
+"county": [
+{
+"countyId": "3201",
+"countyName": "和田市"
+},
+{
+"countyId": "3221",
+"countyName": "和田县"
+},
+{
+"countyId": "3222",
+"countyName": "墨玉县"
+},
+{
+"countyId": "3223",
+"countyName": "皮山县"
+},
+{
+"countyId": "3224",
+"countyName": "洛浦县"
+},
+{
+"countyId": "3225",
+"countyName": "策勒县"
+},
+{
+"countyId": "3226",
+"countyName": "于田县"
+},
+{
+"countyId": "3227",
+"countyName": "民丰县"
+}
+]
+},
+{
+"districtId": "4000",
+"districtName": "伊犁哈萨克自治州",
+"county": [
+{
+"countyId": "4002",
+"countyName": "伊宁市"
+},
+{
+"countyId": "4003",
+"countyName": "奎屯市"
+},
+{
+"countyId": "4004",
+"countyName": "霍尔果斯市"
+},
+{
+"countyId": "4021",
+"countyName": "伊宁县"
+},
+{
+"countyId": "4022",
+"countyName": "察布查尔锡伯自治县"
+},
+{
+"countyId": "4023",
+"countyName": "霍城县"
+},
+{
+"countyId": "4024",
+"countyName": "巩留县"
+},
+{
+"countyId": "4025",
+"countyName": "新源县"
+},
+{
+"countyId": "4026",
+"countyName": "昭苏县"
+},
+{
+"countyId": "4027",
+"countyName": "特克斯县"
+},
+{
+"countyId": "4028",
+"countyName": "尼勒克县"
+}
+]
+},
+{
+"districtId": "4200",
+"districtName": "塔城地区",
+"county": [
+{
+"countyId": "4201",
+"countyName": "塔城市"
+},
+{
+"countyId": "4202",
+"countyName": "乌苏市"
+},
+{
+"countyId": "4221",
+"countyName": "额敏县"
+},
+{
+"countyId": "4223",
+"countyName": "沙湾县"
+},
+{
+"countyId": "4224",
+"countyName": "托里县"
+},
+{
+"countyId": "4225",
+"countyName": "裕民县"
+},
+{
+"countyId": "4226",
+"countyName": "和布克赛尔蒙古自治县"
+}
+]
+},
+{
+"districtId": "4300",
+"districtName": "阿勒泰地区",
+"county": [
+{
+"countyId": "4301",
+"countyName": "阿勒泰市"
+},
+{
+"countyId": "4321",
+"countyName": "布尔津县"
+},
+{
+"countyId": "4322",
+"countyName": "富蕴县"
+},
+{
+"countyId": "4323",
+"countyName": "福海县"
+},
+{
+"countyId": "4324",
+"countyName": "哈巴河县"
+},
+{
+"countyId": "4325",
+"countyName": "青河县"
+},
+{
+"countyId": "4326",
+"countyName": "吉木乃县"
+}
+]
+},
+{
+"districtId": "9000",
+"districtName": "自治区直辖县级行政区划",
+"county": [
+{
+"countyId": "9001",
+"countyName": "石河子市"
+},
+{
+"countyId": "9002",
+"countyName": "阿拉尔市"
+},
+{
+"countyId": "9003",
+"countyName": "图木舒克市"
+},
+{
+"countyId": "9004",
+"countyName": "五家渠市"
+},
+{
+"countyId": "9006",
+"countyName": "铁门关市"
+}
+]
+}
+]
+},
+{
+    "provinceId": "66",
+    "provinceName": "香港",
+    "district": [{
+      "districtId": "0100",
+      "districtName": "香港",
+      "county": [{
+        "countyId": "0101",
+        "countyName": "东区"
+      },
+        {
+          "countyId": "0102",
+          "countyName": "观塘区"
+        },
+        {
+          "countyId": "0105",
+          "countyName": "九龙塘区"
+        },
+        {
+          "countyId": "0106",
+          "countyName": "葵青区"
+        },
+        {
+          "countyId": "0107",
+          "countyName": "深水埗区 "
+        },
+        {
+          "countyId": "0108",
+          "countyName": "大埔区"
+        },
+        {
+          "countyId": "0109",
+          "countyName": "油尖旺区"
+        },
+        {
+          "countyId": "0111",
+          "countyName": "南区"
+        },
+        {
+          "countyId": "0112",
+          "countyName": "中西区"
+        },
+        {
+          "countyId": "0113",
+          "countyName": "沙田区"
+        },
+        {
+          "countyId": "0114",
+          "countyName": "黄大仙区"
+        },
+        {
+          "countyId": "0115",
+          "countyName": "屯门区"
+        },
+        {
+          "countyId": "0116",
+          "countyName": "元朗区"
+        },
+        {
+          "countyId": "0117",
+          "countyName": "西贡区"
+        },
+        {
+          "countyId": "0118",
+          "countyName": "湾仔区"
+        },
+        {
+          "countyId": "0119",
+          "countyName": "北区"
+        },
+        {
+          "countyId": "0119",
+          "countyName": "荃湾区"
+        },
+        {
+          "countyId": "0119",
+          "countyName": "离岛区"
+        }
+      ]
+    }]
+  },
+{
+    "provinceId": "67",
+    "provinceName": "澳门",
+    "district": [{
+      "districtId": "0100",
+      "districtName": "澳门",
+      "county": [{
+        "countyId": "0101",
+        "countyName": "花地玛堂区"
+      },
+        {
+          "countyId": "0102",
+          "countyName": "圣安多尼堂区"
+        },
+        {
+          "countyId": "0105",
+          "countyName": "大堂区"
+        },
+        {
+          "countyId": "0106",
+          "countyName": "望德堂区"
+        },
+        {
+          "countyId": "0107",
+          "countyName": "嘉模堂区 "
+        },
+        {
+          "countyId": "0108",
+          "countyName": "圣方济各堂区"
+        }
+      ]
+    }]
+  }
+]
+}

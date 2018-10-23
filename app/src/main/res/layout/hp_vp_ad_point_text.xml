@@ -1,0 +1,61 @@
+<FrameLayout android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_marginBottom="@dimen/dp_5"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/hp_ad_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_36"
+        android:layout_gravity="bottom"
+        android:alpha="0.6"
+        android:background="@color/black">
+
+        <TextView
+            android:id="@+id/hp_vp_ad_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="@dimen/dp_14" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/hp_vp_ad_index"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:orientation="horizontal"
+        android:layout_marginBottom="@dimen/dp_5">
+
+        <!--            <ImageView
+                        android:id="@+id/hp_ad_first"
+                        android:layout_width="@dimen/dp_18"
+                        android:layout_height="@dimen/dp_1_5"/>
+
+                    <ImageView
+                        android:id="@+id/hp_ad_second"
+                        android:layout_width="@dimen/dp_18"
+                        android:layout_height="@dimen/dp_1_5"
+                        android:layout_marginLeft="@dimen/dp_3"/>
+
+                    <ImageView
+                        android:id="@+id/hp_ad_third"
+                        android:layout_width="@dimen/dp_18"
+                        android:layout_height="@dimen/dp_1_5"
+                        android:layout_marginLeft="@dimen/dp_3" />
+
+                    <ImageView
+                        android:id="@+id/hp_ad_fourth"
+                        android:layout_width="@dimen/dp_18"
+                        android:layout_height="@dimen/dp_1_5"
+                        android:layout_marginLeft="@dimen/dp_3"/>-->
+    </LinearLayout>
+</FrameLayout>

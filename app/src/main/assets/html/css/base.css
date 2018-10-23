@@ -1,0 +1,79 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}
+article,aside,details,figcaption,figure,footer,header,menu,nav,section{display:block}
+fieldset,img{border:0}
+table{border-collapse:collapse;border-spacing:0}
+li{list-style:none}
+a,a:hover{text-decoration:none;color: #333;}
+html,body{ height: 100%; background-color: transparent;}
+body{line-height:1.5; font-family:"hiragino sans gb",Arial;color:#333;-webkit-tap-highlight-color:rgba(0,0,0,0);}
+.wrap{position:relative;color:#fff; height: 100%; overflow: hidden;}
+.hide {display: none;}
+
+.clear, .clearfix:after { clear: both; }
+.clear, .clearfix:before, .clearfix:after { display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
+.clearfix:before, .clearfix:after { content: ''; }
+.clearfix { *zoom: 1; }
+
+html,body  { font-size: 16px; color: #333; }
+.center { text-align: center; }
+.red { color: #f00; }
+.btn { cursor: pointer; }
+.wbg { background-color: #fff !important; }
+.hide { display: none; }
+
+.nowrap { white-space: nowrap; overflow: hidden;  text-overflow: ellipsis;}
+.noscroll { width: 100%; height: 100%; overflow: hidden; }
+
+.no_select {
+    -webkit-touch-callout:none;
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+/*去除 下载按钮*/
+/*video::-webkit-media-controls-enclosure {*/
+    /*overflow:hidden;*/
+/*}*/
+video::-webkit-media-controls-panel {
+    /*width: calc(100% + 30px);*/
+    background-color: rgba(0,0,0,0.8);
+}
+video::-webkit-media-controls-fullscreen-button {
+    display: none;
+}
+video::-internal-media-controls-download-button {
+    display:none;
+}
+
+
+
+/*anim*/
+.anim {
+    -webkit-transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    -moz-transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    -o-transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.anim_h {
+    -webkit-transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    -moz-transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    -o-transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.anim_3s {
+    -webkit-transition: all 3s linear;
+    -moz-transition: all 3s linear;
+    -o-transition: all 3s linear ;
+    transition: all 3s linear;
+}
+
+/*文字 不换行*/
+.nowrap { word-break:keep-all; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.container_row { padding: 17px 17px 0; }
+
+/*-------------------------------------新闻-----------------------------------*/
+.main_box { max-width: 1334px; margin: 0 auto; position: relative; }

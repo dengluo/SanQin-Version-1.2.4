@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#F7F7F7"
+    android:layout_width="@dimen/dp_129"
+    android:layout_height="@dimen/dp_67">
+    <TextView
+        android:id="@+id/ad_interest"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:textSize="@dimen/sp_12"
+        android:textColor="#E7E7E7"
+        android:text="感兴趣推荐"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="#DDDDDD"
+        ></View>
+    <TextView
+        android:id="@+id/ad_not_interest"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textSize="@dimen/sp_16"
+        android:textColor="#80BFFA"
+        android:text="我不感兴趣"/>
+</LinearLayout>

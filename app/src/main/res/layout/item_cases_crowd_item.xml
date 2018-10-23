@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"
+        android:layout_marginTop="@dimen/dp_5"/>
+
+    <LinearLayout
+        android:id="@+id/item_cases_xiala_lin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_60"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/dp_10">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dp_58">
+            <com.netease.nim.uikit.common.ui.imageview.HeadImageView
+                android:id="@+id/cases_crowd_team_img"
+                android:layout_width="@dimen/dp_43"
+                android:layout_height="@dimen/dp_43"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:layout_marginRight="@dimen/dp_10"
+                android:src="@drawable/nim_avatar_group"/>
+            <TextView
+                android:id="@+id/item_cases_crowd_message_count"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dp_16"
+                android:background="@drawable/shape_app_weidu_message_you"
+                android:paddingLeft="@dimen/dp_5"
+                android:paddingRight="@dimen/dp_5"
+                android:gravity="center"
+                android:text="20"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="@dimen/dp_40"
+                android:visibility="visible"
+                android:textSize="@dimen/sp_12"
+                />
+
+            <View
+                android:id="@+id/item_cases_crowd_message_default"
+                android:layout_width="@dimen/dp_9"
+                android:layout_height="@dimen/dp_9"
+                android:background="@drawable/shape_app_weidu_message_default"
+                android:layout_marginLeft="@dimen/dp_40"
+                android:layout_marginTop="@dimen/dp_7"
+                android:visibility="gone"
+                />
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/item_cases_crowd_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击下拉"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/team_name_member_count"
+            android:textSize="@dimen/sp_16"/>
+
+        <TextView
+            android:id="@+id/item_cases_crowd_count"
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:text="(10)"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:textColor="@color/team_name_member_count"
+            android:textSize="@dimen/sp_16"/>
+
+        <Button
+            android:id="@+id/add_team_bt"
+            android:layout_width="@dimen/dp_50"
+            android:layout_height="@dimen/dp_28"
+            android:background="@drawable/shape_app_comfirm_normal"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/dp_20"
+            android:textColor="@color/white"
+            android:text="添加"
+            android:textSize="@dimen/sp_11"
+            android:visibility="gone"
+            />
+
+        <TextView
+            android:id="@+id/added_team_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="已添加"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/dp_20"
+            android:visibility="visible"
+            android:background="@color/white"
+            android:textColor="#999999"/>
+
+    </LinearLayout>
+
+</LinearLayout>

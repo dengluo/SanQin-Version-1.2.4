@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/main_bg_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_60"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="验证码已发送至 "/>
+        <TextView
+            android:id="@+id/me_binding_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+86 18545434995"
+            android:textColor="@color/main_assist_text_color"
+            android:textSize="@dimen/sp_18"/>
+    </LinearLayout>
+
+    <com.pbids.sanqin.ui.view.pay.PayPsdInputView
+        android:id="@+id/me_binding_verifycode"
+        android:layout_width="@dimen/dp_220"
+        android:layout_height="@dimen/dp_60"
+        android:layout_below="@+id/layout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_marginBottom="@dimen/dp_20"
+        android:layout_gravity="center_horizontal"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="number"
+        app:divideLineColor="@color/main_line_color"
+        app:bottomLineColor="@color/main_line_color"
+        app:divideLineWidth="@dimen/dp_1"
+        app:rectAngle="@dimen/dp_5"
+        app:psdType="verifiyText"
+        app:maxCount="4"/>
+    <!--app:psdType="verification"verifiyText-->
+
+    <TextView
+        android:id="@+id/me_binding_verifycode_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/me_binding_verifycode"
+        android:text="56秒后重新发送"
+        android:textColor="@color/main_hit_text_color"/>
+
+    <com.pbids.sanqin.ui.view.pay.XNumberKeyboardView
+        android:id="@+id/pay_password_keyboardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:background="@color/main_line_color"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:keyBackground="@drawable/selector_key_background"
+        android:keyTextColor="@color/main_title_text_color"
+        android:shadowColor="@color/transparent"
+        android:shadowRadius="0"
+        app:xnkv_deleteBackgroundColor="#E3E7EE"
+        app:xnkv_deleteDrawable="@mipmap/keyboard_backspace"
+        app:xnkv_deleteWidth="22dp" />
+
+</RelativeLayout>

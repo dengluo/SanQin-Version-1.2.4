@@ -1,0 +1,152 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/main_bg_color"
+    tools:context="com.pbids.sanqin.ui.activity.zongquan.ZongQuanFragment">
+
+    <FrameLayout
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <android.support.v4.widget.NestedScrollView
+                android:id="@+id/zongquan_sv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <WebView
+                        android:id="@+id/wv_sanqin_tree"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dp_16"
+                        android:layout_marginLeft="@dimen/dp_27"
+                        android:layout_marginRight="@dimen/dp_27"
+                        android:background="@color/transparent"
+                        tools:ignore="WebViewLayout" />
+
+
+                    <LinearLayout
+                        android:id="@+id/rl1"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/zq_number_page_"
+                            android:layout_width="@dimen/dp_300"
+                            android:layout_height="@dimen/dp_210"
+                            android:visibility="gone"
+                            android:layout_marginTop="@dimen/dp_10"
+                            android:layout_gravity="center_horizontal"
+                           />
+                        <!-- android:src="@drawable/page_"-->
+
+                        <TextView
+                            android:id="@+id/tv_group_label"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/dp_30"
+                            android:layout_marginTop="@dimen/dp_10"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="@dimen/dp_15"
+                            android:text="组名称"
+                            android:textSize="@dimen/sp_15"
+                            android:visibility="gone"
+                            android:textColor="@color/main_assist_text_color"/>
+
+                        <EditText
+                            android:id="@+id/et_group_name"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/dp_40"
+                            android:background="@color/white"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="@dimen/dp_15"
+                            android:text="三亲"
+                            android:hint="请输入组名"
+                            android:textSize="@dimen/sp_15"
+                            android:visibility="gone"
+                            android:textColor="@color/main_title_text_color"/>
+
+                        <TextView
+                            android:id="@+id/zongquan_group_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/dp_40"
+                            android:layout_marginTop="@dimen/dp_10"
+                            android:background="@drawable/btn_item_selecter"
+                            android:gravity="center"
+                            android:text="+添加成员"
+                            android:layout_below="@+id/zongquan_group_list"
+                            android:textColor="@color/main_title_text_color"
+                            android:layout_marginBottom="@dimen/dp_8"
+                            android:textSize="@dimen/sp_18" />
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/zongquan_friends_list"
+                            android:focusableInTouchMode="false"
+                            android:focusable="false"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                        </android.support.v7.widget.RecyclerView>
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </android.support.v4.widget.NestedScrollView>
+
+            <ImageView
+                android:id="@+id/img_hit_letter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/nim_contact_hit_letter_bg"
+                android:contentDescription="@string/empty"
+                android:padding="40dip"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/tv_hit_letter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="@string/empty"
+                android:textColor="@color/white"
+                android:textSize="40.0dip"
+                android:visibility="invisible"/>
+
+            <com.netease.nim.uikit.common.ui.liv.LetterIndexView
+                android:id="@+id/liv_index"
+                android:layout_width="15dip"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:background="#00000000"/>
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

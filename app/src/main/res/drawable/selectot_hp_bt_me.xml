@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@drawable/nav_icon_wode_selected"></item>
+    <item android:state_pressed="true" android:drawable="@drawable/nav_icon_wode_selected"></item>
+    <item android:state_selected="true" android:drawable="@drawable/nav_icon_wode_selected"></item>
+    <item android:drawable="@drawable/nav_icon_wode_defalt"></item>
+</selector>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gift_bg_huang">#FFFBB6</color>
+    <color name="gift_bg_blue">#F2E9B2</color>
+    <color name="gift_bg_red">#F2E9B2</color>
+    <color name="gift_text_blue">#418FD6</color>
+    <color name="gift_text_huang">#FF9D11</color>
+    <color name="gift_text_red">#FF6747</color>
+
+    <color name="white">#ffffff</color>
+    <color name="gray">#D7D7D7</color>
+    <color name="black">#000000</color>
+    <color name="nothink">#00000000</color>
+    <color name="home_status_bar_color">#E7E7E7</color>
+    <color name="index_color">#666666</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="title_family_book">#756868</color>
+
+    //main_color
+    <color name="main_color">#462828</color>
+    //按钮按下的颜色
+    <color name="main_remind_color">#BC300F</color>
+    //按钮未按下的颜色
+    <color name="main_remind_color_aother">#A62A0E</color>
+    //主要布局的背景色
+    <color name="main_bg_color">#F7F7F7</color>
+    //白色
+    <color name="main_white_color">#FFFFFF</color>
+    //主要布局的线条颜色
+    <color name="main_line_color">#D9D9D9</color>
+    //标题栏颜色
+    <color name="main_status_color">#F3F3F3</color>
+    //main_text_color
+    //链接字体的颜色
+    <color name="main_link_text_color">#4675BF</color>
+    //主要布局的黑色
+    <color name="main_title_text_color">#333333</color>
+    //标签的颜色
+    <color name="main_index_text_color">#666666</color>
+    //主要布局的辅助色
+    <color name="main_assist_text_color">#999999</color>
+    <color name="main_hit_text_color">#D7D7D7</color>
+    <color name="main_hit_text_color_aother">#c9c9c9</color>
+    <color name="main_link_pop_color">#C3C3C3</color>
+
+    <color name="hint_text_color">#999999</color>
+    <color name="line_color">#999999</color>
+    <color name="authentication_success_text">#B8321B</color>
+
+    //zxing颜色
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+
+    //pager
+    <color name="reader_menu_bg_color">#191919</color>
+    <color name="read_theme_white">#ffffff</color>
+    <color name="read_theme_green">#bed0cf</color>
+    <color name="read_theme_yellow">#e6dbbf</color>
+    <color name="read_theme_gray">#AAAAAA</color>
+    <color name="read_theme_night">#000000</color>
+    //loading
+    <color name="me_loading">#B0000000</color>
+
+    //login
+    <color name="login_qq_bt_text">#4D8DCD</color>
+    <color name="login_weixin_bt_text">#30C104</color>
+
+    //calendar
+    <color name="calendar_bg_color">#FFFFFF</color>
+    <color name="holiday_text_color">#9082BD</color>
+    <color name="select_circle_color">#FF8594</color>
+    <color name="colorBackground">#F0F1F5</color>
+    <color name="colorBackground1">#F3F3F3</color>
+    //money
+    <color name="money_tixian">#37D66B</color>
+
+    //银行
+    <color name="bank_nongye">#1E8B77</color>
+    <color name="bank_zhaoshang">#C35258</color>
+    <color name="bank_china">#91202F</color>
+    <color name="bank_gongshang">#A24244</color>
+    <color name="bank_jianshe">#224577</color>
+    <color name="bank_jiaotong">#305A84</color>
+    <color name="bank_huaxia">#AA3539</color>
+    <color name="bank_guangda">#6D3E7D</color>
+    <color name="bank_zhongxin">#B15053</color>
+    <color name="bank_xingye">#264B7B</color>
+    <color name="bank_minsheng">#0F968E</color>
+    <color name="bank_shanghaiyinh">#314693</color>
+    <color name="bank_guangdongfazhan">#2B5C93</color>
+    <color name="bank_shanghaipufafazhan">#383978</color>
+    <color name="bank_pinan">#C9652F</color>
+    <color name="bank_beijing">#C7373B</color>
+    <color name="bank_youzheng">#38604C</color>
+    <color name="bank_huaqi">#262B50</color>
+
+    <!--云信-->
+    <color name="color_network_bar_bg_ee4b62">#ee4b62</color>
+    <color name="color_yellow_fcf3cd">#fcf3cd</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_green_disable">#a2efe0</color>
+    <color name="color_green_00d3a9">#ff00D3A9</color>
+    <color name="color_red_ccfa3c55">#ccfa3c55</color>
+    <color name="color_black_b3000000">#b3000000</color>
+    <color name="color_white_66ffffff">#66ffffff</color>
+    <color name="color_grey_eaeaea">#eaeaea</color>
+    <color name="color_blue_3a9efb">#3a9efb</color>
+    <color name="color_green_89fbff">#89fbff</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_grey_888888">#888888</color>
+    <color name="color_grey_666666">#666666</color>
+
+    <!-- main bg color -->
+    <color name="g_child_page_bg_color">#FFFFFF</color>
+
+    <!-- session -->
+    <color name="color_message_default_bg">#e9ecf0</color>
+    <color name="input_panel_text_color_757572">#757572</color>
+    <color name="color_gray_cbd0d8">#cbd0d8</color>
+    <color name="help_color">#ff999999</color>
+
+    <!-- image picker -->
+    <color name="color_split_line_d9d9d9">#d9d9d9</color>
+    <color name="color_split_line_cccccc">#cccccc</color>
+
+    <!-- contact -->
+    <color name="contact_list_hover">#d9d9d9</color>
+    <color name="contact_letter_idx_bg">#33000000</color>
+    <color name="contacts_letters_color">#80807c</color>
+    <color name="bussiness_card_gridview_bg">#ECF1F5</color>
+    <color name="press_mask">#33000000</color>
+    <color name="color_grey_ababab">#ababab</color>
+    <color name="color_yellow_796413">#796413</color>
+    <color name="color_yellow_b39729">#b39729</color>
+    <color name="color_red_f04c62">#a62a0e</color>
+
+    <!-- setting -->
+    <color name="color_black_ff333333">#ff333333</color>
+    <color name="color_black_ff666666">#ff666666</color>
+    <color name="color_black_ff999999">#ff999999</color>
+    <color name="color_gray_bfc2c5">#bfc2c5</color>
+    <color name="black_mask">#00000000</color>
+
+    <color name="color_854200">#854200</color>
+
+    <!--透明dilog-->
+    <color name="dialog_lucency">#55171717</color>
+    <color name="dialog_lucency1">#77000000</color>
+
+    <!--team-->
+    <color name="team_name_member_count">#333333</color>
+</resources>

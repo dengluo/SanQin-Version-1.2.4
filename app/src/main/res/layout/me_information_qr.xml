@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/main_bg_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<FrameLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="@dimen/dp_30"-->
+        <!--android:layout_gravity="center">-->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/dp_30"
+            android:background="@color/white"
+            android:padding="@dimen/dp_15"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="@dimen/dp_20">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <FrameLayout
+                        android:id="@+id/frameLayout"
+                        android:layout_width="@dimen/dp_60"
+                        android:layout_height="@dimen/dp_60">
+                        <!--<ImageView-->
+                        <!--android:id="@+id/me_information_qr_touxiang_vip"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:src="@drawable/information_tab_vip_defalt" />-->
+
+                        <com.pbids.sanqin.ui.view.CircleImageView
+                            android:id="@+id/me_home_autopragh"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:border_color="@color/transparent"
+                            android:background="@drawable/head_images_bg"
+                            app:border_width="@dimen/dp_1" />
+
+                        <TextView
+                            android:id="@+id/me_home_person_firstname"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:ems="1"
+                            android:gravity="center"
+                            android:lineSpacingExtra="@dimen/dp_10"
+                            android:text="巫府"
+                            android:textColor="@color/main_color"
+                            android:textSize="@dimen/sp_14"
+                            android:visibility="invisible" />
+                        <ImageView
+                            android:id="@+id/me_home_zong"
+                            android:layout_width="@dimen/dp_20"
+                            android:layout_height="@dimen/dp_20"
+                            android:layout_gravity="bottom|right"
+                            android:visibility="gone"
+                            android:src="@drawable/kiss_label_zong_default"/>
+                    </FrameLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:orientation="vertical">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <TextView
+                                android:id="@+id/me_information_qr_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/dp_7"
+                                android:text="马马马"
+                                android:textColor="@color/main_title_text_color"
+                                android:textSize="@dimen/sp_15" />
+
+                            <!--<ImageView-->
+                            <!--android:id="@+id/me_information_qr_vip"-->
+                            <!--android:layout_width="@dimen/dp_21"-->
+                            <!--android:layout_height="@dimen/dp_15"-->
+                            <!--android:layout_alignBottom="@+id/me_information_qr_name"-->
+                            <!--android:layout_marginLeft="@dimen/dp_7"-->
+                            <!--android:layout_toEndOf="@+id/me_information_qr_name"-->
+                            <!--android:layout_toRightOf="@+id/me_information_qr_name"-->
+                            <!--android:src="@drawable/kiss_icon_vip_default" />-->
+
+                        </LinearLayout>
+                        <TextView
+                            android:id="@+id/me_information_qr_autograph"
+                            android:layout_width="@dimen/dp_213"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/me_information_qr_vip"
+                            android:layout_marginLeft="@dimen/dp_7"
+                            android:layout_marginTop="@dimen/dp_5"
+                            android:layout_marginBottom="@dimen/dp_5"
+                            android:ellipsize="end"
+                            android:maxLines="2"
+                            android:text="飞流直下三千尺,疑似银河落九天"
+                            android:textColor="@color/main_assist_text_color"
+                            android:textSize="@dimen/sp_14" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/ll3"
+                    android:layout_width="@dimen/dp_60"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/me_information_qr_vip"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="@dimen/dp_3"
+                        android:background="@drawable/shape_qr_vip"
+                        android:paddingLeft="@dimen/dp_3"
+                        android:paddingRight="@dimen/dp_3"
+                        android:text="VIP1"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_10"/>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <FrameLayout
+                android:id="@+id/fl_no_vip"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/me_information_qr_bg"
+                    android:layout_width="@dimen/dp_290"
+                    android:layout_height="@dimen/dp_290"
+                    android:src="@drawable/me_bg_erweima_default" />
+                <ImageView
+                    android:id="@+id/me_information_qr"
+                    android:layout_width="@dimen/dp_148"
+                    android:layout_height="@dimen/dp_148"
+                    android:layout_marginTop="@dimen/dp_1"
+                    android:layout_gravity="center"/>
+            </FrameLayout>
+            <FrameLayout
+                android:id="@+id/fl_vip"
+                android:layout_width="@dimen/dp_290"
+                android:layout_height="@dimen/dp_290">
+                <ImageView
+                    android:id="@+id/me_information_qr_vip_bg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/me_vipbg_erweima_default" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.2"></View>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:id="@+id/me_information_vip_qr"
+                            android:layout_width="@dimen/dp_125"
+                            android:layout_height="@dimen/dp_125"
+                            android:layout_marginTop="@dimen/dp_8"
+                            android:layout_gravity="center_horizontal"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/me_information_qr_bg"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_20"
+                android:text="扫一扫上面的二维码,加我华亲"
+                android:textColor="@color/main_assist_text_color"
+                android:textSize="@dimen/sp_14" />
+        </LinearLayout>
+
+    <!--</FrameLayout>-->
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/me_information_qr"-->
+            <!--android:layout_width="@dimen/dp_142"-->
+            <!--android:layout_height="@dimen/dp_142"-->
+            <!--android:layout_gravity="center"/>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_gravity="center">-->
+            <!--<FrameLayout-->
+                <!--android:id="@+id/frameLayout"-->
+                <!--android:layout_width="@dimen/dp_72"-->
+                <!--android:layout_height="@dimen/dp_72"-->
+                <!--android:layout_above="@+id/me_information_qr_bg"-->
+                <!--android:layout_alignLeft="@+id/me_information_qr_bg"-->
+                <!--android:layout_alignStart="@+id/me_information_qr_bg"-->
+                <!--android:layout_marginBottom="24dp">-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/me_information_qr_touxiang_vip"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:src="@drawable/me_bg_vip_default" />-->
+
+                <!--<com.pbids.sanqin.ui.view_donate_records.CircleImageView-->
+                    <!--android:id="@+id/me_information_qr_touxiang1"-->
+                    <!--android:layout_width="@dimen/dp_50"-->
+                    <!--android:layout_height="@dimen/dp_50"-->
+                    <!--android:layout_gravity="center"-->
+                    <!--app:border_color="@color/main_hit_text_color_aother"-->
+                    <!--app:border_width="@dimen/dp_1" />-->
+            <!--</FrameLayout>-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/me_information_qr_bg"-->
+                <!--android:layout_width="@dimen/dp_280"-->
+                <!--android:layout_height="@dimen/dp_280"-->
+                <!--android:layout_centerInParent="true"-->
+                <!--android:layout_marginLeft="@dimen/dp_15"-->
+                <!--android:layout_marginRight="@dimen/dp_15"-->
+                <!--android:src="@drawable/me_bg_erweima_default" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/me_information_qr_name"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignBottom="@+id/frameLayout"-->
+                <!--android:layout_marginBottom="@dimen/dp_41"-->
+                <!--android:layout_marginLeft="@dimen/dp_7"-->
+                <!--android:layout_toEndOf="@+id/frameLayout"-->
+                <!--android:layout_toRightOf="@+id/frameLayout"-->
+                <!--android:text="马马马"-->
+                <!--android:textColor="@color/main_title_text_color"-->
+                <!--android:textSize="@dimen/sp_15" />-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/me_information_qr_vip"-->
+                <!--android:layout_width="@dimen/dp_21"-->
+                <!--android:layout_height="@dimen/dp_15"-->
+                <!--android:layout_alignBottom="@+id/me_information_qr_name"-->
+                <!--android:layout_marginLeft="@dimen/dp_7"-->
+                <!--android:layout_toEndOf="@+id/me_information_qr_name"-->
+                <!--android:layout_toRightOf="@+id/me_information_qr_name"-->
+                <!--android:src="@drawable/kiss_icon_vip_default" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/me_information_qr_autograph"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/me_information_qr_vip"-->
+                <!--android:layout_marginLeft="@dimen/dp_7"-->
+                <!--android:layout_marginTop="@dimen/dp_10"-->
+                <!--android:layout_toEndOf="@+id/frameLayout"-->
+                <!--android:layout_toRightOf="@+id/frameLayout"-->
+                <!--android:text="飞流直下三千尺,疑似银河落九天"-->
+                <!--android:textColor="@color/main_assist_text_color"-->
+                <!--android:textSize="@dimen/sp_15" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/me_information_qr_bg"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginTop="@dimen/dp_20"-->
+                <!--android:text="扫一扫上面的二维码,加我华亲"-->
+                <!--android:textColor="@color/main_assist_text_color"-->
+                <!--android:textSize="@dimen/sp_14" />-->
+        <!--</RelativeLayout>-->
+    <!--</FrameLayout>-->
+</LinearLayout>

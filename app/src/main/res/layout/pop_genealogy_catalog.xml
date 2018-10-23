@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/bgColor_overlay"></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_140"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv1"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯"  />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv2"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯"  />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv3"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯" />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv4"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯" />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv5"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯"  />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv6"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯" />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tv7"
+            style="@style/genealogy_catalog_pop_item"
+            android:text="家族资讯"  />
+        <View
+            android:layout_width="@dimen/dp_2"
+            android:layout_weight="6"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/bgColor_overlay">
+
+    </View>
+</LinearLayout>

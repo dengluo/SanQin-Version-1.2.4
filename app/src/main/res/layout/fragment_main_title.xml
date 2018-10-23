@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/toolbar_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.pbids.sanqin.ui.view.AppToolBar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"></com.pbids.sanqin.ui.view.AppToolBar>
+    <!--android:background="@color/main_status_color"-->
+    <LinearLayout
+        android:id="@+id/no_data_layout"
+        android:orientation="vertical"
+        android:visibility="visible"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+        <!--android:background="@color/white"-->
+        <ImageView
+            android:id="@+id/no_data_iv"
+            android:visibility="gone"
+            android:layout_width="@dimen/dp_170"
+            android:layout_height="@dimen/dp_120"
+            android:layout_marginTop="@dimen/dp_80"
+            android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/content"
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"></LinearLayout>
+    <!--android:background="@color/white"-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_4"
+        android:layout_below="@+id/toolbar"
+        android:background="@drawable/shadow"/>
+</RelativeLayout>

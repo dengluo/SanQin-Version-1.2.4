@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignWithParentIfMissing="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:background="@color/calendar_bg_color"
+        android:layout_height="30dp">
+        <RelativeLayout
+            android:id="@+id/preTimeLayout"
+            android:layout_width="@dimen/dp_30"
+            android:layout_height="@dimen/dp_30"
+            android:layout_toLeftOf="@+id/tvTime"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_10"
+            >
+            <ImageView
+                android:id="@+id/preTime"
+                android:layout_width="@dimen/dp_10"
+                android:layout_height="@dimen/dp_10"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="@dimen/dp_10"
+                />
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tvTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="2018年4月"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@color/main_title_text_color"/>
+        <RelativeLayout
+            android:id="@+id/nextTimeLayout"
+            android:layout_width="@dimen/dp_30"
+            android:layout_height="@dimen/dp_30"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/tvTime"
+            android:layout_marginLeft="@dimen/dp_10">
+
+            <ImageView
+                android:id="@+id/nextTime"
+                android:layout_width="@dimen/dp_10"
+                android:layout_height="@dimen/dp_10"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/dp_10"
+                />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <com.pbids.sanqin.ui.view.calendar.WeekBarView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_bar_height"
+        android:background="@color/calendar_bg_color"
+        />
+    <!--app:week_text_size="@integer/calendar_text_size"-->
+
+    <!--<com.pbids.sanqin.ui.view_donate_records.calendar.schedule.ScheduleLayout-->
+        <!--android:id="@+id/slSchedule"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginBottom="@dimen/dp_40"-->
+        <!--app:auto_change_month_row="true"-->
+        <!--app:default_view="week">-->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:id="@+id/rlScheduleList"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="48dp"
+                android:background="@color/colorBackground">
+
+                <!--<com.pbids.sanqin.ui.view_donate_records.calendar.schedule.ScheduleRecyclerView-->
+                    <!--android:id="@+id/rvScheduleList"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:layout_alignParentLeft="true"-->
+                    <!--android:layout_alignParentStart="true"-->
+                    <!--android:layout_alignParentTop="true"-->
+                    <!--android:orientation="vertical"-->
+                    <!--android:overScrollMode="never"/>-->
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/rvScheduleList"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:orientation="vertical"
+                    android:overScrollMode="never">
+
+                </android.support.v7.widget.RecyclerView>
+
+                <!--<RelativeLayout-->
+                    <!--android:id="@+id/rlNoTask"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:background="@color/colorBackground"-->
+                    <!--android:layout_alignParentTop="true"-->
+                    <!--android:layout_alignParentLeft="true"-->
+                    <!--android:layout_alignParentStart="true">-->
+
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_centerHorizontal="true"-->
+                        <!--android:layout_marginTop="50dp"-->
+                        <!--android:src="@mipmap/bg_no_task"/>-->
+
+                <!--</RelativeLayout>-->
+
+            </RelativeLayout>
+            <!--323dp-->
+            <!--83dp-->
+            <com.pbids.sanqin.ui.view.calendar.schedule.CalendarLayout
+                android:id="@+id/rlCalendarLayout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/calendar_height_"
+                android:background="@color/transparent"
+                app:default_view="week">
+
+                <RelativeLayout
+                    android:id="@+id/rlMonthCalendar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.pbids.sanqin.ui.view.calendar.month.MonthCalendarView
+                        android:id="@+id/mcvCalendar"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/month_calendar_height"
+                        android:background="@color/calendar_bg_color"
+                        android:overScrollMode="never"
+                        app:month_count="3"
+                        app:month_holiday_color="@color/holiday_text_color"
+                        app:month_selected_circle_color="@color/main_remind_color_aother"
+                        app:month_show_holiday_hint="false"
+                        app:month_show_lunar="false"
+                        app:month_show_task_hint="true"/>
+                </RelativeLayout><!--app:month_day_text_size="@integer/calendar_text_size"-->
+
+                <com.pbids.sanqin.ui.view.calendar.week.WeekCalendarView
+                    android:id="@+id/wcvCalendar"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/week_calendar_height"
+                    android:visibility="invisible"
+                    android:background="@color/calendar_bg_color"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="35dp"
+                    android:overScrollMode="never"
+
+                    app:week_holiday_color="@color/holiday_text_color"
+                    app:week_selected_circle_color="@color/main_remind_color_aother"
+                    app:week_show_holiday_hint="false"
+                    app:week_show_lunar="false"
+                    app:week_show_task_hint="true"/><!--app:week_day_text_size="@dimen/sp_16"-->
+                <!--app:week_day_text_size="@integer/calendar_text_size-->
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_4"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="@dimen/dp_31"
+                    android:background="@drawable/shadow"
+                    ></View>
+                <View
+                    android:id="@+id/rvScheduleList_bt"
+                    android:layout_width="@dimen/week_bar_height_"
+                    android:layout_height="@dimen/week_bar_height_"
+                    android:layout_gravity="bottom|right"
+                    android:layout_marginRight="@dimen/dp_40"
+                    android:background="@drawable/me_btn_jiantou_default"></View>
+            </com.pbids.sanqin.ui.view.calendar.schedule.CalendarLayout>
+        </FrameLayout>
+
+    <!--</com.pbids.sanqin.ui.view_donate_records.calendar.schedule.ScheduleLayout>-->
+
+</LinearLayout>

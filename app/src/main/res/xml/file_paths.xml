@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path  name="sanqin_images" path="sanqin/images" />
+        <external-path  name="sanqin_down" path="sanqin/crash/download" />
+        <external-path  name="sanqin_error" path="sanqin/crash/error" />
+        <external-path path="." name="external_storage_root" />
+        <external-path path="Android/data/com.pbids.sanqin/" name="files_root" />
+        <external-path path="Android/data/com.pbids.sanqin/download" name="files_download" />
+    </paths>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@drawable/shape_zc_donate_bg"
+    android:padding="@dimen/dp_3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.pbids.sanqin.ui.view.CircleImageView
+        android:id="@+id/zc_view_touxiang"
+        android:layout_width="@dimen/dp_24"
+        android:layout_height="@dimen/dp_24"
+        app:border_width="0dp"
+        app:border_color="@color/transparent"
+        android:layout_gravity="center_vertical"/>
+    <TextView
+        android:id="@+id/zc_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_5"
+        android:layout_gravity="center_vertical"
+        android:text="卢美仁"
+        android:textSize="@dimen/sp_12"
+        android:textColor="@color/main_title_text_color"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_5"
+        android:layout_gravity="center_vertical"
+        android:text="刚刚贡献"
+        android:textSize="@dimen/sp_12"
+        android:textColor="@color/main_title_text_color"/>
+    <TextView
+        android:id="@+id/zc_bricknumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="3"
+        android:textSize="@dimen/sp_12"
+        android:textColor="@color/main_title_text_color"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="块砖"
+        android:textColor="@color/main_title_text_color"
+        android:textSize="@dimen/sp_12" />
+</LinearLayout>

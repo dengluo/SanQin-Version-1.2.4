@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/pop_layout" >
+
+    <LinearLayout
+        android:id="@+id/ly_content"
+        android:layout_width="@dimen/dp_160"
+        android:layout_height="@dimen/dp_118"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/tabchuang"
+        android:layout_marginTop="@dimen/dp_40"
+        android:layout_marginRight="@dimen/dp_6"
+        android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="@dimen/dp_2"
+                android:paddingBottom="@dimen/dp_6"
+                android:paddingLeft="@dimen/dp_6"
+                android:paddingRight="@dimen/dp_6"
+                android:orientation="vertical">
+                <Button
+                    android:id="@+id/btn_add_friend"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_36"
+                    android:background="@color/white"
+                    android:text="添加好友"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_0_1"
+                    android:background="@color/main_status_color">
+                </View>
+                <Button
+                    android:id="@+id/btn_add_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_36"
+                    android:background="@color/white"
+                    android:visibility="gone"
+                    android:text="创建讨论组"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_0_1"
+                    android:background="@color/main_status_color">
+                </View>
+                <Button
+                    android:id="@+id/btn_add_basegroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_36"
+                    android:background="@color/white"
+                    android:visibility="gone"
+                    android:text="创建高级群"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_0_1"
+                    android:background="@color/main_status_color">
+                </View>
+                <Button
+                    android:id="@+id/btn_search_basegroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:text="搜索高级群"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_0_1"
+                    android:visibility="visible"
+                    android:background="@color/main_status_color">
+                </View>
+                <Button
+                    android:id="@+id/btn_im_setting"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_36"
+                    android:background="@color/white"
+                    android:text="设置"/>
+            </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

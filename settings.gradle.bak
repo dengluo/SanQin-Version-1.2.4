@@ -1,0 +1,4 @@
+include ':app'
+include ':fragmentation'
+include ':fragmentation_swipeback'
+include ':eventbus_activity_scope'

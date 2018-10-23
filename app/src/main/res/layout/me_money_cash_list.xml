@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_marginBottom="@dimen/dp_40"
+        android:background="@color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/me_money_cash_list_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="256872.20元"
+            android:textStyle="bold"
+            android:textColor="@color/main_title_text_color"
+            android:textSize="@dimen/sp_28"/>
+        <Button
+            android:id="@+id/me_money_cash_list_bt"
+            android:layout_width="@dimen/dp_120"
+            android:layout_height="@dimen/dp_40"
+            android:layout_marginTop="@dimen/dp_20"
+            android:background="@drawable/selector_app_comfirm"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="申请提现"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:text="资金历史记录"
+        android:gravity="center_vertical"
+        android:textColor="@color/main_title_text_color"
+        android:textSize="@dimen/sp_14"
+        android:layout_marginLeft="@dimen/dp_10"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"/>
+
+    <com.andview.refreshview.XRefreshView
+        android:id="@+id/me_money_cash_refresh_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/me_money_cash_rv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v7.widget.RecyclerView>
+    </com.andview.refreshview.XRefreshView>
+</LinearLayout>

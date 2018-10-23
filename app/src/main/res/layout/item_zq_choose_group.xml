@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/item_zq_group_bt"
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_40"
+        android:text="欧"
+        style="?android:attr/borderlessButtonStyle"
+        android:textSize="@dimen/sp_19"
+        android:textColor="@color/selector_selectfirstname_text"
+        android:background="@drawable/selector_selectfirstname_bt"
+        android:stateListAnimator="@null"/>
+</LinearLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_marginLeft="@dimen/dp_20"
+    android:layout_marginRight="@dimen/dp_20"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/dp_10"
+        android:paddingRight="@dimen/dp_10"
+        android:layout_marginTop="@dimen/dp_26"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_6"
+            android:text="姓名"
+            android:visibility="gone"
+            android:textColor="#999999"
+            android:textSize="@dimen/sp_17" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10"
+            android:visibility="gone"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/et_name"
+                style="@style/global_edittext"
+                android:layout_width="@dimen/dp_80"
+                android:paddingLeft="@dimen/dp_6"
+                android:paddingRight="@dimen/dp_6"
+                android:layout_weight="2"
+                android:layout_height="@dimen/dp_40" />
+            <Button
+                android:id="@+id/btn_add_member"
+                android:layout_width="@dimen/dp_80"
+                android:layout_height="@dimen/dp_40"
+                android:textColor="@color/white"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:layout_gravity="center_horizontal"
+                style="@style/global_button"
+                android:text="添加"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_20"
+            android:layout_marginLeft="@dimen/dp_6"
+            android:text="称呼"
+            android:textColor="#999999"
+            android:textSize="@dimen/sp_17" />
+
+    <!--    "@drawable/global_edittext"-->
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_40"
+            android:layout_marginTop="@dimen/dp_10"
+            android:dropDownVerticalOffset="@dimen/dp_40"
+
+            android:gravity="left|center_horizontal"
+            android:id="@+id/spin_call" />
+
+
+        <EditText
+            android:visibility="gone"
+            android:id="@+id/et_call"
+            style="@style/global_edittext"
+            android:layout_width="match_parent"
+            android:paddingLeft="@dimen/dp_6"
+            android:paddingRight="@dimen/dp_6"
+            android:layout_height="@dimen/dp_40"
+            android:layout_marginTop="@dimen/dp_10"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:layout_marginBottom="@dimen/dp_30"
+        android:layout_marginTop="@dimen/dp_30"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_40"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/two_button_two"
+                android:layout_width="@dimen/dp_100"
+                android:layout_height="match_parent"
+                android:textColor="@color/white"
+                android:layout_gravity="center_horizontal"
+                style="?android:attr/borderlessButtonStyle"
+                android:text="确定"
+                android:textSize="@dimen/sp_18"
+                android:background="@drawable/selector_app_comfirm"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dp_40"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/two_button_one"
+                android:layout_width="@dimen/dp_100"
+                android:layout_height="match_parent"
+                android:textColor="@color/white"
+                android:layout_gravity="center_horizontal"
+                style="?android:attr/borderlessButtonStyle"
+                android:text="取消"
+                android:textSize="@dimen/sp_18"
+                android:background="@drawable/selector_app_cancel"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

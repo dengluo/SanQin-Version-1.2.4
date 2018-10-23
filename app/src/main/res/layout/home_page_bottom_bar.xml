@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/hp_city"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_height="@dimen/dp_60">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/hp_city"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="9">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dp_32"
+                    android:layout_marginRight="@dimen/dp_32"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="@dimen/dp_2"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:id="@+id/hp_vp_rg_r1"
+                            android:layout_width="@dimen/dp_58"
+                            android:layout_height="match_parent">
+
+                            <com.pbids.sanqin.component.BadgeView
+                                android:id="@+id/badge_home"
+                                style="@style/main_tab_badge"
+                                android:visibility="gone"/>
+
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:id="@+id/hp_vp_rg_zhizong"
+                                    android:layout_width="@dimen/dp_30"
+                                    android:layout_height="@dimen/dp_30"
+                                    android:src="@drawable/selector_hp_bt_zhizong"
+                                    android:button="@null" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="首页"
+                                    android:textSize="@dimen/sp_10" />
+                            </LinearLayout>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/hp_vp_rg_r2"
+                            android:layout_width="@dimen/dp_58"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@+id/hp_vp_rg_r1">
+
+                            <com.pbids.sanqin.component.BadgeView
+                                android:id="@+id/badge_contact"
+                                style="@style/main_tab_badge"
+                                android:visibility="gone" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:id="@+id/hp_vp_rg_zongquan"
+                                    android:layout_width="@dimen/dp_30"
+                                    android:layout_height="@dimen/dp_30"
+                                    android:src="@drawable/selector_hp_bt_zongquan"
+                                    android:button="@null" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="center"
+                                    android:text="联系人"
+                                    android:textSize="@dimen/sp_10" />
+                            </LinearLayout>
+                        </RelativeLayout>
+                        <!--<RadioButton-->
+                        <!--android:id="@+id/hp_vp_rg_zongquan"-->
+                        <!--android:layout_width="@dimen/dp_70"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:layout_toRightOf="@+id/hp_vp_rg_r1"-->
+                        <!--android:text="宗圈"/>-->
+                        <RelativeLayout
+                            android:id="@+id/hp_vp_rg_r3"
+                            android:layout_width="@dimen/dp_58"
+                            android:layout_height="match_parent"
+                            android:layout_toLeftOf="@+id/hp_vp_rg_r4">
+
+                            <com.pbids.sanqin.component.BadgeView
+                                android:id="@+id/badge_im"
+                                style="@style/main_tab_badge"
+                                android:visibility="gone" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:id="@+id/hp_vp_rg_news"
+                                    android:layout_width="@dimen/dp_30"
+                                    android:layout_height="@dimen/dp_30"
+                                    android:src="@drawable/selector_hp_bt_news"
+                                    android:button="@null" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="消息"
+                                    android:textSize="@dimen/sp_10" />
+                            </LinearLayout>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/hp_vp_rg_r4"
+                            android:layout_width="@dimen/dp_58"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentRight="true">
+
+                            <com.pbids.sanqin.component.BadgeView
+                                android:id="@+id/badge_me"
+                                style="@style/main_tab_badge"
+                                android:visibility="gone" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <ImageView
+                                    android:id="@+id/hp_vp_rg_me"
+                                    android:layout_width="@dimen/dp_30"
+                                    android:layout_height="@dimen/dp_30"
+                                    android:src="@drawable/selectot_hp_bt_me"
+                                    android:button="@null" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="我的"
+                                    android:textSize="@dimen/sp_10" />
+                            </LinearLayout>
+                        </RelativeLayout>
+                        <!--<RadioButton-->
+                        <!--android:id="@+id/hp_vp_rg_me"-->
+                        <!--android:layout_width="@dimen/dp_70"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:layout_alignParentRight="true"-->
+                        <!--android:text="我" />-->
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+    <com.pbids.sanqin.ui.view.WaveView
+        android:id="@+id/hp_wave"
+        android:layout_width="@dimen/dp_110"
+        android:layout_height="@dimen/dp_110"
+        android:layout_gravity="center_horizontal|bottom"
+        />
+    <RelativeLayout
+        android:id="@+id/hp_door"
+        android:layout_width="@dimen/dp_68"
+        android:layout_height="@dimen/dp_85"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="@dimen/dp_4"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bogujia_button_menkou_defalt"/>
+        <ImageView
+            android:id="@+id/hp_door_circle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/bogujia_button_menkou1_defalt"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+    <!--<Button-->
+        <!--android:id="@+id/hp_door"-->
+        <!--android:layout_width="@dimen/dp_68"-->
+        <!--android:layout_height="@dimen/dp_85"-->
+        <!--android:layout_gravity="center_horizontal|bottom"-->
+        <!--android:layout_marginBottom="@dimen/dp_4"-->
+        <!--android:background="@drawable/bogujia_button_menkou_defalt" />-->
+</FrameLayout>

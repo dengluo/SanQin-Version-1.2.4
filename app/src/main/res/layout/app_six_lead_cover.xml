@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="214dp"
+        android:layout_marginLeft="@dimen/dp_40"
+        android:src="@drawable/app_six_lead_icon" />
+
+
+</FrameLayout>

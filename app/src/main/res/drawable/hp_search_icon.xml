@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/hp_search"
+    android:tileModeX="mirror"
+    android:tileModeY="mirror"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</bitmap>

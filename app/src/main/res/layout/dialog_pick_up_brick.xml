@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_280"
+        android:src="@drawable/gongxihuode2x"/>
+    
+    <TextView
+        android:id="@+id/pick_up_brick_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="砖头 x 1"
+        android:textSize="@dimen/sp_15"
+        android:textColor="@color/color_854200"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="领取后将放在祠堂的贡献里"
+        android:textSize="@dimen/sp_15"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/dp_20"/>
+    
+    <Button
+        android:id="@+id/pick_up_brick_lingqu_bt"
+        android:layout_width="@dimen/dp_150"
+        android:layout_height="@dimen/dp_40"
+        android:background="@drawable/anniu2x"
+        android:text="领取"
+        android:textColor="@color/color_854200"
+        android:textSize="@dimen/sp_19"
+        android:layout_marginTop="@dimen/dp_30"/>
+
+    <ImageView
+        android:id="@+id/pick_up_brick_cancel"
+        android:layout_width="@dimen/dp_40"
+        android:layout_height="@dimen/dp_40"
+        android:src="@drawable/quxiao2x"
+        android:layout_marginTop="@dimen/dp_40"/>
+
+</LinearLayout>

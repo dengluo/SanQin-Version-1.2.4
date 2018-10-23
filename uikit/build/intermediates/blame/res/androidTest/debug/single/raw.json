@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_no_response.mp3",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_ring.mp3",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\avchat_connecting.mp3",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\audio_end_tip.wav",
+        "source": "F:\\AsWorkspace\\SanQin-Version-1.2.4\\uikit\\build\\intermediates\\bundles\\debug\\res\\raw\\audio_end_tip.wav"
+    }
+]

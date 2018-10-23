@@ -1,0 +1,5 @@
+include ':app', ':okgo', ':okrx2', ':okserver', ':pickerview', ':library', ':uikit', ':avchatkit', ':faceunity', ':alertview'
+include ':fragmentation'
+include ':fragmentation_swipeback'
+include ':eventbus_activity_scope'
+include ':fragmentation_core'

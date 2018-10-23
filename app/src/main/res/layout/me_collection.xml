@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:scrollbars="none">-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical">-->
+            <!--<LinearLayout-->
+                <!--android:id="@+id/me_collection_onemoth_layout"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="@dimen/dp_40"-->
+                <!--android:background="#F3F3F3"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<RelativeLayout-->
+                    <!--android:layout_width="@dimen/dp_30"-->
+                    <!--android:layout_height="@dimen/dp_40"-->
+                    <!--android:visibility="gone">-->
+
+                    <!--<ImageView-->
+                        <!--android:id="@+id/me_collection_onemoth_iv"-->
+                        <!--android:layout_width="@dimen/dp_18"-->
+                        <!--android:layout_height="@dimen/dp_18"-->
+                        <!--android:layout_centerVertical="true"-->
+                        <!--android:layout_alignParentRight="true"-->
+                        <!--android:src="@drawable/selector_circle_dagou"-->
+                        <!--/>-->
+                <!--</RelativeLayout>-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="近一个月收藏"-->
+                    <!--android:layout_marginLeft="@dimen/dp_10"-->
+                    <!--android:layout_gravity="center"-->
+                    <!--android:textColor="@color/main_assist_text_color"-->
+                    <!--android:textSize="@dimen/sp_16"/>-->
+            <!--</LinearLayout>-->
+            <!--<LinearLayout-->
+                <!--android:id="@+id/me_collection_onemoth_content"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="vertical">-->
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/me_collection_threemoth_layout"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="@dimen/dp_40"-->
+                <!--android:background="#F3F3F3"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<RelativeLayout-->
+                    <!--android:layout_width="@dimen/dp_30"-->
+                    <!--android:layout_height="@dimen/dp_40"-->
+                    <!--android:visibility="gone"-->
+                    <!--&gt;-->
+
+                    <!--<ImageView-->
+                        <!--android:id="@+id/me_collection_threemoth_iv"-->
+                        <!--android:layout_width="@dimen/dp_18"-->
+                        <!--android:layout_height="@dimen/dp_18"-->
+                        <!--android:layout_centerVertical="true"-->
+                        <!--android:layout_alignParentRight="true"-->
+                        <!--android:src="@drawable/selector_circle_dagou"-->
+                        <!--/>-->
+                <!--</RelativeLayout>-->
+                <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="近三个月收藏"-->
+                    <!--android:layout_gravity="center"-->
+                    <!--android:layout_marginLeft="@dimen/dp_10"-->
+                    <!--android:textColor="@color/main_assist_text_color"-->
+                    <!--android:textSize="@dimen/sp_16"/>-->
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:id="@+id/me_collection_threemoth_content"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="vertical">-->
+
+            <!--</LinearLayout>-->
+        <!--</LinearLayout>-->
+    <!--</ScrollView>-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/me_collection_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>

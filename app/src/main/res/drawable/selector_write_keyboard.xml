@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/colorPrimary"></item>
+    <item android:drawable="@drawable/shap_write_gray_noradius"></item>
+</selector>

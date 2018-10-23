@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/main_bg_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_30"
+        android:layout_marginTop="@dimen/dp_10"
+        android:paddingLeft="@dimen/dp_15"
+        android:text="组名称"
+        android:textSize="@dimen/sp_15"
+        android:gravity="center_vertical"
+        android:textColor="@color/main_assist_text_color"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"></View>
+    <EditText
+        android:id="@+id/zq_add_group_et"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:paddingLeft="@dimen/dp_15"
+        android:background="@color/white"
+        android:hint="请填写您需要添加的组名称"
+        android:textColorHint="@color/main_assist_text_color"
+        android:textSize="@dimen/sp_17"
+        android:textColor="@color/main_title_text_color"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"></View>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:layout_marginTop="@dimen/dp_10"
+        android:background="@color/main_line_color"></View>
+
+    <TextView
+        android:id="@+id/zongquan_group_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="+添加成员"
+        android:textColor="@color/main_title_text_color"
+        android:textSize="@dimen/sp_18" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"></View>
+
+</LinearLayout>

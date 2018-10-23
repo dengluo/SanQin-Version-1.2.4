@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_15"
+    android:background="@color/white"
+    android:layout_gravity="center"
+    android:layout_width="@dimen/dp_330"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="打赏成功"
+        android:textSize="@dimen/sp_18"
+        android:textStyle="bold"
+        android:textColor="@color/main_color"
+        />
+    <ImageView
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_100"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/dp_20"
+        android:layout_marginTop="@dimen/dp_20"
+        android:src="@drawable/information_print_dashangchenggong_default_"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/sp_18"
+        android:textColor="@color/main_color"
+        android:text="您的鼓励是我们的动力"/>
+
+    <Button
+        android:id="@+id/pay_success_bt"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:layout_marginRight="@dimen/dp_20"
+        android:background="@drawable/selector_app_comfirm"
+        style="?android:attr/borderlessButtonStyle"
+        android:text="我看好你们,好好干!"
+        android:textSize="@dimen/sp_16"
+        android:textColor="@color/white"/>
+</LinearLayout>

@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/dp_2"></corners>
+    <solid android:color="#A62A0E"></solid>
+</shape>

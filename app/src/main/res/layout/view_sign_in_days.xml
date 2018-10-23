@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:layout_width="@dimen/dp_300"
+    android:layout_height="@dimen/dp_80">
+
+        <TextView
+            android:id="@+id/day_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_7"
+            android:text="今天"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_49"
+            android:text="明天"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_96"
+            android:text="12.1"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_142"
+            android:text="12.2"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_189"
+            android:text="12.3"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginLeft="@dimen/dp_236"
+            android:text="12.4"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/day_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/zong_quan_progress"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="@dimen/dp_1"
+            android:layout_marginRight="@dimen/dp_7"
+            android:text="12.5"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_4"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="1威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_46"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="2威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_93"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="3威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_139"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="3威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_186"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="3威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginLeft="@dimen/dp_233"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="3威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/prestige_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/zong_quan_progress"
+            android:layout_marginRight="@dimen/dp_4"
+            android:layout_marginTop="@dimen/dp_1"
+            android:text="6威望"
+            android:textColor="@color/main_remind_color_aother"
+            android:textSize="@dimen/sp_8" />
+
+        <TextView
+            android:id="@+id/hp_news_index_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/prestige_2"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/dp_92"
+            android:layout_marginTop="@dimen/dp_2"
+            android:background="@drawable/shape_red_radius_index"
+            android:paddingBottom="@dimen/dp_1"
+            android:paddingLeft="@dimen/dp_2"
+            android:paddingRight="@dimen/dp_2"
+            android:paddingTop="@dimen/dp_0_5"
+            android:text="3块砖"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_8" />
+
+        <com.pbids.sanqin.ui.view.MutiProgress
+            android:id="@+id/zong_quan_progress"
+            android:layout_width="@dimen/dp_280"
+            android:layout_height="@dimen/dp_10"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/dp_5"
+            android:layout_marginRight="@dimen/dp_5"
+            app:currNodeNO="1"
+            app:currNodeState="1"
+            app:nodeRadius="5dp"
+            app:nodesNum="7"
+            app:processingLineColor="#A62A0E"
+            app:progresFailDrawable="@drawable/progress_circle_red"
+            app:progresSuccDrawable="@drawable/progress_circle_red"
+            app:progressingDrawable="@drawable/progress_circle_red"
+            app:unprogressingDrawable="@drawable/progress_circle_gray" />
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_40">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="您的入群数量已达到3个，如需加入新群需先退出已加入的群，方可加入新群"
+        android:textSize="@dimen/sp_19"
+        android:textColor="#333333"
+        />
+
+    <Button
+        android:id="@+id/add_team_faild_ok_bt"
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_40"
+        android:background="@drawable/shape_app_comfirm_normal"
+        android:text="好的"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dp_40"
+        android:textSize="@dimen/sp_19" />
+
+</LinearLayout>

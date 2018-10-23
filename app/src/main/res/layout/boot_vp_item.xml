@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/boot_vp_item_im"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"/>
+        <!--<Button-->
+            <!--android:id="@+id/bp_bt"-->
+            <!--android:layout_width="@dimen/dp_60"-->
+            <!--android:layout_height="@dimen/dp_30"-->
+            <!--android:layout_gravity="right|top"-->
+            <!--android:layout_marginRight="@dimen/dp_15"-->
+            <!--android:layout_marginTop="@dimen/dp_20"-->
+            <!--android:visibility="gone"-->
+            <!--style="?android:attr/borderlessButtonStyle"-->
+            <!--android:text="跳过(3)"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:textSize="@dimen/sp_14"-->
+            <!--android:background="#60000000"/>-->
+    </FrameLayout>
+</LinearLayout>

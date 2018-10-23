@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_0_5"
+        android:background="@color/main_line_color"
+        android:layout_marginTop="@dimen/dp_5"/>
+    <LinearLayout
+        android:id="@+id/item_cases_xiala_lin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_60"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="@dimen/dp_10"
+        >
+
+        <TextView
+            android:id="@+id/item_cases_crowd_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="点击下拉"
+            android:textColor="@color/team_name_member_count"
+            android:textSize="@dimen/sp_19"/>
+
+        <TextView
+            android:id="@+id/item_cases_crowd_count"
+            android:layout_width="@dimen/dp_0"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="(10)"
+            android:layout_weight="1"
+            android:textColor="@color/team_name_member_count"
+            android:textSize="@dimen/sp_19"/>
+        <ImageView
+            android:id="@+id/me_home_campaign_right_arrow"
+            android:layout_width="@dimen/dp_30"
+            android:layout_height="@dimen/dp_30"
+            android:src="@drawable/me_button_xiayiye_default" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/item_cases_crowd_rcy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
